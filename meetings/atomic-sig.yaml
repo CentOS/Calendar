@@ -1,0 +1,11 @@
+project:  Atomic SIG
+project_url: http://wiki.centos.org/SpecialInterestGroup/Atomic
+schedule:
+  - time:       '1600'
+    day:        Thursday
+    irc:        centos-devel
+    frequency:  weekly
+chair:  Joe Brockmeier (jzb)
+description: >
+    The SIG is working on several goals including shipping a minimal CentOS
+    Atomic Host that focuses on running Docker containers in production.

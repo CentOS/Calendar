@@ -1,0 +1,14 @@
+project:  Software Collections SIG Sync-up
+project_url: http://wiki.centos.org/SpecialInterestGroup/SCLo
+meeting_id: SCLo SIG sync-up meeting
+schedule:
+  - time:       '1500'
+    day:        Wednesday
+    irc:        centos-devel
+    frequency:  biweekly-even
+chair:  Honza Horak (hhorak)
+description: >
+    The Software Collections SIG will provide an upstream development area for
+    various software collections and related tools. Developers can build on and
+    extend existing SCLs, so they don't need to re-invent the wheel or take
+    responsibility for packaging unnecessary dependencies. 

@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yaml2ical agendas//EN
+BEGIN:VEVENT
+SUMMARY:Atomic SIG
+DTSTART;VALUE=DATE-TIME:20150611T160000Z
+DURATION:PT1H
+DESCRIPTION:Project:  Atomic SIG\nChair:  Joe Brockmeier (jzb)\nDescriptio
+ n:  The SIG is working on several goals including shipping a minimal CentO
+ S Atomic Host that focuses on running Docker containers in production.\n
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karanbir Singh Office Hours
+DTSTART;VALUE=DATE-TIME:20150611T083000Z
+DURATION:PT1H
+DESCRIPTION:Project:  Karanbir Singh Office Hours\nChair:  Karanbir Singh 
+ (kbsingh)\nDescription:  Note: This meeting will be 1/2 hour long.\n\nI am
+  going to make myself available to anyone who wants to come along and\ntal
+ k about CentOS Linux\, the CentOS Project\, the SIGs or anything else that
+ \nis related to these.  During this time\, you can find me on #centos-deve
+ l @\nirc.freenode.net as kbsingh\, and you can also call me on the phone\n
+ at +44 207 009 4455.\n
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karanbir Singh Office Hours
+DTSTART;VALUE=DATE-TIME:20150615T160000Z
+DURATION:PT1H
+DESCRIPTION:Project:  Karanbir Singh Office Hours\nChair:  Karanbir Singh 
+ (kbsingh)\nDescription:  Note: This meeting will be 1/2 hour long.\n\nI am
+  going to make myself available to anyone who wants to come along and\ntal
+ k about CentOS Linux\, the CentOS Project\, the SIGs or anything else that
+ \nis related to these.  During this time\, you can find me on #centos-deve
+ l @\nirc.freenode.net as kbsingh\, and you can also call me on the phone\n
+ at +44 207 009 4455.\n
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Storage SIG
+DTSTART;VALUE=DATE-TIME:20150619T153000Z
+DURATION:PT1H
+DESCRIPTION:Project:  Storage SIG\nChair:  Karabir Singh (kbsingh) and Lal
+ atendu Mohanty (lalatenduM)\nDescription:  The CentOS Storage Special Inte
+ rest Group (SIG) is a collection of like-minded individuals coming togethe
+ r to ensure that CentOS is a suitable platform for many different storage 
+ solutions. This group will ensure that all Open Source storage options see
+ king to utilize CentOS as a delivery platform have a voice in packaging\, 
+ orchestration\, deployment\, and related work. \n
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY;INTERVAL=2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software Collections SIG Sync-up
+DTSTART;VALUE=DATE-TIME:20150624T150000Z
+DURATION:PT1H
+DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Honza Hora
+ k (hhorak)\nDescription:  The Software Collections SIG will provide an ups
+ tream development area for various software collections and related tools.
+  Developers can build on and extend existing SCLs\, so they don't need to 
+ re-invent the wheel or take responsibility for packaging unnecessary depen
+ dencies. \n
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY;INTERVAL=2
+END:VEVENT
+END:VCALENDAR

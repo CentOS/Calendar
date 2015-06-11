@@ -1,0 +1,14 @@
+project:  Storage SIG
+project_url: http://wiki.centos.org/SpecialInterestGroup/Storage
+schedule:
+  - time:       '1530'
+    day:        Friday
+    irc:        centos-devel
+    frequency:  biweekly-odd
+chair:  Karabir Singh (kbsingh) and Lalatendu Mohanty (lalatenduM)
+description: >
+    The CentOS Storage Special Interest Group (SIG) is a collection of like-minded
+    individuals coming together to ensure that CentOS is a suitable platform for
+    many different storage solutions. This group will ensure that all Open
+    Source storage options seeking to utilize CentOS as a delivery platform have
+    a voice in packaging, orchestration, deployment, and related work. 
