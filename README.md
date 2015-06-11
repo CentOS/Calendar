@@ -4,7 +4,7 @@ This project aims to provide an easier way to track CentOS related meetings. Eve
 
 For the actual calendar, please see XXX.  Instructions for adding or changing a meeting are also there.
 
-This system is based on the fantastic work done by the OpenStack Project as documented at https://git.openstack.org/openstack-infra/irc-meetings for managing their internal meetings.
+This system is based on the fantastic work done by the OpenStack Project as documented at https://github.com/openstack-infra/irc-meetings for managing their internal meetings.
 
 # YAML Meeting File Format
 
