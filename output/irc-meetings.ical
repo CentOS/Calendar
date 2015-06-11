@@ -66,4 +66,17 @@ DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Honza Hora
 LOCATION:#centos-devel
 RRULE:FREQ=WEEKLY;INTERVAL=2
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Buildsystem & Infrastructure Meeting
+DTSTART;VALUE=DATE-TIME:20150622T170000Z
+DURATION:PT1H
+DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
+ r:  Brian Stinson (bstinson)\, Fabian Arrotin (Arrfab)\, Karanbir Singh (k
+ bsingh)\, Thomas Oulevey (alphacc)\nDescription:  The CBS/Infra meeting is
+  for discussing and coordinating operations in the Community Buildsystem. 
+ Anyone are welcome to attend and discuss client tools\, jobs in the builds
+ ystem\, feature requests\, and anything related.\n
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY;INTERVAL=2
+END:VEVENT
 END:VCALENDAR
