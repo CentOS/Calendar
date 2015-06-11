@@ -1,0 +1,20 @@
+project:  Karanbir Singh Office Hours
+project_url: http://www.karan.org/blog/2015/06/08/regular-office-hours/
+schedule:
+  - time:       '0830'
+    day:        Thursday
+    irc:        centos-devel
+    frequency:  weekly
+  - time:       '1600'
+    day:        Monday
+    irc:        centos-devel
+    frequency:  weekly
+chair:  Karanbir Singh (kbsingh)
+description: |
+    Note: This meeting will be 1/2 hour long.
+
+    I am going to make myself available to anyone who wants to come along and
+    talk about CentOS Linux, the CentOS Project, the SIGs or anything else that
+    is related to these.  During this time, you can find me on #centos-devel @
+    irc.freenode.net as kbsingh, and you can also call me on the phone
+    at +44 207 009 4455.

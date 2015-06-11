@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>CentOS IRC meetings</title>
+</head>
+<body>
+
+<h1>CentOS IRC meetings</h1>
+
+<h2>Meeting schedule</h2>
+<p>
+<p>The IRC meetings schedule is driven by the
+<a href=https://github.com/CentOS/Calendar>github.com/CentOS/Calendar</a> repository.  To propose a change or add a meeting, please submit a pull-request to that git-hub repository.  This repository is mirrored to git.centos.org.</p>
+
+<p>Here is the link to a `.ical` file containing all CentOS IRC meetings, for use in your favorite calendaring app:</p>
+<ul>
+<li><a href="http://www.centos.org/irc-meetings.ical">iCalendar Meeting Schedule</a><br/></li>
+</ul>
+
+<p>A <a href="#list">list of all meetings</a> is also available below.</p>
+
+<h2>Logging</h2>
+<p>CentOS IRC channels and meetings are logged. You can find them <a href="http://www.centos.org/minutes/">here</a>.</p>
+
+<h2 id="list">Meeting List</h2>
+<p>Here is a list of current meetings with their descriptions:</p>
+<ul>
+{% for meeting in meetings|sort(attribute='project') %}
+<li><a href="#{{ meeting.project|replace(' ', '_') }}">{{ meeting.project }}</a></li>
+{% endfor %}
+</ul>
+
+{% for meeting in meetings|sort(attribute='project') %}
+<a id="{{ meeting.project|replace(' ', '_') }}"><h3>{{ meeting.project }}</h3></a>
+
+<ul>
+{% for schedule in meeting.schedules %}
+<li>{{ schedule.recurrence }} on {{ schedule.day }} at
+<a href="http://www.timeanddate.com/worldclock/fixedtime.html?hour={{ schedule.utc[:2] }}&amp;min={{ schedule.utc[2:] }}&amp;sec=0">{{ schedule.utc }} UTC</a>
+in #{{ schedule.irc }}</li>
+{% endfor %}
+<li>Chair (to contact for more information): {{ meeting.chair }}</li>
+{% if meeting.extras.project_url %}
+<li><a href="{{meeting.extras.project_url}}">Link to Project Site</a>
+{% endif %}
+<li>{{ meeting.description|urlize }}</li>
+{% if meeting.extras.agenda_url %}
+<li><a href="{{meeting.extras.agenda_url}}">Link to Agenda</a>
+{% endif %}
+</ul>
+
+{% endfor %}
+<small>Page generated on {{ timestamp }} UTC</small>
+</body>
+</html>
