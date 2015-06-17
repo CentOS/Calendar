@@ -63,4 +63,4 @@ will be import into Python as a dictionary.
 
 To create the output files, run yaml2ical (https://github.com/openstack-infra/yaml2ical).  A container, bexelbie/yaml2ical has been created to assist with this.  Using the container, run:
 
-    docker run --rm=true --privileged -u `id -u`:`id -g` -v `pwd`:/workdir bexelbie/yaml2ical -y meetings -o output/irc-meetings.ical -t list.jinja -w output/index.html -f
+    docker run --rm=true --privileged -u `id -u`:`id -g` -v `pwd`:/workdir bexelbie/yaml2ical -y meetings -o output/irc-meetings.ical -t list.jinja -w output/index.html -f -n "CentOS Meetings" -d "Meeting schedule for the CentOS Project and SIGS"
