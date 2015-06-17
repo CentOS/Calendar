@@ -1,41 +1,44 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//yaml2ical agendas//EN
+X-WR-CALDESC:Meeting schedule for the CentOS Project and SIGS
+X-WR-CALNAME:CentOS Meetings
 BEGIN:VEVENT
 SUMMARY:Atomic SIG
-DTSTART;VALUE=DATE-TIME:20150611T160000Z
+DTSTART;VALUE=DATE-TIME:20150618T160000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Atomic SIG\nChair:  Joe Brockmeier (jzb)\nDescriptio
  n:  The SIG is working on several goals including shipping a minimal CentO
- S Atomic Host that focuses on running Docker containers in production.\n
+ S Atomic Host that focuses on running Docker containers in production.\n\n
+ Project URL:  http://wiki.centos.org/SpecialInterestGroup/Atomic
 LOCATION:#centos-devel
 RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karanbir Singh Office Hours
-DTSTART;VALUE=DATE-TIME:20150611T083000Z
-DURATION:PT1H
+DTSTART;VALUE=DATE-TIME:20150618T083000Z
+DURATION:PT30M
 DESCRIPTION:Project:  Karanbir Singh Office Hours\nChair:  Karanbir Singh 
- (kbsingh)\nDescription:  Note: This meeting will be 1/2 hour long.\n\nI am
-  going to make myself available to anyone who wants to come along and\ntal
- k about CentOS Linux\, the CentOS Project\, the SIGs or anything else that
- \nis related to these.  During this time\, you can find me on #centos-deve
- l @\nirc.freenode.net as kbsingh\, and you can also call me on the phone\n
- at +44 207 009 4455.\n
+ (kbsingh)\nDescription:  I am going to make myself available to anyone who
+  wants to come along and\ntalk about CentOS Linux\, the CentOS Project\, t
+ he SIGs or anything else that\nis related to these.  During this time\, yo
+ u can find me on #centos-devel @\nirc.freenode.net as kbsingh\, and you ca
+ n also call me on the phone\nat +44 207 009 4455.\n\nProject URL:  http://
+ www.karan.org/blog/2015/06/08/regular-office-hours/
 LOCATION:#centos-devel
 RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karanbir Singh Office Hours
-DTSTART;VALUE=DATE-TIME:20150615T160000Z
-DURATION:PT1H
+DTSTART;VALUE=DATE-TIME:20150622T160000Z
+DURATION:PT30M
 DESCRIPTION:Project:  Karanbir Singh Office Hours\nChair:  Karanbir Singh 
- (kbsingh)\nDescription:  Note: This meeting will be 1/2 hour long.\n\nI am
-  going to make myself available to anyone who wants to come along and\ntal
- k about CentOS Linux\, the CentOS Project\, the SIGs or anything else that
- \nis related to these.  During this time\, you can find me on #centos-deve
- l @\nirc.freenode.net as kbsingh\, and you can also call me on the phone\n
- at +44 207 009 4455.\n
+ (kbsingh)\nDescription:  I am going to make myself available to anyone who
+  wants to come along and\ntalk about CentOS Linux\, the CentOS Project\, t
+ he SIGs or anything else that\nis related to these.  During this time\, yo
+ u can find me on #centos-devel @\nirc.freenode.net as kbsingh\, and you ca
+ n also call me on the phone\nat +44 207 009 4455.\n\nProject URL:  http://
+ www.karan.org/blog/2015/06/08/regular-office-hours/
 LOCATION:#centos-devel
 RRULE:FREQ=WEEKLY
 END:VEVENT
@@ -49,7 +52,8 @@ DESCRIPTION:Project:  Storage SIG\nChair:  Karabir Singh (kbsingh) and Lal
  r to ensure that CentOS is a suitable platform for many different storage 
  solutions. This group will ensure that all Open Source storage options see
  king to utilize CentOS as a delivery platform have a voice in packaging\, 
- orchestration\, deployment\, and related work. \n
+ orchestration\, deployment\, and related work. \n\nProject URL:  http://wi
+ ki.centos.org/SpecialInterestGroup/Storage
 LOCATION:#centos-devel
 RRULE:FREQ=WEEKLY;INTERVAL=2
 END:VEVENT
@@ -62,7 +66,8 @@ DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Honza Hora
  tream development area for various software collections and related tools.
   Developers can build on and extend existing SCLs\, so they don't need to 
  re-invent the wheel or take responsibility for packaging unnecessary depen
- dencies. \n
+ dencies. \n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/SCL
+ o
 LOCATION:#centos-devel
 RRULE:FREQ=WEEKLY;INTERVAL=2
 END:VEVENT
@@ -75,7 +80,8 @@ DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
  bsingh)\, Thomas Oulevey (alphacc)\nDescription:  The CBS/Infra meeting is
   for discussing and coordinating operations in the Community Buildsystem. 
  Anyone are welcome to attend and discuss client tools\, jobs in the builds
- ystem\, feature requests\, and anything related.\n
+ ystem\, feature requests\, and anything related.\n\nProject URL:  http://w
+ iki.centos.org/HowTos/CommunityBuildSystem
 LOCATION:#centos-devel
 RRULE:FREQ=WEEKLY;INTERVAL=2
 END:VEVENT
