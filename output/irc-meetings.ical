@@ -30,7 +30,7 @@ RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karanbir Singh Office Hours
-DTSTART;VALUE=DATE-TIME:20150622T160000Z
+DTSTART;VALUE=DATE-TIME:20150624T160000Z
 DURATION:PT30M
 DESCRIPTION:Project:  Karanbir Singh Office Hours\nChair:  Karanbir Singh 
  (kbsingh)\nDescription:  I am going to make myself available to anyone who
