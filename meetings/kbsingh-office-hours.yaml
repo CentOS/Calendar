@@ -8,7 +8,7 @@ schedule:
     frequency:  weekly
   - time:       '1600'
     duration:   30
-    day:        Monday
+    day:        Wednesday
     irc:        centos-devel
     frequency:  weekly
 chair:  Karanbir Singh (kbsingh)
