@@ -1,7 +1,7 @@
 project: Community Buildsystem & Infrastructure Meeting
 project_url: http://wiki.centos.org/HowTos/CommunityBuildSystem
 schedule:
-    - time:      '1700'
+    - time:      '1400'
       day:       Monday
       irc:       centos-devel
       frequency: biweekly-even
