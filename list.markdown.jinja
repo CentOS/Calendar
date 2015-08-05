@@ -1,0 +1,40 @@
+# CentOS IRC meetings
+
+## Meeting schedule
+
+The IRC meetings schedule is driven by the [github.com/CentOS/Calendar](https://github.com/CentOS/Calendar) repository.  To propose a change or add a meeting, please submit a pull-request to that git-hub repository.  This repository is mirrored to git.centos.org.
+
+Here is the link to a `.ical` file containing all CentOS IRC meetings, for use in your favorite calendaring app: [iCalendar Meeting Schedule](https://git.centos.org/raw/sig-core!calendar.git/master/output!irc-meetings.ical)
+
+A [list of all meetings](#list) is available below.
+
+## Logging
+
+CentOS IRC channels and meetings are logged. You can find them [here](http://www.centos.org/minutes/).
+
+## <a name="list">Meeting List</a>
+
+Here is a list of current meetings with their descriptions:
+
+{% for meeting in meetings|sort(attribute='project') %}
+* [{{ meeting.project }}](#{{ meeting.project|replace(' ', '_') }})
+{% endfor %}
+
+{% for meeting in meetings|sort(attribute='project') %}
+### <a name="{{ meeting.project|replace(' ', '_') }}">{{ meeting.project }}</a>
+
+{% for schedule in meeting.schedules %}
+* {{ schedule.recurrence }} on {{ schedule.day }} at [{{ schedule.utc }} UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour={{ schedule.utc[:2] }}&amp;min={{ schedule.utc[2:] }}&amp;sec=0) in #{{ schedule.irc }}
+{% endfor %}
+* Chair (to contact for more information): {{ meeting.chair }}
+{% if meeting.extras.project_url %}
+* [Link to Project Site]({{meeting.extras.project_url}})
+{% endif %}
+* {{ meeting.description|urlize }}
+{% if meeting.extras.agenda_url %}
+* [Link to Agenda]({{meeting.extras.agenda_url}})
+{% endif %}
+
+{% endfor %}
+
+Page generated on {{ timestamp }} UTC
