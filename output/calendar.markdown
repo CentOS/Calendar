@@ -43,7 +43,7 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 ### <a name="Community_Buildsystem_&_Infrastructure_Meeting">Community Buildsystem & Infrastructure Meeting</a>
 
-* Every two weeks (on even weeks) on Monday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #centos-devel
+* Every two weeks (on even weeks) on Monday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-devel
 * Chair (to contact for more information): Brian Stinson (bstinson), Fabian Arrotin (Arrfab), Karanbir Singh (kbsingh), Thomas Oulevey (alphacc)
 * [Link to Project Site](http://wiki.centos.org/HowTos/CommunityBuildSystem)
 * The CBS/Infra meeting is for discussing and coordinating operations in the Community Buildsystem. Anyone are welcome to attend and discuss client tools, jobs in the buildsystem, feature requests, and anything related.
@@ -79,4 +79,4 @@ at +44 207 009 4455.
 
 
 
-Page generated on 2015-06-22 14:47:42.409749 UTC
+Page generated on 2015-10-02 09:44:56.544238 UTC

@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yaml2ical agendas//EN
+X-WR-CALDESC:Meeting schedule for the CentOS Project and SIGS
+X-WR-CALNAME:CentOS Meetings
+BEGIN:VEVENT
+SUMMARY:Cloud SIG
+DTSTART;VALUE=DATE-TIME:20151008T150000Z
+DURATION:PT1H
+DESCRIPTION:Project:  Cloud SIG\nChair:  Rich Bowen (rbowen) and Kushal Da
+ s (kushal)\nDescription:  The proposed CentOS Cloud SIG (CCS) is a group o
+ f people coming together to focus on packaging and maintaining different F
+ OSS based Private cloud infrastructure applications that one can install a
+ nd run natively on CentOS. We are a non vendor\, non technology and non ag
+ ent specific focus group\, but we will gladly work with and build content 
+ to suit relevant niches or vendor ecosystems. This group specifically targ
+ ets users who wish to install and run their own\, independent ( or hybrid 
+ ) cloud infrastructure on CentOS Linux.\n\nThe CCS intends to take ownersh
+ ip of existing CentOS Project relationships with vendors\, and help to mai
+ ntain the updated package repositories for all participating cloud project
+ s. \n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/Cloud
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atomic SIG
+DTSTART;VALUE=DATE-TIME:20151008T160000Z
+DURATION:PT1H
+DESCRIPTION:Project:  Atomic SIG\nChair:  Joe Brockmeier (jzb)\nDescriptio
+ n:  The SIG is working on several goals including shipping a minimal CentO
+ S Atomic Host that focuses on running Docker containers in production.\n\n
+ Project URL:  http://wiki.centos.org/SpecialInterestGroup/Atomic
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karanbir Singh Office Hours
+DTSTART;VALUE=DATE-TIME:20151008T083000Z
+DURATION:PT30M
+DESCRIPTION:Project:  Karanbir Singh Office Hours\nChair:  Karanbir Singh 
+ (kbsingh)\nDescription:  I am going to make myself available to anyone who
+  wants to come along and\ntalk about CentOS Linux\, the CentOS Project\, t
+ he SIGs or anything else that\nis related to these.  During this time\, yo
+ u can find me on #centos-devel @\nirc.freenode.net as kbsingh\, and you ca
+ n also call me on the phone\nat +44 207 009 4455.\n\nProject URL:  http://
+ www.karan.org/blog/2015/06/08/regular-office-hours/
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karanbir Singh Office Hours
+DTSTART;VALUE=DATE-TIME:20151007T160000Z
+DURATION:PT30M
+DESCRIPTION:Project:  Karanbir Singh Office Hours\nChair:  Karanbir Singh 
+ (kbsingh)\nDescription:  I am going to make myself available to anyone who
+  wants to come along and\ntalk about CentOS Linux\, the CentOS Project\, t
+ he SIGs or anything else that\nis related to these.  During this time\, yo
+ u can find me on #centos-devel @\nirc.freenode.net as kbsingh\, and you ca
+ n also call me on the phone\nat +44 207 009 4455.\n\nProject URL:  http://
+ www.karan.org/blog/2015/06/08/regular-office-hours/
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Storage SIG
+DTSTART;VALUE=DATE-TIME:20151009T153000Z
+DURATION:PT1H
+DESCRIPTION:Project:  Storage SIG\nChair:  Karabir Singh (kbsingh) and Lal
+ atendu Mohanty (lalatenduM)\nDescription:  The CentOS Storage Special Inte
+ rest Group (SIG) is a collection of like-minded individuals coming togethe
+ r to ensure that CentOS is a suitable platform for many different storage 
+ solutions. This group will ensure that all Open Source storage options see
+ king to utilize CentOS as a delivery platform have a voice in packaging\, 
+ orchestration\, deployment\, and related work. \n\nProject URL:  http://wi
+ ki.centos.org/SpecialInterestGroup/Storage
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY;INTERVAL=2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software Collections SIG Sync-up
+DTSTART;VALUE=DATE-TIME:20151014T150000Z
+DURATION:PT1H
+DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Honza Hora
+ k (hhorak)\nDescription:  The Software Collections SIG will provide an ups
+ tream development area for various software collections and related tools.
+  Developers can build on and extend existing SCLs\, so they don't need to 
+ re-invent the wheel or take responsibility for packaging unnecessary depen
+ dencies. \n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/SCL
+ o
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY;INTERVAL=2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Buildsystem & Infrastructure Meeting
+DTSTART;VALUE=DATE-TIME:20151012T140000Z
+DURATION:PT1H
+DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
+ r:  Brian Stinson (bstinson)\, Fabian Arrotin (Arrfab)\, Karanbir Singh (k
+ bsingh)\, Thomas Oulevey (alphacc)\nDescription:  The CBS/Infra meeting is
+  for discussing and coordinating operations in the Community Buildsystem. 
+ Anyone are welcome to attend and discuss client tools\, jobs in the builds
+ ystem\, feature requests\, and anything related.\n\nProject URL:  http://w
+ iki.centos.org/HowTos/CommunityBuildSystem
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY;INTERVAL=2
+END:VEVENT
+END:VCALENDAR
