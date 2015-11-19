@@ -51,8 +51,8 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 ### <a name="Karanbir_Singh_Office_Hours">Karanbir Singh Office Hours</a>
 
-* Weekly on Thursday at [0830 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=08&amp;min=30&amp;sec=0) in #centos-devel
-* Weekly on Wednesday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-devel
+* Weekly on Thursday at [0930 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=09&amp;min=30&amp;sec=0) in #centos-devel
+* Weekly on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #centos-devel
 * Chair (to contact for more information): Karanbir Singh (kbsingh)
 * [Link to Project Site](http://www.karan.org/blog/2015/06/08/regular-office-hours/)
 * I am going to make myself available to anyone who wants to come along and
@@ -79,4 +79,4 @@ at +44 207 009 4455.
 
 
 
-Page generated on 2015-10-02 09:44:56.544238 UTC
+Page generated on 2015-11-19 19:41:40.946223 UTC
