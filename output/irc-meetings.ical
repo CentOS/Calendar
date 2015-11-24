@@ -78,7 +78,7 @@ RRULE:FREQ=WEEKLY;INTERVAL=2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Collections SIG Sync-up
-DTSTART;VALUE=DATE-TIME:20151125T150000Z
+DTSTART;VALUE=DATE-TIME:20151125T160000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Honza Hora
  k (hhorak)\nDescription:  The Software Collections SIG will provide an ups
