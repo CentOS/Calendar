@@ -4,7 +4,7 @@ schedule:
     - time:      '1400'
       day:       Monday
       irc:       centos-devel
-      frequency: biweekly-even
+      frequency: weekly
 chair: Brian Stinson (bstinson), Fabian Arrotin (Arrfab), Karanbir Singh (kbsingh), Thomas Oulevey (alphacc)
 description: >
     The CBS/Infra meeting is for discussing and coordinating operations in the
