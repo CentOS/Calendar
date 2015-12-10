@@ -5,7 +5,7 @@ X-WR-CALDESC:Meeting schedule for the CentOS Project and SIGS
 X-WR-CALNAME:CentOS Meetings
 BEGIN:VEVENT
 SUMMARY:Cloud SIG
-DTSTART;VALUE=DATE-TIME:20151119T150000Z
+DTSTART;VALUE=DATE-TIME:20151210T150000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Cloud SIG\nChair:  Rich Bowen (rbowen) and Kushal Da
  s (kushal)\nDescription:  The proposed CentOS Cloud SIG (CCS) is a group o
@@ -24,7 +24,7 @@ RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atomic SIG
-DTSTART;VALUE=DATE-TIME:20151119T160000Z
+DTSTART;VALUE=DATE-TIME:20151210T160000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Atomic SIG\nChair:  Joe Brockmeier (jzb)\nDescriptio
  n:  The SIG is working on several goals including shipping a minimal CentO
@@ -35,7 +35,7 @@ RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karanbir Singh Office Hours
-DTSTART;VALUE=DATE-TIME:20151119T093000Z
+DTSTART;VALUE=DATE-TIME:20151210T093000Z
 DURATION:PT30M
 DESCRIPTION:Project:  Karanbir Singh Office Hours\nChair:  Karanbir Singh 
  (kbsingh)\nDescription:  I am going to make myself available to anyone who
@@ -49,7 +49,7 @@ RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karanbir Singh Office Hours
-DTSTART;VALUE=DATE-TIME:20151125T170000Z
+DTSTART;VALUE=DATE-TIME:20151216T170000Z
 DURATION:PT30M
 DESCRIPTION:Project:  Karanbir Singh Office Hours\nChair:  Karanbir Singh 
  (kbsingh)\nDescription:  I am going to make myself available to anyone who
@@ -63,7 +63,7 @@ RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Storage SIG
-DTSTART;VALUE=DATE-TIME:20151120T153000Z
+DTSTART;VALUE=DATE-TIME:20151218T153000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Storage SIG\nChair:  Karabir Singh (kbsingh) and Lal
  atendu Mohanty (lalatenduM)\nDescription:  The CentOS Storage Special Inte
@@ -78,7 +78,7 @@ RRULE:FREQ=WEEKLY;INTERVAL=2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Collections SIG Sync-up
-DTSTART;VALUE=DATE-TIME:20151125T160000Z
+DTSTART;VALUE=DATE-TIME:20151223T160000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Honza Hora
  k (hhorak)\nDescription:  The Software Collections SIG will provide an ups
@@ -92,7 +92,7 @@ RRULE:FREQ=WEEKLY;INTERVAL=2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Buildsystem & Infrastructure Meeting
-DTSTART;VALUE=DATE-TIME:20151123T140000Z
+DTSTART;VALUE=DATE-TIME:20151214T140000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
  r:  Brian Stinson (bstinson)\, Fabian Arrotin (Arrfab)\, Karanbir Singh (k
@@ -102,6 +102,6 @@ DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
  ystem\, feature requests\, and anything related.\n\nProject URL:  http://w
  iki.centos.org/HowTos/CommunityBuildSystem
 LOCATION:#centos-devel
-RRULE:FREQ=WEEKLY;INTERVAL=2
+RRULE:FREQ=WEEKLY
 END:VEVENT
 END:VCALENDAR
