@@ -1,0 +1,14 @@
+project: Config Management SIG
+project_url: https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG
+meeting_id: Config Management SIG regular meeting
+schedule:
+  - time:       '1600'
+    day:        Wednesday
+    irc:        centos-devel
+    frequency:  biweekly-odd
+chair:  Julien Pivotto (roidelapluie)
+description: >
+  The Config Management SIG is a SpecialInterestGroup that aims to bridge
+  the gap between Config Management tools Power users and traditional users
+  by producing and release RPM packages of several Configuration Management
+  and Orchestration tools.
