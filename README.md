@@ -2,7 +2,12 @@
 
 This project aims to provide an easier way to track CentOS related meetings. Every project meeting is defined by a YAML files.  These are combined using yaml2ical into a web page listing all meetings and an `.ical` file that can be read by your calendaring application of choice.
 
-For the actual calendar, please see (soon to be published url or output/index.html).  Instructions for adding or changing a meeting are also there.
+For the actual calendar, please see:
+
+* [CentOS IRC meetings schedule](https://www.centos.org/community/calendar/)
+* [iCalendar meeting schedule (.ics)](https://git.centos.org/raw/sig-core!calendar.git/master/output!irc-meetings.ical)
+
+Instructions for adding or changing a meeting are also there.
 
 This system is based on the fantastic work done by the OpenStack Project as documented at https://github.com/openstack-infra/irc-meetings for managing their internal meetings.
 
