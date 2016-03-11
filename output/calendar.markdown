@@ -19,6 +19,7 @@ Here is a list of current meetings with their descriptions:
 * [Atomic SIG](#Atomic_SIG)
 * [Cloud SIG](#Cloud_SIG)
 * [Community Buildsystem & Infrastructure Meeting](#Community_Buildsystem_&_Infrastructure_Meeting)
+* [Config Management SIG](#Config_Management_SIG)
 * [Karanbir Singh Office Hours](#Karanbir_Singh_Office_Hours)
 * [Software Collections SIG Sync-up](#Software_Collections_SIG_Sync-up)
 * [Storage SIG](#Storage_SIG)
@@ -47,6 +48,14 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 * Chair (to contact for more information): Brian Stinson (bstinson), Fabian Arrotin (Arrfab), Karanbir Singh (kbsingh), Thomas Oulevey (alphacc)
 * [Link to Project Site](http://wiki.centos.org/HowTos/CommunityBuildSystem)
 * The CBS/Infra meeting is for discussing and coordinating operations in the Community Buildsystem. Anyone are welcome to attend and discuss client tools, jobs in the buildsystem, feature requests, and anything related.
+
+
+### <a name="Config_Management_SIG">Config Management SIG</a>
+
+* Every two weeks (on odd weeks) on Wednesday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-devel
+* Chair (to contact for more information): Julien Pivotto (roidelapluie)
+* [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG)
+* The Config Management SIG is a SpecialInterestGroup that aims to bridge the gap between Config Management tools Power users and traditional users by producing and release RPM packages of several Configuration Management and Orchestration tools.
 
 
 ### <a name="Karanbir_Singh_Office_Hours">Karanbir Singh Office Hours</a>
@@ -79,4 +88,4 @@ at +44 207 009 4455.
 
 
 
-Page generated on 2015-12-10 12:35:56.762125 UTC
+Page generated on 2016-03-11 12:23:23.706630 UTC
