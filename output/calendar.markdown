@@ -21,6 +21,7 @@ Here is a list of current meetings with their descriptions:
 * [Community Buildsystem & Infrastructure Meeting](#Community_Buildsystem_&_Infrastructure_Meeting)
 * [Config Management SIG](#Config_Management_SIG)
 * [Karanbir Singh Office Hours](#Karanbir_Singh_Office_Hours)
+* [PaaS SIG](#PaaS_SIG)
 * [Software Collections SIG Sync-up](#Software_Collections_SIG_Sync-up)
 * [Storage SIG](#Storage_SIG)
 
@@ -71,6 +72,14 @@ is related to these.  During this time, you can find me on #centos-devel @
 at +44 207 009 4455.
 
 
+### <a name="PaaS_SIG">PaaS SIG</a>
+
+* Weekly on Wednesday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-devel
+* Chair (to contact for more information): Troy Dawson (tdawson)
+* [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/PaaS)
+* The SIG will work on delivering multiple PaaS Stacks. These stacks will come in various formats (rpms, containers, images etc ) The content will be delivered into the CentOS Ecosystem for end user consumption, run as a service, and support other CentOS Ecosystem projects.
+
+
 ### <a name="Software_Collections_SIG_Sync-up">Software Collections SIG Sync-up</a>
 
 * Every two weeks (on even weeks) on Wednesday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-devel
@@ -88,4 +97,4 @@ at +44 207 009 4455.
 
 
 
-Page generated on 2016-03-11 12:23:23.706630 UTC
+Page generated on 2016-03-23 16:54:44.717628 UTC
