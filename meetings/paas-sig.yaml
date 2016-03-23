@@ -1,0 +1,13 @@
+project:  PaaS SIG
+project_url: https://wiki.centos.org/SpecialInterestGroup/PaaS
+schedule:
+  - time:       '1500'
+    day:        Wedensday
+    irc:        centos-devel
+    frequency:  weekly
+chair:  Troy Dawson (tdawson)
+description: >
+    The SIG will work on delivering multiple PaaS Stacks.
+    These stacks will come in various formats (rpms, containers, images etc )
+    The content will be delivered into the CentOS Ecosystem for end user consumption,
+    run as a service, and support other CentOS Ecosystem projects.
