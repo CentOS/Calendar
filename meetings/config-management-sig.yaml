@@ -2,7 +2,7 @@ project: Config Management SIG
 project_url: https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG
 meeting_id: Config Management SIG regular meeting
 schedule:
-  - time:       '1500'
+  - time:       '1600'
     day:        Wednesday
     irc:        centos-devel
     frequency:  biweekly-odd
