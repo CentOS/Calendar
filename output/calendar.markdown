@@ -53,7 +53,7 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 ### <a name="Config_Management_SIG">Config Management SIG</a>
 
-* Every two weeks (on odd weeks) on Wednesday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-devel
+* Every two weeks (on even weeks) on Friday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #centos-devel
 * Chair (to contact for more information): Julien Pivotto (roidelapluie)
 * [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG)
 * The Config Management SIG is a SpecialInterestGroup that aims to bridge the gap between Config Management tools Power users and traditional users by producing and release RPM packages of several Configuration Management and Orchestration tools.
@@ -97,4 +97,4 @@ at +44 207 009 4455.
 
 
 
-Page generated on 2016-03-23 16:54:44.717628 UTC
+Page generated on 2016-05-02 11:17:46.769193 UTC
