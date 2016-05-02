@@ -1,7 +1,7 @@
 project:  PaaS SIG
 project_url: https://wiki.centos.org/SpecialInterestGroup/PaaS
 schedule:
-  - time:       '1500'
+  - time:       '1700'
     day:        Wednesday
     irc:        centos-devel
     frequency:  weekly
