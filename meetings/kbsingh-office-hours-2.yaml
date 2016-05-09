@@ -1,15 +1,10 @@
-project:  Karanbir Singh Office Hours
+project:  Karanbir Singh Office Hours - Wednesdays
 project_url: http://www.karan.org/blog/2015/06/08/regular-office-hours/
 schedule:
-  - time:       '0930'
-    duration:   30
-    day:        Thursday
-    irc:        centos-devel
-    frequency:  weekly
   - time:       '1700'
     duration:   30
     day:        Wednesday
-    irc:        centos-devel
+    irc:        centos-devel via PM
     frequency:  weekly
 chair:  Karanbir Singh (kbsingh)
 description: |

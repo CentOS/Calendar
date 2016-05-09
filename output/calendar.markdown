@@ -20,7 +20,8 @@ Here is a list of current meetings with their descriptions:
 * [Cloud SIG](#Cloud_SIG)
 * [Community Buildsystem & Infrastructure Meeting](#Community_Buildsystem_&_Infrastructure_Meeting)
 * [Config Management SIG](#Config_Management_SIG)
-* [Karanbir Singh Office Hours](#Karanbir_Singh_Office_Hours)
+* [Karanbir Singh Office Hours - Thursdays](#Karanbir_Singh_Office_Hours_-_Thursdays)
+* [Karanbir Singh Office Hours - Wednesdays](#Karanbir_Singh_Office_Hours_-_Wednesdays)
 * [PaaS SIG](#PaaS_SIG)
 * [Software Collections SIG Sync-up](#Software_Collections_SIG_Sync-up)
 * [Storage SIG](#Storage_SIG)
@@ -59,10 +60,21 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 * The Config Management SIG is a SpecialInterestGroup that aims to bridge the gap between Config Management tools Power users and traditional users by producing and release RPM packages of several Configuration Management and Orchestration tools.
 
 
-### <a name="Karanbir_Singh_Office_Hours">Karanbir Singh Office Hours</a>
+### <a name="Karanbir_Singh_Office_Hours_-_Thursdays">Karanbir Singh Office Hours - Thursdays</a>
 
 * Weekly on Thursday at [0930 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=09&amp;min=30&amp;sec=0) in #centos-devel
-* Weekly on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #centos-devel
+* Chair (to contact for more information): Karanbir Singh (kbsingh)
+* [Link to Project Site](http://www.karan.org/blog/2015/06/08/regular-office-hours/)
+* I am going to make myself available to anyone who wants to come along and
+talk about CentOS Linux, the CentOS Project, the SIGs or anything else that
+is related to these.  During this time, you can find me on #centos-devel @
+<a href="http://irc.freenode.net">irc.freenode.net</a> as kbsingh, and you can also call me on the phone
+at +44 207 009 4455.
+
+
+### <a name="Karanbir_Singh_Office_Hours_-_Wednesdays">Karanbir Singh Office Hours - Wednesdays</a>
+
+* Weekly on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #centos-devel via PM
 * Chair (to contact for more information): Karanbir Singh (kbsingh)
 * [Link to Project Site](http://www.karan.org/blog/2015/06/08/regular-office-hours/)
 * I am going to make myself available to anyone who wants to come along and
@@ -74,7 +86,7 @@ at +44 207 009 4455.
 
 ### <a name="PaaS_SIG">PaaS SIG</a>
 
-* Weekly on Wednesday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-devel
+* Weekly on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #centos-devel
 * Chair (to contact for more information): Troy Dawson (tdawson)
 * [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/PaaS)
 * The SIG will work on delivering multiple PaaS Stacks. These stacks will come in various formats (rpms, containers, images etc ) The content will be delivered into the CentOS Ecosystem for end user consumption, run as a service, and support other CentOS Ecosystem projects.
@@ -91,10 +103,10 @@ at +44 207 009 4455.
 ### <a name="Storage_SIG">Storage SIG</a>
 
 * Every two weeks (on odd weeks) on Friday at [1530 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=30&amp;sec=0) in #centos-devel
-* Chair (to contact for more information): Karabir Singh (kbsingh) and Lalatendu Mohanty (lalatenduM)
+* Chair (to contact for more information): Karanbir Singh (kbsingh) and Lalatendu Mohanty (lalatenduM)
 * [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/Storage)
 * The CentOS Storage Special Interest Group (SIG) is a collection of like-minded individuals coming together to ensure that CentOS is a suitable platform for many different storage solutions. This group will ensure that all Open Source storage options seeking to utilize CentOS as a delivery platform have a voice in packaging, orchestration, deployment, and related work. 
 
 
 
-Page generated on 2016-05-02 11:17:46.769193 UTC
+Page generated on 2016-05-09 11:02:53.632540 UTC
