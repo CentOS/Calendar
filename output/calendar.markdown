@@ -94,7 +94,7 @@ at +44 207 009 4455.
 
 ### <a name="Software_Collections_SIG_Sync-up">Software Collections SIG Sync-up</a>
 
-* Every two weeks (on even weeks) on Wednesday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-devel
+* Every two weeks (on even weeks) on Tuesday at [1300 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=13&amp;min=00&amp;sec=0) in #centos-devel
 * Chair (to contact for more information): Honza Horak (hhorak)
 * [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/SCLo)
 * The Software Collections SIG will provide an upstream development area for various software collections and related tools. Developers can build on and extend existing SCLs, so they don&#39;t need to re-invent the wheel or take responsibility for packaging unnecessary dependencies. 
@@ -109,4 +109,4 @@ at +44 207 009 4455.
 
 
 
-Page generated on 2016-05-09 11:02:53.632540 UTC
+Page generated on 2016-05-17 14:41:32.170493 UTC
