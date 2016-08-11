@@ -1,0 +1,11 @@
+project:  OpsTools SIG
+project_url: http://wiki.centos.org/SpecialInterestGroup/OpsTools
+schedule:
+  - time:       '1800'
+    day:        Wednesday
+    irc:        centos-devel
+    frequency:  weekly
+chair: Matthias Runge (mrunge) and  Ric Megginson (richm)
+description: |
+    The SIG will provide tools for operators, system administrators, devops and developers doing infrastructure engineering on content based on CentOS Linux. We will aim to support the Config Management SIG ( https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG ) and repurpose their content as and when needed in our space.
+
