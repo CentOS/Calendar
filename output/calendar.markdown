@@ -22,6 +22,7 @@ Here is a list of current meetings with their descriptions:
 * [Config Management SIG](#Config_Management_SIG)
 * [Karanbir Singh Office Hours - Thursdays](#Karanbir_Singh_Office_Hours_-_Thursdays)
 * [Karanbir Singh Office Hours - Wednesdays](#Karanbir_Singh_Office_Hours_-_Wednesdays)
+* [OpsTools SIG](#OpsTools_SIG)
 * [PaaS SIG](#PaaS_SIG)
 * [Software Collections SIG Sync-up](#Software_Collections_SIG_Sync-up)
 * [Storage SIG](#Storage_SIG)
@@ -84,6 +85,14 @@ is related to these.  During this time, you can find me on #centos-devel @
 at +44 207 009 4455.
 
 
+### <a name="OpsTools_SIG">OpsTools SIG</a>
+
+* Weekly on Wednesday at [1800 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=18&amp;min=00&amp;sec=0) in #centos-devel
+* Chair (to contact for more information): Matthias Runge (mrunge) and  Ric Megginson (richm)
+* [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/OpsTools)
+* The SIG will provide tools for operators, system administrators, devops and developers doing infrastructure engineering on content based on CentOS Linux. We will aim to support the Config Management SIG ( <a href="https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG">https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG</a> ) and repurpose their content as and when needed in our space.
+
+
 ### <a name="PaaS_SIG">PaaS SIG</a>
 
 * Weekly on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #centos-devel
@@ -109,4 +118,4 @@ at +44 207 009 4455.
 
 
 
-Page generated on 2016-05-17 14:41:32.170493 UTC
+Page generated on 2016-08-15 14:00:32.461952 UTC

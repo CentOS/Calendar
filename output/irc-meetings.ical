@@ -4,8 +4,21 @@ PRODID:-//yaml2ical agendas//EN
 X-WR-CALDESC:Meeting schedule for the CentOS Project and SIGS
 X-WR-CALNAME:CentOS Meetings
 BEGIN:VEVENT
+SUMMARY:PaaS SIG
+DTSTART;VALUE=DATE-TIME:20160817T170000Z
+DURATION:PT1H
+DESCRIPTION:Project:  PaaS SIG\nChair:  Troy Dawson (tdawson)\nDescription
+ :  The SIG will work on delivering multiple PaaS Stacks. These stacks will
+  come in various formats (rpms\, containers\, images etc ) The content wil
+ l be delivered into the CentOS Ecosystem for end user consumption\, run as
+  a service\, and support other CentOS Ecosystem projects.\n\nProject URL: 
+  https://wiki.centos.org/SpecialInterestGroup/PaaS
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cloud SIG
-DTSTART;VALUE=DATE-TIME:20160519T150000Z
+DTSTART;VALUE=DATE-TIME:20160818T150000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Cloud SIG\nChair:  Rich Bowen (rbowen) and Kushal Da
  s (kushal)\nDescription:  The proposed CentOS Cloud SIG (CCS) is a group o
@@ -24,7 +37,7 @@ RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atomic SIG
-DTSTART;VALUE=DATE-TIME:20160519T160000Z
+DTSTART;VALUE=DATE-TIME:20160818T160000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Atomic SIG\nChair:  Joe Brockmeier (jzb)\nDescriptio
  n:  The SIG is working on several goals including shipping a minimal CentO
@@ -35,7 +48,7 @@ RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karanbir Singh Office Hours - Wednesdays
-DTSTART;VALUE=DATE-TIME:20160518T170000Z
+DTSTART;VALUE=DATE-TIME:20160817T170000Z
 DURATION:PT30M
 DESCRIPTION:Project:  Karanbir Singh Office Hours - Wednesdays\nChair:  Ka
  ranbir Singh (kbsingh)\nDescription:  I am going to make myself available 
@@ -49,7 +62,7 @@ RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karanbir Singh Office Hours - Thursdays
-DTSTART;VALUE=DATE-TIME:20160519T093000Z
+DTSTART;VALUE=DATE-TIME:20160818T093000Z
 DURATION:PT30M
 DESCRIPTION:Project:  Karanbir Singh Office Hours - Thursdays\nChair:  Kar
  anbir Singh (kbsingh)\nDescription:  I am going to make myself available t
@@ -62,8 +75,22 @@ LOCATION:#centos-devel
 RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Community Buildsystem & Infrastructure Meeting
+DTSTART;VALUE=DATE-TIME:20160815T140000Z
+DURATION:PT1H
+DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
+ r:  Brian Stinson (bstinson)\, Fabian Arrotin (Arrfab)\, Karanbir Singh (k
+ bsingh)\, Thomas Oulevey (alphacc)\nDescription:  The CBS/Infra meeting is
+  for discussing and coordinating operations in the Community Buildsystem. 
+ Anyone are welcome to attend and discuss client tools\, jobs in the builds
+ ystem\, feature requests\, and anything related.\n\nProject URL:  http://w
+ iki.centos.org/HowTos/CommunityBuildSystem
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Storage SIG
-DTSTART;VALUE=DATE-TIME:20160527T153000Z
+DTSTART;VALUE=DATE-TIME:20160819T153000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh) and La
  latendu Mohanty (lalatenduM)\nDescription:  The CentOS Storage Special Int
@@ -77,8 +104,22 @@ LOCATION:#centos-devel
 RRULE:FREQ=WEEKLY;INTERVAL=2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OpsTools SIG
+DTSTART;VALUE=DATE-TIME:20160817T180000Z
+DURATION:PT1H
+DESCRIPTION:Project:  OpsTools SIG\nChair:  Matthias Runge (mrunge) and  R
+ ic Megginson (richm)\nDescription:  The SIG will provide tools for operato
+ rs\, system administrators\, devops and developers doing infrastructure en
+ gineering on content based on CentOS Linux. We will aim to support the Con
+ fig Management SIG ( https://wiki.centos.org/SpecialInterestGroup/ConfigMa
+ nagementSIG ) and repurpose their content as and when needed in our space.
+ \n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/OpsTools
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Software Collections SIG Sync-up
-DTSTART;VALUE=DATE-TIME:20160517T130000Z
+DTSTART;VALUE=DATE-TIME:20160823T130000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Honza Hora
  k (hhorak)\nDescription:  The Software Collections SIG will provide an ups
@@ -91,35 +132,8 @@ LOCATION:#centos-devel
 RRULE:FREQ=WEEKLY;INTERVAL=2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PaaS SIG
-DTSTART;VALUE=DATE-TIME:20160518T170000Z
-DURATION:PT1H
-DESCRIPTION:Project:  PaaS SIG\nChair:  Troy Dawson (tdawson)\nDescription
- :  The SIG will work on delivering multiple PaaS Stacks. These stacks will
-  come in various formats (rpms\, containers\, images etc ) The content wil
- l be delivered into the CentOS Ecosystem for end user consumption\, run as
-  a service\, and support other CentOS Ecosystem projects.\n\nProject URL: 
-  https://wiki.centos.org/SpecialInterestGroup/PaaS
-LOCATION:#centos-devel
-RRULE:FREQ=WEEKLY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Buildsystem & Infrastructure Meeting
-DTSTART;VALUE=DATE-TIME:20160523T140000Z
-DURATION:PT1H
-DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
- r:  Brian Stinson (bstinson)\, Fabian Arrotin (Arrfab)\, Karanbir Singh (k
- bsingh)\, Thomas Oulevey (alphacc)\nDescription:  The CBS/Infra meeting is
-  for discussing and coordinating operations in the Community Buildsystem. 
- Anyone are welcome to attend and discuss client tools\, jobs in the builds
- ystem\, feature requests\, and anything related.\n\nProject URL:  http://w
- iki.centos.org/HowTos/CommunityBuildSystem
-LOCATION:#centos-devel
-RRULE:FREQ=WEEKLY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Config Management SIG
-DTSTART;VALUE=DATE-TIME:20160520T170000Z
+DTSTART;VALUE=DATE-TIME:20160826T170000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Config Management SIG\nChair:  Julien Pivotto (roide
  lapluie)\nDescription:  The Config Management SIG is a SpecialInterestGrou
