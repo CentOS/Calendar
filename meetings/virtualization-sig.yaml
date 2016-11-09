@@ -1,0 +1,15 @@
+project:  Virtualization SIG
+project_url: https://wiki.centos.org/SpecialInterestGroup/Virtualization
+schedule:
+  - time:       '1400'
+    day:        Tuesday
+    irc:        centos-devel
+    frequency:  biweekly-even
+chair:  George Dunlap (gwd)
+description: >
+    The CentOS Virtualisation Special Interest Group ( virt-sig ) is a group of
+    people coming together to promote and use CentOS Linux as a base platform
+    as a suitable platform for various virtualisation efforts.
+    This includes type-1 and type-2 hypervisors like Xen and KVM, containers
+    and containment based technologies like LXC and other system and process
+    level virtualisation technologies in the future.
