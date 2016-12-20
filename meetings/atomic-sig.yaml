@@ -1,8 +1,8 @@
 project:  Atomic SIG
 project_url: http://wiki.centos.org/SpecialInterestGroup/Atomic
 schedule:
-  - time:       '1700'
-    day:        Tuesday
+  - time:       '1600'
+    day:        Thursday
     irc:        centos-devel
     frequency:  weekly
 chair:  Jason Brooks (jbrooks)
