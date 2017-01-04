@@ -5,7 +5,7 @@ X-WR-CALDESC:Meeting schedule for the CentOS Project and SIGS
 X-WR-CALNAME:CentOS Meetings
 BEGIN:VEVENT
 SUMMARY:PaaS SIG
-DTSTART;VALUE=DATE-TIME:20160817T170000Z
+DTSTART;VALUE=DATE-TIME:20170104T170000Z
 DURATION:PT1H
 DESCRIPTION:Project:  PaaS SIG\nChair:  Troy Dawson (tdawson)\nDescription
  :  The SIG will work on delivering multiple PaaS Stacks. These stacks will
@@ -18,7 +18,7 @@ RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud SIG
-DTSTART;VALUE=DATE-TIME:20160818T150000Z
+DTSTART;VALUE=DATE-TIME:20170105T150000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Cloud SIG\nChair:  Rich Bowen (rbowen) and Kushal Da
  s (kushal)\nDescription:  The proposed CentOS Cloud SIG (CCS) is a group o
@@ -36,19 +36,34 @@ LOCATION:#centos-devel
 RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Atomic SIG
-DTSTART;VALUE=DATE-TIME:20160818T160000Z
+SUMMARY:Virtualization SIG
+DTSTART;VALUE=DATE-TIME:20170110T140000Z
 DURATION:PT1H
-DESCRIPTION:Project:  Atomic SIG\nChair:  Joe Brockmeier (jzb)\nDescriptio
- n:  The SIG is working on several goals including shipping a minimal CentO
- S Atomic Host that focuses on running Docker containers in production.\n\n
- Project URL:  http://wiki.centos.org/SpecialInterestGroup/Atomic
+DESCRIPTION:Project:  Virtualization SIG\nChair:  George Dunlap (gwd)\nDes
+ cription:  The CentOS Virtualisation Special Interest Group ( virt-sig ) i
+ s a group of people coming together to promote and use CentOS Linux as a b
+ ase platform as a suitable platform for various virtualisation efforts. Th
+ is includes type-1 and type-2 hypervisors like Xen and KVM\, containers an
+ d containment based technologies like LXC and other system and process lev
+ el virtualisation technologies in the future.\n\nProject URL:  https://wik
+ i.centos.org/SpecialInterestGroup/Virtualization
+LOCATION:#centos-devel
+RRULE:FREQ=WEEKLY;INTERVAL=2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atomic SIG
+DTSTART;VALUE=DATE-TIME:20170105T160000Z
+DURATION:PT1H
+DESCRIPTION:Project:  Atomic SIG\nChair:  Jason Brooks (jbrooks)\nDescript
+ ion:  The SIG is working on several goals including shipping a minimal Cen
+ tOS Atomic Host that focuses on running Docker containers in production.\n
+ \nProject URL:  http://wiki.centos.org/SpecialInterestGroup/Atomic
 LOCATION:#centos-devel
 RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karanbir Singh Office Hours - Wednesdays
-DTSTART;VALUE=DATE-TIME:20160817T170000Z
+DTSTART;VALUE=DATE-TIME:20170104T170000Z
 DURATION:PT30M
 DESCRIPTION:Project:  Karanbir Singh Office Hours - Wednesdays\nChair:  Ka
  ranbir Singh (kbsingh)\nDescription:  I am going to make myself available 
@@ -62,7 +77,7 @@ RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karanbir Singh Office Hours - Thursdays
-DTSTART;VALUE=DATE-TIME:20160818T093000Z
+DTSTART;VALUE=DATE-TIME:20170105T093000Z
 DURATION:PT30M
 DESCRIPTION:Project:  Karanbir Singh Office Hours - Thursdays\nChair:  Kar
  anbir Singh (kbsingh)\nDescription:  I am going to make myself available t
@@ -76,7 +91,7 @@ RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Buildsystem & Infrastructure Meeting
-DTSTART;VALUE=DATE-TIME:20160815T140000Z
+DTSTART;VALUE=DATE-TIME:20170109T140000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
  r:  Brian Stinson (bstinson)\, Fabian Arrotin (Arrfab)\, Karanbir Singh (k
@@ -90,7 +105,7 @@ RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Storage SIG
-DTSTART;VALUE=DATE-TIME:20160819T153000Z
+DTSTART;VALUE=DATE-TIME:20170106T153000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh) and La
  latendu Mohanty (lalatenduM)\nDescription:  The CentOS Storage Special Int
@@ -105,7 +120,7 @@ RRULE:FREQ=WEEKLY;INTERVAL=2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpsTools SIG
-DTSTART;VALUE=DATE-TIME:20160817T180000Z
+DTSTART;VALUE=DATE-TIME:20170104T180000Z
 DURATION:PT1H
 DESCRIPTION:Project:  OpsTools SIG\nChair:  Matthias Runge (mrunge) and  R
  ic Megginson (richm)\nDescription:  The SIG will provide tools for operato
@@ -119,7 +134,7 @@ RRULE:FREQ=WEEKLY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Collections SIG Sync-up
-DTSTART;VALUE=DATE-TIME:20160823T130000Z
+DTSTART;VALUE=DATE-TIME:20170110T130000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Honza Hora
  k (hhorak)\nDescription:  The Software Collections SIG will provide an ups
@@ -133,7 +148,7 @@ RRULE:FREQ=WEEKLY;INTERVAL=2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Config Management SIG
-DTSTART;VALUE=DATE-TIME:20160826T170000Z
+DTSTART;VALUE=DATE-TIME:20170113T170000Z
 DURATION:PT1H
 DESCRIPTION:Project:  Config Management SIG\nChair:  Julien Pivotto (roide
  lapluie)\nDescription:  The Config Management SIG is a SpecialInterestGrou

@@ -26,11 +26,12 @@ Here is a list of current meetings with their descriptions:
 * [PaaS SIG](#PaaS_SIG)
 * [Software Collections SIG Sync-up](#Software_Collections_SIG_Sync-up)
 * [Storage SIG](#Storage_SIG)
+* [Virtualization SIG](#Virtualization_SIG)
 
 ### <a name="Atomic_SIG">Atomic SIG</a>
 
 * Weekly on Thursday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-devel
-* Chair (to contact for more information): Joe Brockmeier (jzb)
+* Chair (to contact for more information): Jason Brooks (jbrooks)
 * [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/Atomic)
 * The SIG is working on several goals including shipping a minimal CentOS Atomic Host that focuses on running Docker containers in production.
 
@@ -117,5 +118,13 @@ at +44 207 009 4455.
 * The CentOS Storage Special Interest Group (SIG) is a collection of like-minded individuals coming together to ensure that CentOS is a suitable platform for many different storage solutions. This group will ensure that all Open Source storage options seeking to utilize CentOS as a delivery platform have a voice in packaging, orchestration, deployment, and related work. 
 
 
+### <a name="Virtualization_SIG">Virtualization SIG</a>
 
-Page generated on 2016-08-15 14:00:32.461952 UTC
+* Every two weeks (on even weeks) on Tuesday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-devel
+* Chair (to contact for more information): George Dunlap (gwd)
+* [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Virtualization)
+* The CentOS Virtualisation Special Interest Group ( virt-sig ) is a group of people coming together to promote and use CentOS Linux as a base platform as a suitable platform for various virtualisation efforts. This includes type-1 and type-2 hypervisors like Xen and KVM, containers and containment based technologies like LXC and other system and process level virtualisation technologies in the future.
+
+
+
+Page generated on 2017-01-04 09:48:29.249225 UTC
