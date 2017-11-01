@@ -1,7 +1,7 @@
 project:  Virtualization SIG
 project_url: https://wiki.centos.org/SpecialInterestGroup/Virtualization
 schedule:
-  - time:       '1400'
+  - time:       '1500'
     day:        Tuesday
     irc:        centos-devel
     frequency:  biweekly-even
