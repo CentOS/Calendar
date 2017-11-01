@@ -2,7 +2,7 @@ project:  Software Collections SIG Sync-up
 project_url: http://wiki.centos.org/SpecialInterestGroup/SCLo
 meeting_id: SCLo SIG sync-up meeting
 schedule:
-  - time:       '1400'
+  - time:       '1300'
     day:        Tuesday
     irc:        centos-devel
     frequency:  biweekly-even
