@@ -70,7 +70,7 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 * I am going to make myself available to anyone who wants to come along and
 talk about CentOS Linux, the CentOS Project, the SIGs or anything else that
 is related to these.  During this time, you can find me on #centos-devel @
-<a href="http://irc.freenode.net">irc.freenode.net</a> as kbsingh, and you can also call me on the phone
+<a href="http://irc.freenode.net" rel="noopener">irc.freenode.net</a> as kbsingh, and you can also call me on the phone
 at +44 207 009 4455.
 
 
@@ -82,7 +82,7 @@ at +44 207 009 4455.
 * I am going to make myself available to anyone who wants to come along and
 talk about CentOS Linux, the CentOS Project, the SIGs or anything else that
 is related to these.  During this time, you can find me on #centos-devel @
-<a href="http://irc.freenode.net">irc.freenode.net</a> as kbsingh, and you can also call me on the phone
+<a href="http://irc.freenode.net" rel="noopener">irc.freenode.net</a> as kbsingh, and you can also call me on the phone
 at +44 207 009 4455.
 
 
@@ -91,7 +91,7 @@ at +44 207 009 4455.
 * Weekly on Wednesday at [1800 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=18&amp;min=00&amp;sec=0) in #centos-devel
 * Chair (to contact for more information): Matthias Runge (mrunge) and  Ric Megginson (richm)
 * [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/OpsTools)
-* The SIG will provide tools for operators, system administrators, devops and developers doing infrastructure engineering on content based on CentOS Linux. We will aim to support the Config Management SIG ( <a href="https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG">https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG</a> ) and repurpose their content as and when needed in our space.
+* The SIG will provide tools for operators, system administrators, devops and developers doing infrastructure engineering on content based on CentOS Linux. We will aim to support the Config Management SIG ( <a href="https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG" rel="noopener">https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG</a> ) and repurpose their content as and when needed in our space.
 
 
 ### <a name="PaaS_SIG">PaaS SIG</a>
@@ -104,7 +104,7 @@ at +44 207 009 4455.
 
 ### <a name="Software_Collections_SIG_Sync-up">Software Collections SIG Sync-up</a>
 
-* Every two weeks (on even weeks) on Tuesday at [1300 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=13&amp;min=00&amp;sec=0) in #centos-devel
+* Every two weeks (on even weeks) on Tuesday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-devel
 * Chair (to contact for more information): Honza Horak (hhorak)
 * [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/SCLo)
 * The Software Collections SIG will provide an upstream development area for various software collections and related tools. Developers can build on and extend existing SCLs, so they don&#39;t need to re-invent the wheel or take responsibility for packaging unnecessary dependencies. 
@@ -120,11 +120,11 @@ at +44 207 009 4455.
 
 ### <a name="Virtualization_SIG">Virtualization SIG</a>
 
-* Every two weeks (on even weeks) on Tuesday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-devel
+* Every two weeks (on even weeks) on Tuesday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-devel
 * Chair (to contact for more information): George Dunlap (gwd)
 * [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Virtualization)
 * The CentOS Virtualisation Special Interest Group ( virt-sig ) is a group of people coming together to promote and use CentOS Linux as a base platform as a suitable platform for various virtualisation efforts. This includes type-1 and type-2 hypervisors like Xen and KVM, containers and containment based technologies like LXC and other system and process level virtualisation technologies in the future.
 
 
 
-Page generated on 2017-01-04 09:48:29.249225 UTC
+Page generated on 2017-11-03 10:28:39.480274 UTC
