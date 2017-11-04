@@ -66,6 +66,12 @@ will be import into Python as a dictionary.
 
 # Maintainer Notes
 
-To create the output files, run yaml2ical (https://github.com/openstack-infra/yaml2ical).  A container, bexelbie/yaml2ical has been created to assist with this.  Using the container, run:
+## To create the output files, run yaml2ical (https://github.com/openstack-infra/yaml2ical).  A container, bexelbie/yaml2ical has been created to assist with this.  Using the container, run:
 
     docker run --rm=true --privileged -u `id -u`:`id -g` -v `pwd`:/workdir bexelbie/yaml2ical -y meetings -o output/irc-meetings.ical -t list.markdown.jinja -w output/calendar.markdown -f -n "CentOS Meetings" -d "Meeting schedule for the CentOS Project and SIGS"
+
+## To publish output, do the following
+
+1. `mv output/calendar.markdown output/calendar.md`
+2. Commit the output ical (and optionally but recommended) the markdown output to the CentOS git server
+3. Copy/Commit output/calendar.md to git.centos.org/git/websites/centos.org.git/content/community/calendar.md
