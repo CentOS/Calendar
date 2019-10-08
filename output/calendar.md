@@ -112,8 +112,8 @@ at +44 207 009 4455.
 
 ### <a name="Storage_SIG">Storage SIG</a>
 
-* Every two weeks (on odd weeks) on Friday at [1530 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=30&amp;sec=0) in #centos-devel
-* Chair (to contact for more information): Karanbir Singh (kbsingh) and Lalatendu Mohanty (lalatenduM)
+* Monthly on Tuesday at [1000 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=10&amp;min=00&amp;sec=0) in #centos-devel
+* Chair (to contact for more information): Karanbir Singh (kbsingh), Niels de Vos (ndevos), Giulio Fidente (gfidente)
 * [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/Storage)
 * The CentOS Storage Special Interest Group (SIG) is a collection of like-minded individuals coming together to ensure that CentOS is a suitable platform for many different storage solutions. This group will ensure that all Open Source storage options seeking to utilize CentOS as a delivery platform have a voice in packaging, orchestration, deployment, and related work. 
 
@@ -127,4 +127,4 @@ at +44 207 009 4455.
 
 
 
-Page generated on 2017-11-03 10:28:39.480274 UTC
+Page generated on 2019-10-08 08:43:28.322965 UTC

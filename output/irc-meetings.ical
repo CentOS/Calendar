@@ -5,7 +5,7 @@ X-WR-CALDESC:Meeting schedule for the CentOS Project and SIGS
 X-WR-CALNAME:CentOS Meetings
 BEGIN:VEVENT
 SUMMARY:Atomic SIG
-DTSTART;VALUE=DATE-TIME:20171109T160000Z
+DTSTART;VALUE=DATE-TIME:20191010T160000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Atomic SIG\nChair:  Jason Brooks (jbrooks)\nDescript
@@ -16,7 +16,7 @@ LOCATION:#centos-devel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud SIG
-DTSTART;VALUE=DATE-TIME:20171109T150000Z
+DTSTART;VALUE=DATE-TIME:20191010T150000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Cloud SIG\nChair:  Rich Bowen (rbowen) and Kushal Da
@@ -35,7 +35,7 @@ LOCATION:#centos-devel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Buildsystem & Infrastructure Meeting
-DTSTART;VALUE=DATE-TIME:20171106T140000Z
+DTSTART;VALUE=DATE-TIME:20191014T140000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
@@ -49,7 +49,7 @@ LOCATION:#centos-devel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Config Management SIG
-DTSTART;VALUE=DATE-TIME:20171103T170000Z
+DTSTART;VALUE=DATE-TIME:20191018T170000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Config Management SIG\nChair:  Julien Pivotto (roide
@@ -62,7 +62,7 @@ LOCATION:#centos-devel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karanbir Singh Office Hours - Thursdays
-DTSTART;VALUE=DATE-TIME:20171109T093000Z
+DTSTART;VALUE=DATE-TIME:20191010T093000Z
 DURATION:PT30M
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Karanbir Singh Office Hours - Thursdays\nChair:  Kar
@@ -76,7 +76,7 @@ LOCATION:#centos-devel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karanbir Singh Office Hours - Wednesdays
-DTSTART;VALUE=DATE-TIME:20171108T170000Z
+DTSTART;VALUE=DATE-TIME:20191009T170000Z
 DURATION:PT30M
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Karanbir Singh Office Hours - Wednesdays\nChair:  Ka
@@ -90,7 +90,7 @@ LOCATION:#centos-devel via PM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpsTools SIG
-DTSTART;VALUE=DATE-TIME:20171108T180000Z
+DTSTART;VALUE=DATE-TIME:20191009T180000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  OpsTools SIG\nChair:  Matthias Runge (mrunge) and  R
@@ -104,7 +104,7 @@ LOCATION:#centos-devel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PaaS SIG
-DTSTART;VALUE=DATE-TIME:20171108T170000Z
+DTSTART;VALUE=DATE-TIME:20191009T170000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  PaaS SIG\nChair:  Troy Dawson (tdawson)\nDescription
@@ -117,7 +117,7 @@ LOCATION:#centos-devel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Collections SIG Sync-up
-DTSTART;VALUE=DATE-TIME:20171114T140000Z
+DTSTART;VALUE=DATE-TIME:20191015T140000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Honza Hora
@@ -131,22 +131,22 @@ LOCATION:#centos-devel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Storage SIG
-DTSTART;VALUE=DATE-TIME:20171110T153000Z
+DTSTART;VALUE=DATE-TIME:20191105T100000Z
 DURATION:PT1H
-RRULE:FREQ=WEEKLY;INTERVAL=2
-DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh) and La
- latendu Mohanty (lalatenduM)\nDescription:  The CentOS Storage Special Int
- erest Group (SIG) is a collection of like-minded individuals coming togeth
- er to ensure that CentOS is a suitable platform for many different storage
-  solutions. This group will ensure that all Open Source storage options se
- eking to utilize CentOS as a delivery platform have a voice in packaging\,
-  orchestration\, deployment\, and related work. \n\nProject URL:  http://w
- iki.centos.org/SpecialInterestGroup/Storage
+RRULE:FREQ=MONTHLY;BYDAY=1TU
+DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh)\, Niel
+ s de Vos (ndevos)\, Giulio Fidente (gfidente)\nDescription:  The CentOS St
+ orage Special Interest Group (SIG) is a collection of like-minded individu
+ als coming together to ensure that CentOS is a suitable platform for many 
+ different storage solutions. This group will ensure that all Open Source s
+ torage options seeking to utilize CentOS as a delivery platform have a voi
+ ce in packaging\, orchestration\, deployment\, and related work. \n\nProje
+ ct URL:  http://wiki.centos.org/SpecialInterestGroup/Storage
 LOCATION:#centos-devel
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtualization SIG
-DTSTART;VALUE=DATE-TIME:20171114T150000Z
+DTSTART;VALUE=DATE-TIME:20191015T150000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Virtualization SIG\nChair:  George Dunlap (gwd)\nDes
