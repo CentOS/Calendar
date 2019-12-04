@@ -5,7 +5,7 @@ schedule:
     day:        Thursday
     irc:        centos-meeting
     frequency:  weekly
-chair: Rich Bowen (rbowen) and Kushal Das (kushal)
+chair: Rain Leander (leanderthal) and Kushal Das (kushal)
 description: |
     The proposed CentOS Cloud SIG (CCS) is a group of people coming together to focus on packaging and maintaining different FOSS based Private cloud infrastructure applications that one can install and run natively on CentOS. We are a non vendor, non technology and non agent specific focus group, but we will gladly work with and build content to suit relevant niches or vendor ecosystems. This group specifically targets users who wish to install and run their own, independent ( or hybrid ) cloud infrastructure on CentOS Linux.
 
