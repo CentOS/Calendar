@@ -3,7 +3,7 @@ project_url: https://wiki.centos.org/SpecialInterestGroup/PaaS
 schedule:
   - time:       '1700'
     day:        Wednesday
-    irc:        centos-devel
+    irc:        centos-meeting
     frequency:  weekly
 chair:  Troy Dawson (tdawson)
 description: >

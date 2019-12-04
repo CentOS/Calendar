@@ -4,7 +4,7 @@ meeting_id: Config Management SIG regular meeting
 schedule:
   - time:       '1700'
     day:        Friday
-    irc:        centos-devel
+    irc:        centos-meeting
     frequency:  biweekly-even
 chair:  Julien Pivotto (roidelapluie)
 description: >

@@ -3,7 +3,7 @@ project_url: http://wiki.centos.org/SpecialInterestGroup/Cloud
 schedule:
   - time:       '1500'
     day:        Thursday
-    irc:        centos-devel
+    irc:        centos-meeting
     frequency:  weekly
 chair: Rich Bowen (rbowen) and Kushal Das (kushal)
 description: |

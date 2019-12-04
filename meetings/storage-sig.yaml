@@ -3,7 +3,7 @@ project_url: http://wiki.centos.org/SpecialInterestGroup/Storage
 schedule:
   - time:       '1000'
     day:        Tuesday
-    irc:        centos-devel
+    irc:        centos-meeting
     frequency:  first-tuesday
 chair:  Karanbir Singh (kbsingh), Niels de Vos (ndevos), Giulio Fidente (gfidente)
 description: >
