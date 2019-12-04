@@ -50,7 +50,7 @@ will be import into Python as a dictionary.
         schedule:
             - time:       '1600'
               day:        Wednesday
-              irc:        centos-devel
+              irc:        centos-meeting
               frequency:  weekly
 
 * The chair is just a one liner. The might be left empty if there is not a

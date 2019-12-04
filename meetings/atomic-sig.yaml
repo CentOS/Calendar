@@ -3,7 +3,7 @@ project_url: http://wiki.centos.org/SpecialInterestGroup/Atomic
 schedule:
   - time:       '1600'
     day:        Thursday
-    irc:        centos-devel
+    irc:        centos-meeting
     frequency:  weekly
 chair:  Jason Brooks (jbrooks)
 description: >

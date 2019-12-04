@@ -3,7 +3,7 @@ project_url: https://wiki.centos.org/SpecialInterestGroup/Virtualization
 schedule:
   - time:       '1500'
     day:        Tuesday
-    irc:        centos-devel
+    irc:        centos-meeting
     frequency:  biweekly-even
 chair:  George Dunlap (gwd)
 description: >

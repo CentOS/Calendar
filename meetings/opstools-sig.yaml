@@ -3,7 +3,7 @@ project_url: http://wiki.centos.org/SpecialInterestGroup/OpsTools
 schedule:
   - time:       '1800'
     day:        Wednesday
-    irc:        centos-devel
+    irc:        centos-meeting
     frequency:  weekly
 chair: Matthias Runge (mrunge) and  Ric Megginson (richm)
 description: |

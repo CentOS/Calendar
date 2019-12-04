@@ -3,7 +3,7 @@ project_url: http://wiki.centos.org/HowTos/CommunityBuildSystem
 schedule:
     - time:      '1400'
       day:       Monday
-      irc:       centos-devel
+      irc:       centos-meeting
       frequency: weekly
 chair: Brian Stinson (bstinson), Fabian Arrotin (Arrfab), Karanbir Singh (kbsingh), Thomas Oulevey (alphacc)
 description: >
