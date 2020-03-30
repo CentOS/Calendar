@@ -5,37 +5,38 @@ X-WR-CALDESC:Meeting schedule for the CentOS Project and SIGS
 X-WR-CALNAME:CentOS Meetings
 BEGIN:VEVENT
 SUMMARY:Atomic SIG
-DTSTART;VALUE=DATE-TIME:20191010T160000Z
+DTSTART;VALUE=DATE-TIME:20200402T160000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Atomic SIG\nChair:  Jason Brooks (jbrooks)\nDescript
  ion:  The SIG is working on several goals including shipping a minimal Cen
  tOS Atomic Host that focuses on running Docker containers in production.\n
  \nProject URL:  http://wiki.centos.org/SpecialInterestGroup/Atomic
-LOCATION:#centos-devel
+LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud SIG
-DTSTART;VALUE=DATE-TIME:20191010T150000Z
+DTSTART;VALUE=DATE-TIME:20200402T150000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  Cloud SIG\nChair:  Rich Bowen (rbowen) and Kushal Da
- s (kushal)\nDescription:  The proposed CentOS Cloud SIG (CCS) is a group o
- f people coming together to focus on packaging and maintaining different F
- OSS based Private cloud infrastructure applications that one can install a
- nd run natively on CentOS. We are a non vendor\, non technology and non ag
- ent specific focus group\, but we will gladly work with and build content 
- to suit relevant niches or vendor ecosystems. This group specifically targ
- ets users who wish to install and run their own\, independent ( or hybrid 
- ) cloud infrastructure on CentOS Linux.\n\nThe CCS intends to take ownersh
- ip of existing CentOS Project relationships with vendors\, and help to mai
- ntain the updated package repositories for all participating cloud project
- s. \n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/Cloud
-LOCATION:#centos-devel
+DESCRIPTION:Project:  Cloud SIG\nChair:  Rain Leander (leanderthal) and Ku
+ shal Das (kushal)\nDescription:  The proposed CentOS Cloud SIG (CCS) is a 
+ group of people coming together to focus on packaging and maintaining diff
+ erent FOSS based Private cloud infrastructure applications that one can in
+ stall and run natively on CentOS. We are a non vendor\, non technology and
+  non agent specific focus group\, but we will gladly work with and build c
+ ontent to suit relevant niches or vendor ecosystems. This group specifical
+ ly targets users who wish to install and run their own\, independent ( or 
+ hybrid ) cloud infrastructure on CentOS Linux.\n\nThe CCS intends to take 
+ ownership of existing CentOS Project relationships with vendors\, and help
+  to maintain the updated package repositories for all participating cloud 
+ projects. \n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/Cl
+ oud
+LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Buildsystem & Infrastructure Meeting
-DTSTART;VALUE=DATE-TIME:20191014T140000Z
+DTSTART;VALUE=DATE-TIME:20200330T140000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
@@ -45,11 +46,11 @@ DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
  Anyone are welcome to attend and discuss client tools\, jobs in the builds
  ystem\, feature requests\, and anything related.\n\nProject URL:  http://w
  iki.centos.org/HowTos/CommunityBuildSystem
-LOCATION:#centos-devel
+LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Config Management SIG
-DTSTART;VALUE=DATE-TIME:20191018T170000Z
+DTSTART;VALUE=DATE-TIME:20200403T170000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Config Management SIG\nChair:  Julien Pivotto (roide
@@ -58,39 +59,11 @@ DESCRIPTION:Project:  Config Management SIG\nChair:  Julien Pivotto (roide
  and traditional users by producing and release RPM packages of several Con
  figuration Management and Orchestration tools.\n\nProject URL:  https://wi
  ki.centos.org/SpecialInterestGroup/ConfigManagementSIG
-LOCATION:#centos-devel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Karanbir Singh Office Hours - Thursdays
-DTSTART;VALUE=DATE-TIME:20191010T093000Z
-DURATION:PT30M
-RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  Karanbir Singh Office Hours - Thursdays\nChair:  Kar
- anbir Singh (kbsingh)\nDescription:  I am going to make myself available t
- o anyone who wants to come along and\ntalk about CentOS Linux\, the CentOS
-  Project\, the SIGs or anything else that\nis related to these.  During th
- is time\, you can find me on #centos-devel @\nirc.freenode.net as kbsingh\
- , and you can also call me on the phone\nat +44 207 009 4455.\n\nProject U
- RL:  http://www.karan.org/blog/2015/06/08/regular-office-hours/
-LOCATION:#centos-devel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Karanbir Singh Office Hours - Wednesdays
-DTSTART;VALUE=DATE-TIME:20191009T170000Z
-DURATION:PT30M
-RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  Karanbir Singh Office Hours - Wednesdays\nChair:  Ka
- ranbir Singh (kbsingh)\nDescription:  I am going to make myself available 
- to anyone who wants to come along and\ntalk about CentOS Linux\, the CentO
- S Project\, the SIGs or anything else that\nis related to these.  During t
- his time\, you can find me on #centos-devel @\nirc.freenode.net as kbsingh
- \, and you can also call me on the phone\nat +44 207 009 4455.\n\nProject 
- URL:  http://www.karan.org/blog/2015/06/08/regular-office-hours/
-LOCATION:#centos-devel via PM
+LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpsTools SIG
-DTSTART;VALUE=DATE-TIME:20191009T180000Z
+DTSTART;VALUE=DATE-TIME:20200401T180000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  OpsTools SIG\nChair:  Matthias Runge (mrunge) and  R
@@ -100,11 +73,11 @@ DESCRIPTION:Project:  OpsTools SIG\nChair:  Matthias Runge (mrunge) and  R
  fig Management SIG ( https://wiki.centos.org/SpecialInterestGroup/ConfigMa
  nagementSIG ) and repurpose their content as and when needed in our space.
  \n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/OpsTools
-LOCATION:#centos-devel
+LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PaaS SIG
-DTSTART;VALUE=DATE-TIME:20191009T170000Z
+DTSTART;VALUE=DATE-TIME:20200401T170000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  PaaS SIG\nChair:  Troy Dawson (tdawson)\nDescription
@@ -113,11 +86,11 @@ DESCRIPTION:Project:  PaaS SIG\nChair:  Troy Dawson (tdawson)\nDescription
  l be delivered into the CentOS Ecosystem for end user consumption\, run as
   a service\, and support other CentOS Ecosystem projects.\n\nProject URL: 
   https://wiki.centos.org/SpecialInterestGroup/PaaS
-LOCATION:#centos-devel
+LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Collections SIG Sync-up
-DTSTART;VALUE=DATE-TIME:20191015T140000Z
+DTSTART;VALUE=DATE-TIME:20200331T140000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Honza Hora
@@ -127,11 +100,11 @@ DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Honza Hora
  re-invent the wheel or take responsibility for packaging unnecessary depen
  dencies. \n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/SCL
  o
-LOCATION:#centos-devel
+LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Storage SIG
-DTSTART;VALUE=DATE-TIME:20191105T100000Z
+DTSTART;VALUE=DATE-TIME:20200407T100000Z
 DURATION:PT1H
 RRULE:FREQ=MONTHLY;BYDAY=1TU
 DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh)\, Niel
@@ -140,13 +113,14 @@ DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh)\, Niel
  als coming together to ensure that CentOS is a suitable platform for many 
  different storage solutions. This group will ensure that all Open Source s
  torage options seeking to utilize CentOS as a delivery platform have a voi
- ce in packaging\, orchestration\, deployment\, and related work. \n\nProje
- ct URL:  http://wiki.centos.org/SpecialInterestGroup/Storage
-LOCATION:#centos-devel
+ ce in packaging\, orchestration\, deployment\, and related work. \n\nAgend
+ a URL:  https://hackmd.io/@qItv4l_CSAOOoigrY3dOGA/rkAGV6Lpr\nProject URL: 
+  http://wiki.centos.org/SpecialInterestGroup/Storage
+LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtualization SIG
-DTSTART;VALUE=DATE-TIME:20191015T150000Z
+DTSTART;VALUE=DATE-TIME:20200331T150000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Virtualization SIG\nChair:  George Dunlap (gwd)\nDes
@@ -157,6 +131,6 @@ DESCRIPTION:Project:  Virtualization SIG\nChair:  George Dunlap (gwd)\nDes
  d containment based technologies like LXC and other system and process lev
  el virtualisation technologies in the future.\n\nProject URL:  https://wik
  i.centos.org/SpecialInterestGroup/Virtualization
-LOCATION:#centos-devel
+LOCATION:#centos-meeting
 END:VEVENT
 END:VCALENDAR
