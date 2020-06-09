@@ -1,8 +1,8 @@
 project:  Virtualization SIG
 project_url: https://wiki.centos.org/SpecialInterestGroup/Virtualization
 schedule:
-  - time:       '1500'
-    day:        Tuesday
+  - time:       '1600'
+    day:        Wednesday
     irc:        centos-meeting
     frequency:  biweekly-even
 chair:  George Dunlap (gwd)
