@@ -20,6 +20,7 @@ Here is a list of current meetings with their descriptions:
 * [Cloud SIG](#Cloud_SIG)
 * [Community Buildsystem & Infrastructure Meeting](#Community_Buildsystem_&_Infrastructure_Meeting)
 * [Config Management SIG](#Config_Management_SIG)
+* [NFV SIG](#NFV_SIG)
 * [OpsTools SIG](#OpsTools_SIG)
 * [PaaS SIG](#PaaS_SIG)
 * [Software Collections SIG Sync-up](#Software_Collections_SIG_Sync-up)
@@ -60,6 +61,15 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 * The Config Management SIG is a SpecialInterestGroup that aims to bridge the gap between Config Management tools Power users and traditional users by producing and release RPM packages of several Configuration Management and Orchestration tools.
 
 
+### <a name="NFV_SIG">NFV SIG</a>
+
+* Every two weeks (on odd weeks) on Wednesday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
+* Chair (to contact for more information): Alfredo Moralejo (amoralej)
+* [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/NFV)
+* The goal of NFV SIG is to provide a set of packages related to virtual networking and Network Function Virtualization for CentOS and pursue the cooperation between different users and projects sharing the interest on these software pieces.
+
+* [Link to Agenda](https://hackmd.io/oRe_HVJiTteDI4H332ApMw)
+
 ### <a name="OpsTools_SIG">OpsTools SIG</a>
 
 * Weekly on Wednesday at [1800 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=18&amp;min=00&amp;sec=0) in #centos-meeting
@@ -95,11 +105,11 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 ### <a name="Virtualization_SIG">Virtualization SIG</a>
 
-* Every two weeks (on even weeks) on Tuesday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
+* Every two weeks (on even weeks) on Wednesday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): George Dunlap (gwd)
 * [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Virtualization)
 * The CentOS Virtualisation Special Interest Group ( virt-sig ) is a group of people coming together to promote and use CentOS Linux as a base platform as a suitable platform for various virtualisation efforts. This includes type-1 and type-2 hypervisors like Xen and KVM, containers and containment based technologies like LXC and other system and process level virtualisation technologies in the future.
 
 
 
-Page generated on 2020-03-29 09:24:30.654702 UTC
+Page generated on 2020-07-23 08:28:32.752000 UTC
