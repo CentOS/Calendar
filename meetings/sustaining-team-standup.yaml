@@ -3,9 +3,30 @@ project_url: docs.fedoraproject.org/en-US/cpe/working_with_us/
 schedule:
   - time:       '0830'
     duration:   30
+    day:        Monday
     irc:        centos-meeting
-    frequency:  daily
-chair:  Pierre-Yves Chibon (pingou)
+    frequency:  weekly
+  - time:       '0830'
+    duration:   30
+    day:        Tuesday
+    irc:        centos-meeting
+    frequency:  weekly
+  - time:       '0830'
+    duration:   30
+    day:        Wednesday
+    irc:        centos-meeting
+    frequency:  weekly
+  - time:       '0830'
+    duration:   30
+    day:        Thursday
+    irc:        centos-meeting
+    frequency:  weekly
+  - time:       '0830'
+    duration:   30
+    day:        Friday
+    irc:        centos-meeting
+    frequency:  weekly
+chair:  Pierre-Yves Chibon (pingou), Fabian Arrotin (Arrfab), Vipul Siddharth (siddharthvipul)
 description: >
     Sustaining team is a sub team of Community Platform Engineering in
     Red Hat. They maintain and develop applications for CentOS and Fedora
