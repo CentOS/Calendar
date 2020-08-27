@@ -6,9 +6,9 @@ schedule:
     day:        Tuesday
     irc:        centos-meeting
     frequency:  biweekly-even
-chair:  Honza Horak (hhorak)
+chair: Jan Staněk (jstanek)
 description: >
     The Software Collections SIG will provide an upstream development area for
     various software collections and related tools. Developers can build on and
     extend existing SCLs, so they don't need to re-invent the wheel or take
-    responsibility for packaging unnecessary dependencies. 
+    responsibility for packaging unnecessary dependencies.
