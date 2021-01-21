@@ -1,0 +1,16 @@
+project: CentOS Office Hours
+project_url: https://centos.org
+schedule:
+  - time:       '1700'
+    day:        Wednesday
+    irc:        centos-meeting
+    frequency:  second-wednesday
+  - time:       '10:00'
+    day:        Thursday
+    irc:        centos-meeting
+    frequency:  second-thursday
+chair: Karanbir Singh (kbsingh), Rich Bowen (rbowen)
+description: >
+    Come join us for an informal hour of discussion. Bring your concerns about the
+    project, suggestions for changes, or offers of help. This is not a tech support
+    hour but rather is about the running of the project itself.
