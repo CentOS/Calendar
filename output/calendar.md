@@ -8,9 +8,9 @@ toc: true
 
 ## Meeting schedule
 
-The IRC meetings schedule is driven by the [github.com/CentOS/Calendar](https://github.com/CentOS/Calendar) repository.  To propose a change or add a meeting, please submit a pull-request to that git-hub repository.  This repository is mirrored to git.centos.org.
+The IRC meetings schedule is driven by the [github.com/CentOS/Calendar](https://github.com/CentOS/Calendar) repository.  To propose a change or add a meeting, please submit a pull-request to that github repository.  This repository is mirrored to git.centos.org.
 
-Here is the link to a `.ical` file containing all CentOS IRC meetings, for use in your favorite calendaring app: [iCalendar Meeting Schedule](/community/irc-meetings.ical)
+The calendar is also available as an `.ical` file containing all CentOS IRC meetings, for use in your favorite calendaring app: [iCalendar Meeting Schedule](/community/irc-meetings.ical)
 
 A [list of all meetings](#list) is available below.
 
@@ -23,23 +23,32 @@ You can find meeting minutes [here](http://www.centos.org/minutes/).
 
 Here is a list of current meetings with their descriptions:
 
+* [CentOS Office Hours](#CentOS_Office_Hours)
 * [Cloud SIG](#Cloud_SIG)
 * [Community Buildsystem & Infrastructure Meeting](#Community_Buildsystem_&_Infrastructure_Meeting)
 * [Config Management SIG](#Config_Management_SIG)
 * [CPE Sustaining team stand-up](#CPE_Sustaining_team_stand-up)
 * [NFV SIG](#NFV_SIG)
 * [OpsTools SIG](#OpsTools_SIG)
-* [PaaS SIG](#PaaS_SIG)
 * [Software Collections SIG Sync-up](#Software_Collections_SIG_Sync-up)
 * [Storage SIG](#Storage_SIG)
 * [Virtualization SIG](#Virtualization_SIG)
+
+### <a name="CentOS_Office_Hours">CentOS Office Hours</a>
+
+* Every four weeks on week 2 of the four week rotation on Wednesday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-meeting
+* Every four weeks on week 2 of the four week rotation on Thursday at [1000 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=10&amp;min=00&amp;sec=0) in #centos-meeting
+* Chair (to contact for more information): Karanbir Singh (kbsingh), Rich Bowen (rbowen)
+* [Link to Project Site](https://centos.org)
+* Come join us for an informal hour of discussion. Bring your concerns about the project, suggestions for changes, or offers of help. This is not a tech support hour but rather is about the running of the project itself.
+
 
 ### <a name="Cloud_SIG">Cloud SIG</a>
 
 * Weekly on Thursday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Rain Leander (leanderthal) and Kushal Das (kushal)
 * [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/Cloud)
-* The proposed CentOS Cloud SIG (CCS) is a group of people coming together to focus on packaging and maintaining different FOSS based Private cloud infrastructure applications that one can install and run natively on CentOS. We are a non vendor, non technology and non agent specific focus group, but we will gladly work with and build content to suit relevant niches or vendor ecosystems. This group specifically targets users who wish to install and run their own, independent ( or hybrid ) cloud infrastructure on CentOS Linux.
+* The CentOS Cloud SIG (CCS) is a group of people coming together to focus on packaging and maintaining different FOSS based Private cloud infrastructure applications that one can install and run natively on CentOS. We are a non vendor, non technology and non agent specific focus group, but we will gladly work with and build content to suit relevant niches or vendor ecosystems. This group specifically targets users who wish to install and run their own, independent ( or hybrid ) cloud infrastructure on CentOS Linux.
 
 The CCS intends to take ownership of existing CentOS Project relationships with vendors, and help to maintain the updated package repositories for all participating cloud projects. 
 
@@ -89,14 +98,6 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 * The SIG will provide tools for operators, system administrators, devops and developers doing infrastructure engineering on content based on CentOS Linux. We will aim to support the Config Management SIG ( <a href="https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG" rel="noopener">https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG</a> ) and repurpose their content as and when needed in our space.
 
 
-### <a name="PaaS_SIG">PaaS SIG</a>
-
-* Weekly on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #centos-meeting
-* Chair (to contact for more information): Troy Dawson (tdawson)
-* [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/PaaS)
-* The SIG will work on delivering multiple PaaS Stacks. These stacks will come in various formats (rpms, containers, images etc ) The content will be delivered into the CentOS Ecosystem for end user consumption, run as a service, and support other CentOS Ecosystem projects.
-
-
 ### <a name="Software_Collections_SIG_Sync-up">Software Collections SIG Sync-up</a>
 
 * Every two weeks (on even weeks) on Tuesday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-meeting
@@ -123,4 +124,4 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 
 
-Page generated on 2021-01-21 14:10:48.539823 UTC
+Page generated on 2021-01-21 22:57:33.126965 UTC

@@ -64,23 +64,46 @@ DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CentOS Office Hours
+DTSTART;VALUE=DATE-TIME:20210210T140000Z
+DURATION:PT1H
+RRULE:FREQ=WEEKLY;INTERVAL=4
+DESCRIPTION:Project:  CentOS Office Hours\nChair:  Karanbir Singh (kbsingh
+ )\, Rich Bowen (rbowen)\nDescription:  Come join us for an informal hour o
+ f discussion. Bring your concerns about the project\, suggestions for chan
+ ges\, or offers of help. This is not a tech support hour but rather is abo
+ ut the running of the project itself.\n\nProject URL:  https://centos.org
+LOCATION:#centos-meeting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CentOS Office Hours
+DTSTART;VALUE=DATE-TIME:20210211T100000Z
+DURATION:PT1H
+RRULE:FREQ=WEEKLY;INTERVAL=4
+DESCRIPTION:Project:  CentOS Office Hours\nChair:  Karanbir Singh (kbsingh
+ )\, Rich Bowen (rbowen)\nDescription:  Come join us for an informal hour o
+ f discussion. Bring your concerns about the project\, suggestions for chan
+ ges\, or offers of help. This is not a tech support hour but rather is abo
+ ut the running of the project itself.\n\nProject URL:  https://centos.org
+LOCATION:#centos-meeting
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cloud SIG
 DTSTART;VALUE=DATE-TIME:20210121T150000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Cloud SIG\nChair:  Rain Leander (leanderthal) and Ku
- shal Das (kushal)\nDescription:  The proposed CentOS Cloud SIG (CCS) is a 
- group of people coming together to focus on packaging and maintaining diff
- erent FOSS based Private cloud infrastructure applications that one can in
- stall and run natively on CentOS. We are a non vendor\, non technology and
-  non agent specific focus group\, but we will gladly work with and build c
- ontent to suit relevant niches or vendor ecosystems. This group specifical
- ly targets users who wish to install and run their own\, independent ( or 
- hybrid ) cloud infrastructure on CentOS Linux.\n\nThe CCS intends to take 
- ownership of existing CentOS Project relationships with vendors\, and help
-  to maintain the updated package repositories for all participating cloud 
- projects. \n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/Cl
- oud
+ shal Das (kushal)\nDescription:  The CentOS Cloud SIG (CCS) is a group of 
+ people coming together to focus on packaging and maintaining different FOS
+ S based Private cloud infrastructure applications that one can install and
+  run natively on CentOS. We are a non vendor\, non technology and non agen
+ t specific focus group\, but we will gladly work with and build content to
+  suit relevant niches or vendor ecosystems. This group specifically target
+ s users who wish to install and run their own\, independent ( or hybrid ) 
+ cloud infrastructure on CentOS Linux.\n\nThe CCS intends to take ownership
+  of existing CentOS Project relationships with vendors\, and help to maint
+ ain the updated package repositories for all participating cloud projects.
+  \n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/Cloud
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
@@ -135,19 +158,6 @@ DESCRIPTION:Project:  OpsTools SIG\nChair:  Matthias Runge (mrunge) and  R
  fig Management SIG ( https://wiki.centos.org/SpecialInterestGroup/ConfigMa
  nagementSIG ) and repurpose their content as and when needed in our space.
  \n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/OpsTools
-LOCATION:#centos-meeting
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PaaS SIG
-DTSTART;VALUE=DATE-TIME:20210127T170000Z
-DURATION:PT1H
-RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  PaaS SIG\nChair:  Troy Dawson (tdawson)\nDescription
- :  The SIG will work on delivering multiple PaaS Stacks. These stacks will
-  come in various formats (rpms\, containers\, images etc ) The content wil
- l be delivered into the CentOS Ecosystem for end user consumption\, run as
-  a service\, and support other CentOS Ecosystem projects.\n\nProject URL: 
-  https://wiki.centos.org/SpecialInterestGroup/PaaS
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
