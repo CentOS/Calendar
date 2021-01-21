@@ -1,14 +1,14 @@
 project: CentOS Office Hours
 project_url: https://centos.org
 schedule:
-  - time:       '1700'
+  - time:       '1400'
     day:        Wednesday
     irc:        centos-meeting
-    frequency:  second-wednesday
-  - time:       '10:00'
+    frequency:  quadweekly-week-2
+  - time:       '1000'
     day:        Thursday
     irc:        centos-meeting
-    frequency:  second-thursday
+    frequency:  quadweekly-week-2
 chair: Karanbir Singh (kbsingh), Rich Bowen (rbowen)
 description: >
     Come join us for an informal hour of discussion. Bring your concerns about the
