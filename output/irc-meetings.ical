@@ -4,19 +4,68 @@ PRODID:-//yaml2ical agendas//EN
 X-WR-CALDESC:Meeting schedule for the CentOS Project and SIGS
 X-WR-CALNAME:CentOS Meetings
 BEGIN:VEVENT
-SUMMARY:Atomic SIG
-DTSTART;VALUE=DATE-TIME:20200723T160000Z
-DURATION:PT1H
+SUMMARY:CPE Sustaining team stand-up
+DTSTART;VALUE=DATE-TIME:20210125T083000Z
+DURATION:PT30M
 RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  Atomic SIG\nChair:  Jason Brooks (jbrooks)\nDescript
- ion:  The SIG is working on several goals including shipping a minimal Cen
- tOS Atomic Host that focuses on running Docker containers in production.\n
- \nProject URL:  http://wiki.centos.org/SpecialInterestGroup/Atomic
+DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
+ ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
+ \nDescription:  Sustaining team is a sub team of Community Platform Engine
+ ering in Red Hat. They maintain and develop applications for CentOS and Fe
+ dora\n\nProject URL:  docs.fedoraproject.org/en-US/cpe/working_with_us/
+LOCATION:#centos-meeting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE Sustaining team stand-up
+DTSTART;VALUE=DATE-TIME:20210126T083000Z
+DURATION:PT30M
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
+ ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
+ \nDescription:  Sustaining team is a sub team of Community Platform Engine
+ ering in Red Hat. They maintain and develop applications for CentOS and Fe
+ dora\n\nProject URL:  docs.fedoraproject.org/en-US/cpe/working_with_us/
+LOCATION:#centos-meeting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE Sustaining team stand-up
+DTSTART;VALUE=DATE-TIME:20210127T083000Z
+DURATION:PT30M
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
+ ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
+ \nDescription:  Sustaining team is a sub team of Community Platform Engine
+ ering in Red Hat. They maintain and develop applications for CentOS and Fe
+ dora\n\nProject URL:  docs.fedoraproject.org/en-US/cpe/working_with_us/
+LOCATION:#centos-meeting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE Sustaining team stand-up
+DTSTART;VALUE=DATE-TIME:20210121T083000Z
+DURATION:PT30M
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
+ ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
+ \nDescription:  Sustaining team is a sub team of Community Platform Engine
+ ering in Red Hat. They maintain and develop applications for CentOS and Fe
+ dora\n\nProject URL:  docs.fedoraproject.org/en-US/cpe/working_with_us/
+LOCATION:#centos-meeting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPE Sustaining team stand-up
+DTSTART;VALUE=DATE-TIME:20210122T083000Z
+DURATION:PT30M
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
+ ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
+ \nDescription:  Sustaining team is a sub team of Community Platform Engine
+ ering in Red Hat. They maintain and develop applications for CentOS and Fe
+ dora\n\nProject URL:  docs.fedoraproject.org/en-US/cpe/working_with_us/
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud SIG
-DTSTART;VALUE=DATE-TIME:20200723T150000Z
+DTSTART;VALUE=DATE-TIME:20210121T150000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Cloud SIG\nChair:  Rain Leander (leanderthal) and Ku
@@ -36,7 +85,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Buildsystem & Infrastructure Meeting
-DTSTART;VALUE=DATE-TIME:20200727T140000Z
+DTSTART;VALUE=DATE-TIME:20210125T140000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
@@ -50,7 +99,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Config Management SIG
-DTSTART;VALUE=DATE-TIME:20200724T170000Z
+DTSTART;VALUE=DATE-TIME:20210129T170000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Config Management SIG\nChair:  Julien Pivotto (roide
@@ -63,7 +112,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NFV SIG
-DTSTART;VALUE=DATE-TIME:20200729T150000Z
+DTSTART;VALUE=DATE-TIME:20210203T150000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  NFV SIG\nChair:  Alfredo Moralejo (amoralej)\nDescri
@@ -76,7 +125,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpsTools SIG
-DTSTART;VALUE=DATE-TIME:20200729T180000Z
+DTSTART;VALUE=DATE-TIME:20210127T180000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  OpsTools SIG\nChair:  Matthias Runge (mrunge) and  R
@@ -90,7 +139,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PaaS SIG
-DTSTART;VALUE=DATE-TIME:20200729T170000Z
+DTSTART;VALUE=DATE-TIME:20210127T170000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  PaaS SIG\nChair:  Troy Dawson (tdawson)\nDescription
@@ -103,21 +152,21 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Collections SIG Sync-up
-DTSTART;VALUE=DATE-TIME:20200804T140000Z
+DTSTART;VALUE=DATE-TIME:20210126T140000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY;INTERVAL=2
-DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Honza Hora
- k (hhorak)\nDescription:  The Software Collections SIG will provide an ups
- tream development area for various software collections and related tools.
-  Developers can build on and extend existing SCLs\, so they don't need to 
- re-invent the wheel or take responsibility for packaging unnecessary depen
- dencies. \n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/SCL
+DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Jan Staně
+ k (jstanek)\nDescription:  The Software Collections SIG will provide an up
+ stream development area for various software collections and related tools
+ . Developers can build on and extend existing SCLs\, so they don't need to
+  re-invent the wheel or take responsibility for packaging unnecessary depe
+ ndencies.\n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/SCL
  o
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Storage SIG
-DTSTART;VALUE=DATE-TIME:20200804T100000Z
+DTSTART;VALUE=DATE-TIME:20210202T100000Z
 DURATION:PT1H
 RRULE:FREQ=MONTHLY;BYDAY=1TU
 DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh)\, Niel
@@ -133,7 +182,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtualization SIG
-DTSTART;VALUE=DATE-TIME:20200805T160000Z
+DTSTART;VALUE=DATE-TIME:20210127T160000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Virtualization SIG\nChair:  George Dunlap (gwd)\nDes
