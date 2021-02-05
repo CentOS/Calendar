@@ -1,0 +1,10 @@
+project:  Hyperscale SIG
+project_url: https://wiki.centos.org/SpecialInterestGroup/Hyperscale
+schedule:
+  - time:       '1800'
+    day:        Wednesday
+    irc:        centos-meeting
+    frequency:  biweekly-odd
+chair: Davide Cavalca (dcavalca) and Justin Vreeland (jvreeland)
+description: |
+    The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling.
