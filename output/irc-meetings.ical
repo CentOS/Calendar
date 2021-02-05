@@ -5,7 +5,7 @@ X-WR-CALDESC:Meeting schedule for the CentOS Project and SIGS
 X-WR-CALNAME:CentOS Meetings
 BEGIN:VEVENT
 SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210125T083000Z
+DTSTART;VALUE=DATE-TIME:20210208T083000Z
 DURATION:PT30M
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
@@ -17,7 +17,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210126T083000Z
+DTSTART;VALUE=DATE-TIME:20210209T083000Z
 DURATION:PT30M
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
@@ -29,7 +29,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210127T083000Z
+DTSTART;VALUE=DATE-TIME:20210210T083000Z
 DURATION:PT30M
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
@@ -41,7 +41,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210121T083000Z
+DTSTART;VALUE=DATE-TIME:20210211T083000Z
 DURATION:PT30M
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
@@ -53,7 +53,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210122T083000Z
+DTSTART;VALUE=DATE-TIME:20210205T083000Z
 DURATION:PT30M
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
@@ -89,26 +89,27 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud SIG
-DTSTART;VALUE=DATE-TIME:20210121T150000Z
+DTSTART;VALUE=DATE-TIME:20210225T150000Z
 DURATION:PT1H
-RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  Cloud SIG\nChair:  Rain Leander (leanderthal) and Ku
- shal Das (kushal)\nDescription:  The CentOS Cloud SIG (CCS) is a group of 
- people coming together to focus on packaging and maintaining different FOS
- S based Private cloud infrastructure applications that one can install and
-  run natively on CentOS. We are a non vendor\, non technology and non agen
- t specific focus group\, but we will gladly work with and build content to
-  suit relevant niches or vendor ecosystems. This group specifically target
- s users who wish to install and run their own\, independent ( or hybrid ) 
- cloud infrastructure on CentOS Linux.\n\nThe CCS intends to take ownership
-  of existing CentOS Project relationships with vendors\, and help to maint
- ain the updated package repositories for all participating cloud projects.
-  \n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/Cloud
+RRULE:FREQ=WEEKLY;INTERVAL=4
+DESCRIPTION:Project:  Cloud SIG\nChair:  Interim Contacts - Amy Marrich (s
+ potz) and Alfredo Moralejo Alonso (amoralej)\nDescription:  The CentOS Clo
+ ud SIG (CCS) is a group of people coming together on the fourth Thursday o
+ f the month to focus on packaging and maintaining different FOSS based Pri
+ vate cloud infrastructure applications that one can install and run native
+ ly on CentOS. We are a non vendor\, non technology and non agent specific 
+ focus group\, but we will gladly work with and build content to suit relev
+ ant niches or vendor ecosystems. This group specifically targets users who
+  wish to install and run their own\, independent ( or hybrid ) cloud infra
+ structure on CentOS.\n\nThe CCS intends to take ownership of existing Cent
+ OS Project relationships with vendors\, and help to maintain the updated p
+ ackage repositories for all participating cloud projects. \n\nProject URL:
+   http://wiki.centos.org/SpecialInterestGroup/Cloud
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Buildsystem & Infrastructure Meeting
-DTSTART;VALUE=DATE-TIME:20210125T140000Z
+DTSTART;VALUE=DATE-TIME:20210208T140000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
@@ -122,7 +123,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Config Management SIG
-DTSTART;VALUE=DATE-TIME:20210129T170000Z
+DTSTART;VALUE=DATE-TIME:20210212T170000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Config Management SIG\nChair:  Julien Pivotto (roide
@@ -134,8 +135,20 @@ DESCRIPTION:Project:  Config Management SIG\nChair:  Julien Pivotto (roide
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hyperscale SIG
+DTSTART;VALUE=DATE-TIME:20210217T180000Z
+DURATION:PT1H
+RRULE:FREQ=WEEKLY;INTERVAL=2
+DESCRIPTION:Project:  Hyperscale SIG\nChair:  Davide Cavalca (dcavalca) an
+ d Justin Vreeland (jvreeland)\nDescription:  The Hyperscale SIG focuses on
+  enabling CentOS Stream deployment on large-scale infrastructures and faci
+ litating collaboration on packages and tooling.\n\nProject URL:  https://w
+ iki.centos.org/SpecialInterestGroup/Hyperscale
+LOCATION:#centos-meeting2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NFV SIG
-DTSTART;VALUE=DATE-TIME:20210203T150000Z
+DTSTART;VALUE=DATE-TIME:20210217T150000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  NFV SIG\nChair:  Alfredo Moralejo (amoralej)\nDescri
@@ -148,7 +161,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpsTools SIG
-DTSTART;VALUE=DATE-TIME:20210127T180000Z
+DTSTART;VALUE=DATE-TIME:20210210T180000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  OpsTools SIG\nChair:  Matthias Runge (mrunge) and  R
@@ -162,7 +175,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Collections SIG Sync-up
-DTSTART;VALUE=DATE-TIME:20210126T140000Z
+DTSTART;VALUE=DATE-TIME:20210209T140000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Jan Staně
@@ -176,7 +189,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Storage SIG
-DTSTART;VALUE=DATE-TIME:20210202T100000Z
+DTSTART;VALUE=DATE-TIME:20210302T100000Z
 DURATION:PT1H
 RRULE:FREQ=MONTHLY;BYDAY=1TU
 DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh)\, Niel
@@ -192,7 +205,7 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtualization SIG
-DTSTART;VALUE=DATE-TIME:20210127T160000Z
+DTSTART;VALUE=DATE-TIME:20210210T160000Z
 DURATION:PT1H
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Virtualization SIG\nChair:  George Dunlap (gwd)\nDes

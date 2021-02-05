@@ -16,7 +16,7 @@ A [list of all meetings](#list) is available below.
 
 ## Logging
 
-CentOS IRC channels and meetings are often logged using a meeting bot, for the purpose of taking minutes.
+CentOS IRC channels and meetings are often logged using a [https://wiki.centos.org/SIGGuide#SIGGuide.2FSIGProcess.2FDailyWorkings.Meetbot_Commands](meeting bot), for the purpose of taking minutes.
 You can find meeting minutes [here](http://www.centos.org/minutes/).
 
 ## <a name="list">Meeting List</a>
@@ -28,6 +28,7 @@ Here is a list of current meetings with their descriptions:
 * [Community Buildsystem & Infrastructure Meeting](#Community_Buildsystem_&_Infrastructure_Meeting)
 * [Config Management SIG](#Config_Management_SIG)
 * [CPE Sustaining team stand-up](#CPE_Sustaining_team_stand-up)
+* [Hyperscale SIG](#Hyperscale_SIG)
 * [NFV SIG](#NFV_SIG)
 * [OpsTools SIG](#OpsTools_SIG)
 * [Software Collections SIG Sync-up](#Software_Collections_SIG_Sync-up)
@@ -45,10 +46,10 @@ Here is a list of current meetings with their descriptions:
 
 ### <a name="Cloud_SIG">Cloud SIG</a>
 
-* Weekly on Thursday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
-* Chair (to contact for more information): Rain Leander (leanderthal) and Kushal Das (kushal)
+* Every four weeks on week 0 of the four week rotation on Thursday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
+* Chair (to contact for more information): Interim Contacts - Amy Marrich (spotz) and Alfredo Moralejo Alonso (amoralej)
 * [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/Cloud)
-* The CentOS Cloud SIG (CCS) is a group of people coming together to focus on packaging and maintaining different FOSS based Private cloud infrastructure applications that one can install and run natively on CentOS. We are a non vendor, non technology and non agent specific focus group, but we will gladly work with and build content to suit relevant niches or vendor ecosystems. This group specifically targets users who wish to install and run their own, independent ( or hybrid ) cloud infrastructure on CentOS Linux.
+* The CentOS Cloud SIG (CCS) is a group of people coming together on the fourth Thursday of the month to focus on packaging and maintaining different FOSS based Private cloud infrastructure applications that one can install and run natively on CentOS. We are a non vendor, non technology and non agent specific focus group, but we will gladly work with and build content to suit relevant niches or vendor ecosystems. This group specifically targets users who wish to install and run their own, independent ( or hybrid ) cloud infrastructure on CentOS.
 
 The CCS intends to take ownership of existing CentOS Project relationships with vendors, and help to maintain the updated package repositories for all participating cloud projects. 
 
@@ -79,6 +80,14 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 * Chair (to contact for more information): Pierre-Yves Chibon (pingou), Fabian Arrotin (Arrfab), Vipul Siddharth (siddharthvipul)
 * [Link to Project Site](docs.fedoraproject.org/en-US/cpe/working_with_us/)
 * Sustaining team is a sub team of Community Platform Engineering in Red Hat. They maintain and develop applications for CentOS and Fedora
+
+
+### <a name="Hyperscale_SIG">Hyperscale SIG</a>
+
+* Every two weeks (on odd weeks) on Wednesday at [1800 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=18&amp;min=00&amp;sec=0) in #centos-meeting2
+* Chair (to contact for more information): Davide Cavalca (dcavalca) and Justin Vreeland (jvreeland)
+* [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Hyperscale)
+* The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling.
 
 
 ### <a name="NFV_SIG">NFV SIG</a>
@@ -124,4 +133,4 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 
 
-Page generated on 2021-01-21 22:57:33.126965 UTC
+Page generated on 2021-02-05 16:19:12.812876 UTC
