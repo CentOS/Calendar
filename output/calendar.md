@@ -46,10 +46,10 @@ Here is a list of current meetings with their descriptions:
 
 ### <a name="Cloud_SIG">Cloud SIG</a>
 
-* Every four weeks on week 0 of the four week rotation on Thursday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
-* Chair (to contact for more information): Interim Contacts - Amy Marrich (spotz) and Alfredo Moralejo Alonso (amoralej)
+* Every two weeks (on even weeks) on Thursday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
+* Chair (to contact for more information): Alfredo Moralejo Alonso (amoralej) and Paul B. Isaacs (paulbisaacs)
 * [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/Cloud)
-* The CentOS Cloud SIG (CCS) is a group of people coming together on the fourth Thursday of the month to focus on packaging and maintaining different FOSS based Private cloud infrastructure applications that one can install and run natively on CentOS. We are a non vendor, non technology and non agent specific focus group, but we will gladly work with and build content to suit relevant niches or vendor ecosystems. This group specifically targets users who wish to install and run their own, independent ( or hybrid ) cloud infrastructure on CentOS.
+* The CentOS Cloud SIG (CCS) is a group of people coming together to focus on packaging and maintaining different FOSS based Private cloud infrastructure applications that one can install and run natively on CentOS. We are a non vendor, non technology and non agent specific focus group, but we will gladly work with and build content to suit relevant niches or vendor ecosystems. This group specifically targets users who wish to install and run their own, independent ( or hybrid ) cloud infrastructure on CentOS.
 
 The CCS intends to take ownership of existing CentOS Project relationships with vendors, and help to maintain the updated package repositories for all participating cloud projects. 
 
@@ -133,4 +133,4 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 
 
-Page generated on 2021-02-05 16:19:12.812876 UTC
+Page generated on 2021-02-25 18:53:08.345137 UTC

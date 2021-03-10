@@ -1,0 +1,10 @@
+project: CentOS Stream Office Hours (Google Chat)
+project_url: https://centos.org
+schedule:
+  - time: '1700'
+    day:  Wednesday
+    frequency: monthly
+Chair: Rich Bowen (rbowen)
+description: >
+  Monthly CentOS Stream office hours on Google Meet: https://meet.google.com/bqa-xrqd-zhq
+  Come with your CentOS Stream questions, or just to hang out.
