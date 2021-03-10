@@ -24,6 +24,7 @@ You can find meeting minutes [here](http://www.centos.org/minutes/).
 Here is a list of current meetings with their descriptions:
 
 * [CentOS Office Hours](#CentOS_Office_Hours)
+* [CentOS Stream Office Hours (Google Chat)](#CentOS_Stream_Office_Hours_(Google_Chat))
 * [Cloud SIG](#Cloud_SIG)
 * [Community Buildsystem & Infrastructure Meeting](#Community_Buildsystem_&_Infrastructure_Meeting)
 * [Config Management SIG](#Config_Management_SIG)
@@ -42,6 +43,14 @@ Here is a list of current meetings with their descriptions:
 * Chair (to contact for more information): Karanbir Singh (kbsingh), Rich Bowen (rbowen)
 * [Link to Project Site](https://centos.org)
 * Come join us for an informal hour of discussion. Bring your concerns about the project, suggestions for changes, or offers of help. This is not a tech support hour but rather is about the running of the project itself.
+
+
+### <a name="CentOS_Stream_Office_Hours_(Google_Chat)">CentOS Stream Office Hours (Google Chat)</a>
+
+* Every four weeks on week 2 of the four week rotation on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #na
+* Chair (to contact for more information): Rich Bowen (rbowen)
+* [Link to Project Site](https://centos.org)
+* Monthly CentOS Stream office hours on Google Meet: <a href="https://meet.google.com/bqa-xrqd-zhq" rel="noopener">https://meet.google.com/bqa-xrqd-zhq</a> Come with your CentOS Stream questions, or just to hang out.
 
 
 ### <a name="Cloud_SIG">Cloud SIG</a>
@@ -133,4 +142,4 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 
 
-Page generated on 2021-02-25 18:53:08.345137 UTC
+Page generated on 2021-03-10 17:23:02.395889 UTC
