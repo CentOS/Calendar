@@ -4,7 +4,7 @@ schedule:
   - time: '1700'
     day:  Wednesday
     frequency: quadweekly-week-2
-    irc: na
+    irc: google-chat
 chair: Rich Bowen (rbowen)
 description: >
   Monthly CentOS Stream office hours on Google Meet: https://meet.google.com/pkd-qzvn-oyw

@@ -50,7 +50,7 @@ Here is a list of current meetings with their descriptions:
 * Every four weeks on week 2 of the four week rotation on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #na
 * Chair (to contact for more information): Rich Bowen (rbowen)
 * [Link to Project Site](https://centos.org)
-* Monthly CentOS Stream office hours on Google Meet: <a href="https://meet.google.com/bqa-xrqd-zhq" rel="noopener">https://meet.google.com/bqa-xrqd-zhq</a> Come with your CentOS Stream questions, or just to hang out.
+* Monthly CentOS Stream office hours on Google Meet: <a href="https://meet.google.com/pkd-qzvn-oyw" rel="noopener">https://meet.google.com/pkd-qzvn-oyw</a> Come with your CentOS Stream questions, or just to hang out.
 
 
 ### <a name="Cloud_SIG">Cloud SIG</a>
@@ -142,4 +142,4 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 
 
-Page generated on 2021-03-10 17:23:02.395889 UTC
+Page generated on 2021-03-10 17:31:00.818666 UTC
