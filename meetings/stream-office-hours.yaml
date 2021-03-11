@@ -3,7 +3,7 @@ project_url: https://centos.org
 schedule:
   - time: '1700'
     day:  Wednesday
-    frequency: quadweekly-week-2
+    frequency: second-wednesday
     irc: google-chat
 chair: Rich Bowen (rbowen)
 description: >
