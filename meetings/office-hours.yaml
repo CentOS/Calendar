@@ -4,11 +4,11 @@ schedule:
   - time:       '1400'
     day:        Wednesday
     irc:        centos-meeting
-    frequency:  quadweekly-week-2
+    frequency:  second-wednesday
   - time:       '1000'
     day:        Thursday
     irc:        centos-meeting
-    frequency:  quadweekly-week-2
+    frequency:  second-thursday
 chair: Karanbir Singh (kbsingh), Rich Bowen (rbowen)
 description: >
     Come join us for an informal hour of discussion. Bring your concerns about the
