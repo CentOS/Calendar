@@ -66,24 +66,29 @@ will be import into Python as a dictionary.
 
 # Maintainer Notes
 
-## To create the output files, run yaml2ical (https://github.com/openstack-infra/yaml2ical).
+## To create the output files, run yaml2ical (https://opendev.org/opendev/yaml2ical)
 
 The correct command line arguments are provided in the script `doit.sh`,
 but you will likely have to modify the specific paths in that script for
 your particular setup.
 
-Note also that if you use second-WEEKDAY or fourth-WEEKDAY meeting
-sigifiers, this feature relies on an unaccepted patch to upstream
-yaml2ical, which you can find here: https://review.opendev.org/c/opendev/yaml2ical/+/780266
+`yaml2ical` can be installed via `dnf install yaml2ical`, but this might
+not be the version you need, depending on when you're reading this.
+
+If you use second-WEEKDAY or fourth-WEEKDAY meeting
+sigifiers, (and some of the meetings in this repository do)
+this feature relies on an unaccepted patch to upstream
+yaml2ical, which you can find here: 
+https://review.opendev.org/c/opendev/yaml2ical/+/780266
 
 Hopefully this patch will be accepted soon and this will Just Work.
 
 ## To publish output, do the following
 
-Commit the generated files to the /content/community directory in https://git.centos.org/centos/centos.org
+Commit the generated files to the `/content/community` directory in https://git.centos.org/centos/centos.org
 
 Note that `doit.sh` copies the files into the correct directory if your
-directory structure matches (ie, the centos website is in ../centos.org
+directory structure matches (ie, the centos website is in `../centos.org`
 in your directory layout) so you'll just have to go commit that change
 and create a PR at git.centos.org
 
