@@ -66,12 +66,24 @@ will be import into Python as a dictionary.
 
 # Maintainer Notes
 
-## To create the output files, run yaml2ical (https://github.com/openstack-infra/yaml2ical).  A container, bexelbie/yaml2ical has been created to assist with this.  Using the container, run:
+## To create the output files, run yaml2ical (https://github.com/openstack-infra/yaml2ical).
 
-    docker run --rm=true --privileged -u `id -u`:`id -g` -v `pwd`:/workdir bexelbie/yaml2ical -y meetings -o output/irc-meetings.ical -t list.markdown.jinja -w output/calendar.markdown -f -n "CentOS Meetings" -d "Meeting schedule for the CentOS Project and SIGS"
+The correct command line arguments are provided in the script `doit.sh`,
+but you will likely have to modify the specific paths in that script for
+your particular setup.
+
+Note also that if you use second-WEEKDAY or fourth-WEEKDAY meeting
+sigifiers, this feature relies on an unaccepted patch to upstream
+yaml2ical, which you can find here: https://review.opendev.org/c/opendev/yaml2ical/+/780266
+
+Hopefully this patch will be accepted soon and this will Just Work.
 
 ## To publish output, do the following
 
-1. `mv output/calendar.markdown output/calendar.md`
-2. Commit the output ical (and optionally but recommended) the markdown output to the CentOS git server
-3. Copy/Commit output/calendar.md to git.centos.org/git/websites/centos.org.git/content/community/calendar.md
+Commit the generated files to the /content/community directory in https://git.centos.org/centos/centos.org
+
+Note that `doit.sh` copies the files into the correct directory if your
+directory structure matches (ie, the centos website is in ../centos.org
+in your directory layout) so you'll just have to go commit that change
+and create a PR at git.centos.org
+
