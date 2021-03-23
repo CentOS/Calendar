@@ -1,9 +1,9 @@
 project:  Hyperscale SIG
 project_url: https://wiki.centos.org/SpecialInterestGroup/Hyperscale
 schedule:
-  - time:       '1800'
+  - time:       '1600'
     day:        Wednesday
-    irc:        centos-meeting2
+    irc:        centos-meeting
     frequency:  biweekly-odd
 chair: Davide Cavalca (dcavalca) and Justin Vreeland (jvreeland)
 description: |
