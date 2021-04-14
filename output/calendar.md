@@ -12,6 +12,9 @@ The IRC meetings schedule is driven by the [github.com/CentOS/Calendar](https://
 
 The calendar is also available as an `.ical` file containing all CentOS IRC meetings, for use in your favorite calendaring app: [iCalendar Meeting Schedule](/community/irc-meetings.ical)
 
+Note that you should *subscribe* to this link, rather than *import* it,
+because it is subject to change.
+
 A [list of all meetings](#list) is available below.
 
 ## Logging
@@ -142,4 +145,4 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 
 
-Page generated on 2021-04-14 15:59:29.772347 UTC
+Page generated on 2021-04-14 16:30:03.676502 UTC
