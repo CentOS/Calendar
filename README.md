@@ -44,8 +44,8 @@ will be import into Python as a dictionary.
 
 * The schedule is a list of dictionaries each consisting of `time` in UTC,
   `day` of the week, the `irc` meeting room, and the `frequency` of the
-  meeting. Options for the `frequency` are `weekly`, `biweekly-even`, and
-  `biweekly-odd` at the moment.
+  meeting. Options for the `frequency` are documented in the yaml2ical
+  docs (https://opendev.org/opendev/yaml2ical)
 
         schedule:
             - time:       '1600'
@@ -74,14 +74,6 @@ your particular setup.
 
 `yaml2ical` can be installed via `dnf install yaml2ical`, but this might
 not be the version you need, depending on when you're reading this.
-
-If you use second-WEEKDAY or fourth-WEEKDAY meeting
-sigifiers, (and some of the meetings in this repository do)
-this feature relies on an unaccepted patch to upstream
-yaml2ical, which you can find here: 
-https://review.opendev.org/c/opendev/yaml2ical/+/780266
-
-Hopefully this patch will be accepted soon and this will Just Work.
 
 ## To publish output, do the following
 

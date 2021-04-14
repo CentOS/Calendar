@@ -38,8 +38,8 @@ Here is a list of current meetings with their descriptions:
 
 ### <a name="CentOS_Office_Hours">CentOS Office Hours</a>
 
-* Every four weeks on week 2 of the four week rotation on Wednesday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-meeting
-* Every four weeks on week 2 of the four week rotation on Thursday at [1000 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=10&amp;min=00&amp;sec=0) in #centos-meeting
+* Monthly on Wednesday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-meeting
+* Monthly on Thursday at [1000 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=10&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Karanbir Singh (kbsingh), Rich Bowen (rbowen)
 * [Link to Project Site](https://centos.org)
 * Come join us for an informal hour of discussion. Bring your concerns about the project, suggestions for changes, or offers of help. This is not a tech support hour but rather is about the running of the project itself.
@@ -47,7 +47,7 @@ Here is a list of current meetings with their descriptions:
 
 ### <a name="CentOS_Stream_Office_Hours_(Google_Chat)">CentOS Stream Office Hours (Google Chat)</a>
 
-* Every four weeks on week 2 of the four week rotation on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #na
+* Monthly on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #google-chat
 * Chair (to contact for more information): Rich Bowen (rbowen)
 * [Link to Project Site](https://centos.org)
 * Monthly CentOS Stream office hours on Google Meet: <a href="https://meet.google.com/pkd-qzvn-oyw" rel="noopener">https://meet.google.com/pkd-qzvn-oyw</a> Come with your CentOS Stream questions, or just to hang out.
@@ -93,7 +93,7 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 ### <a name="Hyperscale_SIG">Hyperscale SIG</a>
 
-* Every two weeks (on odd weeks) on Wednesday at [1800 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=18&amp;min=00&amp;sec=0) in #centos-meeting2
+* Every two weeks (on odd weeks) on Wednesday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Davide Cavalca (dcavalca) and Justin Vreeland (jvreeland)
 * [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Hyperscale)
 * The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling.
@@ -142,4 +142,4 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 
 
-Page generated on 2021-03-10 17:31:00.818666 UTC
+Page generated on 2021-04-14 15:59:29.772347 UTC
