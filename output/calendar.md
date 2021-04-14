@@ -27,7 +27,7 @@ You can find meeting minutes [here](http://www.centos.org/minutes/).
 Here is a list of current meetings with their descriptions:
 
 * [CentOS Office Hours](#CentOS_Office_Hours)
-* [CentOS Stream Office Hours (Google Chat)](#CentOS_Stream_Office_Hours_(Google_Chat))
+* [CentOS Stream Office Hours (Google Meet, not IRC)](#CentOS_Stream_Office_Hours_(Google_Meet,_not_IRC))
 * [Cloud SIG](#Cloud_SIG)
 * [Community Buildsystem & Infrastructure Meeting](#Community_Buildsystem_&_Infrastructure_Meeting)
 * [Config Management SIG](#Config_Management_SIG)
@@ -48,9 +48,9 @@ Here is a list of current meetings with their descriptions:
 * Come join us for an informal hour of discussion. Bring your concerns about the project, suggestions for changes, or offers of help. This is not a tech support hour but rather is about the running of the project itself.
 
 
-### <a name="CentOS_Stream_Office_Hours_(Google_Chat)">CentOS Stream Office Hours (Google Chat)</a>
+### <a name="CentOS_Stream_Office_Hours_(Google_Meet,_not_IRC)">CentOS Stream Office Hours (Google Meet, not IRC)</a>
 
-* Monthly on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #google-chat
+* Monthly on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #google-meet
 * Chair (to contact for more information): Rich Bowen (rbowen)
 * [Link to Project Site](https://centos.org)
 * Monthly CentOS Stream office hours on Google Meet: <a href="https://meet.google.com/pkd-qzvn-oyw" rel="noopener">https://meet.google.com/pkd-qzvn-oyw</a> Come with your CentOS Stream questions, or just to hang out.
@@ -145,4 +145,4 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 
 
-Page generated on 2021-04-14 16:30:03.676502 UTC
+Page generated on 2021-04-14 17:09:26.693539 UTC

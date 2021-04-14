@@ -102,17 +102,18 @@ DESCRIPTION:Project:  CentOS Office Hours\nChair:  Karanbir Singh (kbsingh
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CentOS Stream Office Hours (Google Chat)
+SUMMARY:CentOS Stream Office Hours (Google Meet\, not IRC)
 DTSTART;VALUE=DATE-TIME:20210512T170000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210311T171334Z
-UID:centosstreamofficehours(googlechat)-20210512
+UID:centosstreamofficehours(googlemeet\,notirc)-20210512
 RRULE:FREQ=MONTHLY;BYDAY=2WE
-DESCRIPTION:Project:  CentOS Stream Office Hours (Google Chat)\nChair:  Ri
- ch Bowen (rbowen)\nDescription:  Monthly CentOS Stream office hours on Goo
- gle Meet: https://meet.google.com/pkd-qzvn-oyw Come with your CentOS Strea
- m questions\, or just to hang out.\n\nProject URL:  https://centos.org
-LOCATION:#google-chat
+DESCRIPTION:Project:  CentOS Stream Office Hours (Google Meet\, not IRC)\n
+ Chair:  Rich Bowen (rbowen)\nDescription:  Monthly CentOS Stream office ho
+ urs on Google Meet: https://meet.google.com/pkd-qzvn-oyw Come with your Ce
+ ntOS Stream questions\, or just to hang out.\n\nProject URL:  https://cent
+ os.org
+LOCATION:#google-meet
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud SIG

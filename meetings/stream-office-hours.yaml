@@ -1,10 +1,10 @@
-project: CentOS Stream Office Hours (Google Chat)
+project: CentOS Stream Office Hours (Google Meet, not IRC)
 project_url: https://centos.org
 schedule:
   - time: '1700'
     day:  Wednesday
     frequency: second-wednesday
-    irc: google-chat
+    irc: google-meet
 chair: Rich Bowen (rbowen)
 description: >
   Monthly CentOS Stream office hours on Google Meet: https://meet.google.com/pkd-qzvn-oyw
