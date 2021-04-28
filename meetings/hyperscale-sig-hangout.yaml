@@ -1,0 +1,11 @@
+project:  Hyperscale SIG monthly hangout
+project_url: https://wiki.centos.org/SpecialInterestGroup/Hyperscale
+schedule:
+  - time:       '2200'
+    day:        Wednesday
+    irc:        rooms-vc
+    frequency:  third-wednesday
+chair: Davide Cavalca (dcavalca) and Justin Vreeland (jvreeland)
+description: |
+    Monthly Hyperscale SIG hangout (Rooms VC, not IRC): https://fb.workplace.com/groupcall/LINK:oahfrnjmtwsg/
+    The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling. This is a monthly VC to work together on a common project, ask questions, or just hang out.
