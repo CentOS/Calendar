@@ -4,7 +4,7 @@ agenda_url: https://hackmd.io/@qItv4l_CSAOOoigrY3dOGA/rkAGV6Lpr
 schedule:
   - time:       '1000'
     day:        Tuesday
-    irc:        centos-meeting
+    irc:        centos-meeting2
     frequency:  first-tuesday
 chair:  Karanbir Singh (kbsingh), Niels de Vos (ndevos), Giulio Fidente (gfidente)
 description: >
@@ -12,4 +12,4 @@ description: >
     individuals coming together to ensure that CentOS is a suitable platform for
     many different storage solutions. This group will ensure that all Open
     Source storage options seeking to utilize CentOS as a delivery platform have
-    a voice in packaging, orchestration, deployment, and related work. 
+    a voice in packaging, orchestration, deployment, and related work.
