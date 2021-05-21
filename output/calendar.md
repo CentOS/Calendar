@@ -33,6 +33,7 @@ Here is a list of current meetings with their descriptions:
 * [Config Management SIG](#Config_Management_SIG)
 * [CPE Sustaining team stand-up](#CPE_Sustaining_team_stand-up)
 * [Hyperscale SIG](#Hyperscale_SIG)
+* [Hyperscale SIG monthly hangout](#Hyperscale_SIG_monthly_hangout)
 * [NFV SIG](#NFV_SIG)
 * [OpsTools SIG](#OpsTools_SIG)
 * [Software Collections SIG Sync-up](#Software_Collections_SIG_Sync-up)
@@ -102,6 +103,15 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 * The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling.
 
 
+### <a name="Hyperscale_SIG_monthly_hangout">Hyperscale SIG monthly hangout</a>
+
+* Monthly on Wednesday at [2200 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=22&amp;min=00&amp;sec=0) in #rooms-vc
+* Chair (to contact for more information): Davide Cavalca (dcavalca) and Justin Vreeland (jvreeland)
+* [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Hyperscale)
+* Monthly Hyperscale SIG hangout (Rooms VC, not IRC): <a href="https://fb.workplace.com/groupcall/LINK:oahfrnjmtwsg/" rel="noopener">https://fb.workplace.com/groupcall/LINK:oahfrnjmtwsg/</a>
+The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling. This is a monthly VC to work together on a common project, ask questions, or just hang out.
+
+
 ### <a name="NFV_SIG">NFV SIG</a>
 
 * Every two weeks (on odd weeks) on Wednesday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
@@ -129,10 +139,10 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 ### <a name="Storage_SIG">Storage SIG</a>
 
-* Monthly on Tuesday at [1000 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=10&amp;min=00&amp;sec=0) in #centos-meeting
+* Monthly on Tuesday at [1000 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=10&amp;min=00&amp;sec=0) in #centos-meeting2
 * Chair (to contact for more information): Karanbir Singh (kbsingh), Niels de Vos (ndevos), Giulio Fidente (gfidente)
 * [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/Storage)
-* The CentOS Storage Special Interest Group (SIG) is a collection of like-minded individuals coming together to ensure that CentOS is a suitable platform for many different storage solutions. This group will ensure that all Open Source storage options seeking to utilize CentOS as a delivery platform have a voice in packaging, orchestration, deployment, and related work. 
+* The CentOS Storage Special Interest Group (SIG) is a collection of like-minded individuals coming together to ensure that CentOS is a suitable platform for many different storage solutions. This group will ensure that all Open Source storage options seeking to utilize CentOS as a delivery platform have a voice in packaging, orchestration, deployment, and related work.
 
 * [Link to Agenda](https://hackmd.io/@qItv4l_CSAOOoigrY3dOGA/rkAGV6Lpr)
 
@@ -145,4 +155,4 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 
 
-Page generated on 2021-04-14 17:09:26.693539 UTC
+Page generated on 2021-05-21 12:23:25.729758 UTC

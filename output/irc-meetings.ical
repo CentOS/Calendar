@@ -5,10 +5,10 @@ X-WR-CALDESC:Meeting schedule for the CentOS Project and SIGS
 X-WR-CALNAME:CentOS Meetings
 BEGIN:VEVENT
 SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210419T083000Z
+DTSTART;VALUE=DATE-TIME:20210524T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20200825T200017Z
-UID:cpesustainingteamstand-up-20210419
+UID:cpesustainingteamstand-up-20210524
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
  ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
@@ -19,10 +19,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210420T083000Z
+DTSTART;VALUE=DATE-TIME:20210525T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20200825T200017Z
-UID:cpesustainingteamstand-up-20210420
+UID:cpesustainingteamstand-up-20210525
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
  ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
@@ -33,10 +33,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210414T083000Z
+DTSTART;VALUE=DATE-TIME:20210526T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20200825T200017Z
-UID:cpesustainingteamstand-up-20210414
+UID:cpesustainingteamstand-up-20210526
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
  ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
@@ -47,10 +47,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210415T083000Z
+DTSTART;VALUE=DATE-TIME:20210527T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20200825T200017Z
-UID:cpesustainingteamstand-up-20210415
+UID:cpesustainingteamstand-up-20210527
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
  ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
@@ -61,10 +61,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210416T083000Z
+DTSTART;VALUE=DATE-TIME:20210521T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20200825T200017Z
-UID:cpesustainingteamstand-up-20210416
+UID:cpesustainingteamstand-up-20210521
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
  ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
@@ -75,10 +75,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CentOS Office Hours
-DTSTART;VALUE=DATE-TIME:20210512T140000Z
+DTSTART;VALUE=DATE-TIME:20210609T140000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210312T092021Z
-UID:centosofficehours-20210512
+UID:centosofficehours-20210609
 RRULE:FREQ=MONTHLY;BYDAY=2WE
 DESCRIPTION:Project:  CentOS Office Hours\nChair:  Karanbir Singh (kbsingh
  )\, Rich Bowen (rbowen)\nDescription:  Come join us for an informal hour o
@@ -89,10 +89,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CentOS Office Hours
-DTSTART;VALUE=DATE-TIME:20210513T100000Z
+DTSTART;VALUE=DATE-TIME:20210610T100000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210312T092021Z
-UID:centosofficehours-20210513
+UID:centosofficehours-20210610
 RRULE:FREQ=MONTHLY;BYDAY=2TH
 DESCRIPTION:Project:  CentOS Office Hours\nChair:  Karanbir Singh (kbsingh
  )\, Rich Bowen (rbowen)\nDescription:  Come join us for an informal hour o
@@ -103,10 +103,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CentOS Stream Office Hours (Google Meet\, not IRC)
-DTSTART;VALUE=DATE-TIME:20210512T170000Z
+DTSTART;VALUE=DATE-TIME:20210609T170000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20210311T171334Z
-UID:centosstreamofficehours(googlemeet\,notirc)-20210512
+DTSTAMP;VALUE=DATE-TIME:20210414T130935Z
+UID:centosstreamofficehours(googlemeet\,notirc)-20210609
 RRULE:FREQ=MONTHLY;BYDAY=2WE
 DESCRIPTION:Project:  CentOS Stream Office Hours (Google Meet\, not IRC)\n
  Chair:  Rich Bowen (rbowen)\nDescription:  Monthly CentOS Stream office ho
@@ -117,10 +117,10 @@ LOCATION:#google-meet
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud SIG
-DTSTART;VALUE=DATE-TIME:20210422T150000Z
+DTSTART;VALUE=DATE-TIME:20210603T150000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210225T104805Z
-UID:cloudsig-20210422
+UID:cloudsig-20210603
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Cloud SIG\nChair:  Alfredo Moralejo Alonso (amoralej
  ) and Paul B. Isaacs (paulbisaacs)\nDescription:  The CentOS Cloud SIG (CC
@@ -139,10 +139,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Community Buildsystem & Infrastructure Meeting
-DTSTART;VALUE=DATE-TIME:20210419T140000Z
+DTSTART;VALUE=DATE-TIME:20210524T140000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20191204T103820Z
-UID:communitybuildsystem&infrastructuremeeting-20210419
+UID:communitybuildsystem&infrastructuremeeting-20210524
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
  r:  Brian Stinson (bstinson)\, Fabian Arrotin (Arrfab)\, Karanbir Singh (k
@@ -155,10 +155,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Config Management SIG
-DTSTART;VALUE=DATE-TIME:20210423T170000Z
+DTSTART;VALUE=DATE-TIME:20210521T170000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20191204T103820Z
-UID:configmanagementsig-20210423
+UID:configmanagementsig-20210521
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Config Management SIG\nChair:  Julien Pivotto (roide
  lapluie)\nDescription:  The Config Management SIG is a SpecialInterestGrou
@@ -170,10 +170,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hyperscale SIG
-DTSTART;VALUE=DATE-TIME:20210414T160000Z
+DTSTART;VALUE=DATE-TIME:20210526T160000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210317T162150Z
-UID:hyperscalesig-20210414
+UID:hyperscalesig-20210526
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Hyperscale SIG\nChair:  Davide Cavalca (dcavalca) an
  d Justin Vreeland (jvreeland)\nDescription:  The Hyperscale SIG focuses on
@@ -183,11 +183,28 @@ DESCRIPTION:Project:  Hyperscale SIG\nChair:  Davide Cavalca (dcavalca) an
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hyperscale SIG monthly hangout
+DTSTART;VALUE=DATE-TIME:20210616T220000Z
+DURATION:PT1H
+DTSTAMP;VALUE=DATE-TIME:20210428T162954Z
+UID:hyperscalesigmonthlyhangout-20210616
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+DESCRIPTION:Project:  Hyperscale SIG monthly hangout\nChair:  Davide Caval
+ ca (dcavalca) and Justin Vreeland (jvreeland)\nDescription:  Monthly Hyper
+ scale SIG hangout (Rooms VC\, not IRC): https://fb.workplace.com/groupcall
+ /LINK:oahfrnjmtwsg/\nThe Hyperscale SIG focuses on enabling CentOS Stream 
+ deployment on large-scale infrastructures and facilitating collaboration o
+ n packages and tooling. This is a monthly VC to work together on a common 
+ project\, ask questions\, or just hang out.\n\nProject URL:  https://wiki.
+ centos.org/SpecialInterestGroup/Hyperscale
+LOCATION:#rooms-vc
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NFV SIG
-DTSTART;VALUE=DATE-TIME:20210414T150000Z
+DTSTART;VALUE=DATE-TIME:20210526T150000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20200723T102436Z
-UID:nfvsig-20210414
+UID:nfvsig-20210526
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  NFV SIG\nChair:  Alfredo Moralejo (amoralej)\nDescri
  ption:  The goal of NFV SIG is to provide a set of packages related to vir
@@ -199,10 +216,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpsTools SIG
-DTSTART;VALUE=DATE-TIME:20210414T180000Z
+DTSTART;VALUE=DATE-TIME:20210526T180000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20191204T103820Z
-UID:opstoolssig-20210414
+UID:opstoolssig-20210526
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  OpsTools SIG\nChair:  Matthias Runge (mrunge) and  R
  ic Megginson (richm)\nDescription:  The SIG will provide tools for operato
@@ -215,10 +232,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Collections SIG Sync-up
-DTSTART;VALUE=DATE-TIME:20210420T140000Z
+DTSTART;VALUE=DATE-TIME:20210601T140000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20200731T142602Z
-UID:softwarecollectionssigsync-up-20210420
+UID:softwarecollectionssigsync-up-20210601
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Jan Staně
  k (jstanek)\nDescription:  The Software Collections SIG will provide an up
@@ -231,10 +248,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Storage SIG
-DTSTART;VALUE=DATE-TIME:20210504T100000Z
+DTSTART;VALUE=DATE-TIME:20210601T100000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20200330T092707Z
-UID:storagesig-20210504
+DTSTAMP;VALUE=DATE-TIME:20210429T114918Z
+UID:storagesig-20210601
 RRULE:FREQ=MONTHLY;BYDAY=1TU
 DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh)\, Niel
  s de Vos (ndevos)\, Giulio Fidente (gfidente)\nDescription:  The CentOS St
@@ -242,17 +259,17 @@ DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh)\, Niel
  als coming together to ensure that CentOS is a suitable platform for many 
  different storage solutions. This group will ensure that all Open Source s
  torage options seeking to utilize CentOS as a delivery platform have a voi
- ce in packaging\, orchestration\, deployment\, and related work. \n\nAgend
- a URL:  https://hackmd.io/@qItv4l_CSAOOoigrY3dOGA/rkAGV6Lpr\nProject URL: 
-  http://wiki.centos.org/SpecialInterestGroup/Storage
-LOCATION:#centos-meeting
+ ce in packaging\, orchestration\, deployment\, and related work.\n\nAgenda
+  URL:  https://hackmd.io/@qItv4l_CSAOOoigrY3dOGA/rkAGV6Lpr\nProject URL:  
+ http://wiki.centos.org/SpecialInterestGroup/Storage
+LOCATION:#centos-meeting2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtualization SIG
-DTSTART;VALUE=DATE-TIME:20210421T160000Z
+DTSTART;VALUE=DATE-TIME:20210602T160000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20200331T170143Z
-UID:virtualizationsig-20210421
+UID:virtualizationsig-20210602
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Virtualization SIG\nChair:  George Dunlap (gwd)\nDes
  cription:  The CentOS Virtualisation Special Interest Group ( virt-sig ) i
