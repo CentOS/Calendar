@@ -1,4 +1,4 @@
-project:  CPE Sustaining team stand-up
+project:  CPE Infra and Releng Team  stand-up
 project_url: docs.fedoraproject.org/en-US/cpe/working_with_us/
 schedule:
   - time:       '0830'
@@ -21,12 +21,7 @@ schedule:
     day:        Thursday
     irc:        centos-meeting
     frequency:  weekly
-  - time:       '0830'
-    duration:   30
-    day:        Friday
-    irc:        centos-meeting
-    frequency:  weekly
-chair:  Pierre-Yves Chibon (pingou), Fabian Arrotin (Arrfab), Vipul Siddharth (siddharthvipul)
+chair: Each CPE team member, on rotation
 description: >
-    Sustaining team is a sub team of Community Platform Engineering in
+    Infra and Releng is a sub team of Community Platform Engineering in
     Red Hat. They maintain and develop applications for CentOS and Fedora
