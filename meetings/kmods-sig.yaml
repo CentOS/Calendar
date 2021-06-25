@@ -1,0 +1,10 @@
+project:  Kmods SIG
+project_url: https://wiki.centos.org/SpecialInterestGroup/Kmods
+schedule:
+  - time:       '1500'
+    day:        Monday
+    irc:        centos-meeting
+    frequency:  biweekly-even
+chair: Peter Georg (pjgeorg)
+description: |
+    The kmods SIG focuses on providing kernel modules currently not available in CentOS Stream.
