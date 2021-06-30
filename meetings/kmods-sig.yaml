@@ -5,6 +5,6 @@ schedule:
     day:        Monday
     irc:        centos-meeting
     frequency:  biweekly-even
-chair: Peter Georg (pjgeorg)
+chair: Peter Georg (pjgeorg) and Jonathan Billings (billings)
 description: |
     The kmods SIG focuses on providing kernel modules currently not available in CentOS Stream.
