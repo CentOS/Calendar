@@ -63,42 +63,46 @@ BEGIN:VEVENT
 SUMMARY:CentOS Office Hours
 DTSTART;VALUE=DATE-TIME:20210811T140000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20210312T092021Z
+DTSTAMP;VALUE=DATE-TIME:20210706T115543Z
 UID:centosofficehours-20210811
 RRULE:FREQ=MONTHLY;BYDAY=2WE
 DESCRIPTION:Project:  CentOS Office Hours\nChair:  Karanbir Singh (kbsingh
  )\, Rich Bowen (rbowen)\nDescription:  Come join us for an informal hour o
  f discussion. Bring your concerns about the project\, suggestions for chan
  ges\, or offers of help. This is not a tech support hour but rather is abo
- ut the running of the project itself.\n\nProject URL:  https://centos.org
+ ut the running of the project itself. This meeting is monthly on the secon
+ d Wednesday of each month. Speak up if you have anything to address.\n\nPr
+ oject URL:  https://centos.org
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CentOS Office Hours
 DTSTART;VALUE=DATE-TIME:20210812T100000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20210312T092021Z
+DTSTAMP;VALUE=DATE-TIME:20210706T115543Z
 UID:centosofficehours-20210812
 RRULE:FREQ=MONTHLY;BYDAY=2TH
 DESCRIPTION:Project:  CentOS Office Hours\nChair:  Karanbir Singh (kbsingh
  )\, Rich Bowen (rbowen)\nDescription:  Come join us for an informal hour o
  f discussion. Bring your concerns about the project\, suggestions for chan
  ges\, or offers of help. This is not a tech support hour but rather is abo
- ut the running of the project itself.\n\nProject URL:  https://centos.org
+ ut the running of the project itself. This meeting is monthly on the secon
+ d Wednesday of each month. Speak up if you have anything to address.\n\nPr
+ oject URL:  https://centos.org
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CentOS Stream Office Hours (Google Meet\, not IRC)
 DTSTART;VALUE=DATE-TIME:20210811T170000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20210414T130935Z
+DTSTAMP;VALUE=DATE-TIME:20210706T115543Z
 UID:centosstreamofficehours(googlemeet\,notirc)-20210811
 RRULE:FREQ=MONTHLY;BYDAY=2WE
 DESCRIPTION:Project:  CentOS Stream Office Hours (Google Meet\, not IRC)\n
  Chair:  Rich Bowen (rbowen)\nDescription:  Monthly CentOS Stream office ho
  urs on Google Meet: https://meet.google.com/pkd-qzvn-oyw Come with your Ce
- ntOS Stream questions\, or just to hang out.\n\nProject URL:  https://cent
- os.org
+ ntOS Stream questions\, or just to hang out. We meet on the second Wednesd
+ ay of each month.\n\nProject URL:  https://centos.org
 LOCATION:#google-meet
 END:VEVENT
 BEGIN:VEVENT
@@ -141,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Hyperscale SIG monthly hangout
 DTSTART;VALUE=DATE-TIME:20210818T220000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20210428T162954Z
+DTSTAMP;VALUE=DATE-TIME:20210706T115543Z
 UID:hyperscalesigmonthlyhangout-20210818
 RRULE:FREQ=MONTHLY;BYDAY=3WE
 DESCRIPTION:Project:  Hyperscale SIG monthly hangout\nChair:  Davide Caval
@@ -150,9 +154,23 @@ DESCRIPTION:Project:  Hyperscale SIG monthly hangout\nChair:  Davide Caval
  /LINK:oahfrnjmtwsg/\nThe Hyperscale SIG focuses on enabling CentOS Stream 
  deployment on large-scale infrastructures and facilitating collaboration o
  n packages and tooling. This is a monthly VC to work together on a common 
- project\, ask questions\, or just hang out.\n\nProject URL:  https://wiki.
- centos.org/SpecialInterestGroup/Hyperscale
+ project\, ask questions\, or just hang out. This occurs on the third Wedne
+ sday of each month.\n\nProject URL:  https://wiki.centos.org/SpecialIntere
+ stGroup/Hyperscale
 LOCATION:#rooms-vc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kmods SIG
+DTSTART;VALUE=DATE-TIME:20210712T150000Z
+DURATION:PT1H
+DTSTAMP;VALUE=DATE-TIME:20210630T155822Z
+UID:kmodssig-20210712
+RRULE:FREQ=WEEKLY;INTERVAL=2
+DESCRIPTION:Project:  Kmods SIG\nChair:  Peter Georg (pjgeorg) and Jonatha
+ n Billings (billings)\nDescription:  The kmods SIG focuses on providing ke
+ rnel modules currently not available in CentOS Stream.\n\nProject URL:  ht
+ tps://wiki.centos.org/SpecialInterestGroup/Kmods
+LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NFV SIG
@@ -205,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Storage SIG
 DTSTART;VALUE=DATE-TIME:20210803T100000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20210429T114918Z
+DTSTAMP;VALUE=DATE-TIME:20210706T115543Z
 UID:storagesig-20210803
 RRULE:FREQ=MONTHLY;BYDAY=1TU
 DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh)\, Niel
@@ -214,9 +232,10 @@ DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh)\, Niel
  als coming together to ensure that CentOS is a suitable platform for many 
  different storage solutions. This group will ensure that all Open Source s
  torage options seeking to utilize CentOS as a delivery platform have a voi
- ce in packaging\, orchestration\, deployment\, and related work.\n\nAgenda
-  URL:  https://hackmd.io/@qItv4l_CSAOOoigrY3dOGA/rkAGV6Lpr\nProject URL:  
- http://wiki.centos.org/SpecialInterestGroup/Storage
+ ce in packaging\, orchestration\, deployment\, and related work. We meet m
+ onthly on the first Tuesday of the month.\n\nAgenda URL:  https://hackmd.i
+ o/@qItv4l_CSAOOoigrY3dOGA/rkAGV6Lpr\nProject URL:  http://wiki.centos.org/
+ SpecialInterestGroup/Storage
 LOCATION:#centos-meeting2
 END:VEVENT
 BEGIN:VEVENT
