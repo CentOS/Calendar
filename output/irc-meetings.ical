@@ -4,81 +4,67 @@ PRODID:-//yaml2ical agendas//EN
 X-WR-CALDESC:Meeting schedule for the CentOS Project and SIGS
 X-WR-CALNAME:CentOS Meetings
 BEGIN:VEVENT
-SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210524T083000Z
+SUMMARY:CPE Infra and Releng Team  stand-up
+DTSTART;VALUE=DATE-TIME:20210712T083000Z
 DURATION:PT30M
-DTSTAMP;VALUE=DATE-TIME:20200825T200017Z
-UID:cpesustainingteamstand-up-20210524
+DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
+UID:cpeinfraandrelengteamstand-up-20210712
 RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
- ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
- \nDescription:  Sustaining team is a sub team of Community Platform Engine
- ering in Red Hat. They maintain and develop applications for CentOS and Fe
- dora\n\nProject URL:  docs.fedoraproject.org/en-US/cpe/working_with_us/
+DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
+ E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
+ of Community Platform Engineering in Red Hat. They maintain and develop ap
+ plications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/e
+ n-US/cpe/working_with_us/
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210525T083000Z
+SUMMARY:CPE Infra and Releng Team  stand-up
+DTSTART;VALUE=DATE-TIME:20210706T083000Z
 DURATION:PT30M
-DTSTAMP;VALUE=DATE-TIME:20200825T200017Z
-UID:cpesustainingteamstand-up-20210525
+DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
+UID:cpeinfraandrelengteamstand-up-20210706
 RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
- ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
- \nDescription:  Sustaining team is a sub team of Community Platform Engine
- ering in Red Hat. They maintain and develop applications for CentOS and Fe
- dora\n\nProject URL:  docs.fedoraproject.org/en-US/cpe/working_with_us/
+DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
+ E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
+ of Community Platform Engineering in Red Hat. They maintain and develop ap
+ plications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/e
+ n-US/cpe/working_with_us/
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210526T083000Z
+SUMMARY:CPE Infra and Releng Team  stand-up
+DTSTART;VALUE=DATE-TIME:20210707T083000Z
 DURATION:PT30M
-DTSTAMP;VALUE=DATE-TIME:20200825T200017Z
-UID:cpesustainingteamstand-up-20210526
+DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
+UID:cpeinfraandrelengteamstand-up-20210707
 RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
- ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
- \nDescription:  Sustaining team is a sub team of Community Platform Engine
- ering in Red Hat. They maintain and develop applications for CentOS and Fe
- dora\n\nProject URL:  docs.fedoraproject.org/en-US/cpe/working_with_us/
+DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
+ E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
+ of Community Platform Engineering in Red Hat. They maintain and develop ap
+ plications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/e
+ n-US/cpe/working_with_us/
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210527T083000Z
+SUMMARY:CPE Infra and Releng Team  stand-up
+DTSTART;VALUE=DATE-TIME:20210708T083000Z
 DURATION:PT30M
-DTSTAMP;VALUE=DATE-TIME:20200825T200017Z
-UID:cpesustainingteamstand-up-20210527
+DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
+UID:cpeinfraandrelengteamstand-up-20210708
 RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
- ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
- \nDescription:  Sustaining team is a sub team of Community Platform Engine
- ering in Red Hat. They maintain and develop applications for CentOS and Fe
- dora\n\nProject URL:  docs.fedoraproject.org/en-US/cpe/working_with_us/
-LOCATION:#centos-meeting
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CPE Sustaining team stand-up
-DTSTART;VALUE=DATE-TIME:20210521T083000Z
-DURATION:PT30M
-DTSTAMP;VALUE=DATE-TIME:20200825T200017Z
-UID:cpesustainingteamstand-up-20210521
-RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  CPE Sustaining team stand-up\nChair:  Pierre-Yves Ch
- ibon (pingou)\, Fabian Arrotin (Arrfab)\, Vipul Siddharth (siddharthvipul)
- \nDescription:  Sustaining team is a sub team of Community Platform Engine
- ering in Red Hat. They maintain and develop applications for CentOS and Fe
- dora\n\nProject URL:  docs.fedoraproject.org/en-US/cpe/working_with_us/
+DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
+ E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
+ of Community Platform Engineering in Red Hat. They maintain and develop ap
+ plications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/e
+ n-US/cpe/working_with_us/
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CentOS Office Hours
-DTSTART;VALUE=DATE-TIME:20210609T140000Z
+DTSTART;VALUE=DATE-TIME:20210811T140000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210312T092021Z
-UID:centosofficehours-20210609
+UID:centosofficehours-20210811
 RRULE:FREQ=MONTHLY;BYDAY=2WE
 DESCRIPTION:Project:  CentOS Office Hours\nChair:  Karanbir Singh (kbsingh
  )\, Rich Bowen (rbowen)\nDescription:  Come join us for an informal hour o
@@ -89,10 +75,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CentOS Office Hours
-DTSTART;VALUE=DATE-TIME:20210610T100000Z
+DTSTART;VALUE=DATE-TIME:20210812T100000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210312T092021Z
-UID:centosofficehours-20210610
+UID:centosofficehours-20210812
 RRULE:FREQ=MONTHLY;BYDAY=2TH
 DESCRIPTION:Project:  CentOS Office Hours\nChair:  Karanbir Singh (kbsingh
  )\, Rich Bowen (rbowen)\nDescription:  Come join us for an informal hour o
@@ -103,10 +89,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CentOS Stream Office Hours (Google Meet\, not IRC)
-DTSTART;VALUE=DATE-TIME:20210609T170000Z
+DTSTART;VALUE=DATE-TIME:20210811T170000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210414T130935Z
-UID:centosstreamofficehours(googlemeet\,notirc)-20210609
+UID:centosstreamofficehours(googlemeet\,notirc)-20210811
 RRULE:FREQ=MONTHLY;BYDAY=2WE
 DESCRIPTION:Project:  CentOS Stream Office Hours (Google Meet\, not IRC)\n
  Chair:  Rich Bowen (rbowen)\nDescription:  Monthly CentOS Stream office ho
@@ -117,10 +103,10 @@ LOCATION:#google-meet
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud SIG
-DTSTART;VALUE=DATE-TIME:20210603T150000Z
+DTSTART;VALUE=DATE-TIME:20210715T150000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210225T104805Z
-UID:cloudsig-20210603
+UID:cloudsig-20210715
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Cloud SIG\nChair:  Alfredo Moralejo Alonso (amoralej
  ) and Paul B. Isaacs (paulbisaacs)\nDescription:  The CentOS Cloud SIG (CC
@@ -138,42 +124,11 @@ DESCRIPTION:Project:  Cloud SIG\nChair:  Alfredo Moralejo Alonso (amoralej
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Community Buildsystem & Infrastructure Meeting
-DTSTART;VALUE=DATE-TIME:20210524T140000Z
-DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20191204T103820Z
-UID:communitybuildsystem&infrastructuremeeting-20210524
-RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  Community Buildsystem & Infrastructure Meeting\nChai
- r:  Brian Stinson (bstinson)\, Fabian Arrotin (Arrfab)\, Karanbir Singh (k
- bsingh)\, Thomas Oulevey (alphacc)\nDescription:  The CBS/Infra meeting is
-  for discussing and coordinating operations in the Community Buildsystem. 
- Anyone are welcome to attend and discuss client tools\, jobs in the builds
- ystem\, feature requests\, and anything related.\n\nProject URL:  http://w
- iki.centos.org/HowTos/CommunityBuildSystem
-LOCATION:#centos-meeting
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Config Management SIG
-DTSTART;VALUE=DATE-TIME:20210521T170000Z
-DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20191204T103820Z
-UID:configmanagementsig-20210521
-RRULE:FREQ=WEEKLY;INTERVAL=2
-DESCRIPTION:Project:  Config Management SIG\nChair:  Julien Pivotto (roide
- lapluie)\nDescription:  The Config Management SIG is a SpecialInterestGrou
- p that aims to bridge the gap between Config Management tools Power users 
- and traditional users by producing and release RPM packages of several Con
- figuration Management and Orchestration tools.\n\nProject URL:  https://wi
- ki.centos.org/SpecialInterestGroup/ConfigManagementSIG
-LOCATION:#centos-meeting
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hyperscale SIG
-DTSTART;VALUE=DATE-TIME:20210526T160000Z
+DTSTART;VALUE=DATE-TIME:20210707T160000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210317T162150Z
-UID:hyperscalesig-20210526
+UID:hyperscalesig-20210707
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Hyperscale SIG\nChair:  Davide Cavalca (dcavalca) an
  d Justin Vreeland (jvreeland)\nDescription:  The Hyperscale SIG focuses on
@@ -184,10 +139,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hyperscale SIG monthly hangout
-DTSTART;VALUE=DATE-TIME:20210616T220000Z
+DTSTART;VALUE=DATE-TIME:20210818T220000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210428T162954Z
-UID:hyperscalesigmonthlyhangout-20210616
+UID:hyperscalesigmonthlyhangout-20210818
 RRULE:FREQ=MONTHLY;BYDAY=3WE
 DESCRIPTION:Project:  Hyperscale SIG monthly hangout\nChair:  Davide Caval
  ca (dcavalca) and Justin Vreeland (jvreeland)\nDescription:  Monthly Hyper
@@ -201,10 +156,10 @@ LOCATION:#rooms-vc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NFV SIG
-DTSTART;VALUE=DATE-TIME:20210526T150000Z
+DTSTART;VALUE=DATE-TIME:20210707T150000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20200723T102436Z
-UID:nfvsig-20210526
+UID:nfvsig-20210707
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  NFV SIG\nChair:  Alfredo Moralejo (amoralej)\nDescri
  ption:  The goal of NFV SIG is to provide a set of packages related to vir
@@ -216,10 +171,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpsTools SIG
-DTSTART;VALUE=DATE-TIME:20210526T180000Z
+DTSTART;VALUE=DATE-TIME:20210707T180000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20191204T103820Z
-UID:opstoolssig-20210526
+UID:opstoolssig-20210707
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  OpsTools SIG\nChair:  Matthias Runge (mrunge) and  R
  ic Megginson (richm)\nDescription:  The SIG will provide tools for operato
@@ -232,10 +187,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Collections SIG Sync-up
-DTSTART;VALUE=DATE-TIME:20210601T140000Z
+DTSTART;VALUE=DATE-TIME:20210713T140000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20200731T142602Z
-UID:softwarecollectionssigsync-up-20210601
+UID:softwarecollectionssigsync-up-20210713
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Jan Staně
  k (jstanek)\nDescription:  The Software Collections SIG will provide an up
@@ -248,10 +203,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Storage SIG
-DTSTART;VALUE=DATE-TIME:20210601T100000Z
+DTSTART;VALUE=DATE-TIME:20210803T100000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210429T114918Z
-UID:storagesig-20210601
+UID:storagesig-20210803
 RRULE:FREQ=MONTHLY;BYDAY=1TU
 DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh)\, Niel
  s de Vos (ndevos)\, Giulio Fidente (gfidente)\nDescription:  The CentOS St
@@ -266,10 +221,10 @@ LOCATION:#centos-meeting2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtualization SIG
-DTSTART;VALUE=DATE-TIME:20210602T160000Z
+DTSTART;VALUE=DATE-TIME:20210714T160000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20200331T170143Z
-UID:virtualizationsig-20210602
+UID:virtualizationsig-20210714
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Virtualization SIG\nChair:  George Dunlap (gwd)\nDes
  cription:  The CentOS Virtualisation Special Interest Group ( virt-sig ) i

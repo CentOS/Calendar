@@ -29,9 +29,7 @@ Here is a list of current meetings with their descriptions:
 * [CentOS Office Hours](#CentOS_Office_Hours)
 * [CentOS Stream Office Hours (Google Meet, not IRC)](#CentOS_Stream_Office_Hours_(Google_Meet,_not_IRC))
 * [Cloud SIG](#Cloud_SIG)
-* [Community Buildsystem & Infrastructure Meeting](#Community_Buildsystem_&_Infrastructure_Meeting)
-* [Config Management SIG](#Config_Management_SIG)
-* [CPE Sustaining team stand-up](#CPE_Sustaining_team_stand-up)
+* [CPE Infra and Releng Team  stand-up](#CPE_Infra_and_Releng_Team__stand-up)
 * [Hyperscale SIG](#Hyperscale_SIG)
 * [Hyperscale SIG monthly hangout](#Hyperscale_SIG_monthly_hangout)
 * [NFV SIG](#NFV_SIG)
@@ -67,32 +65,15 @@ Here is a list of current meetings with their descriptions:
 The CCS intends to take ownership of existing CentOS Project relationships with vendors, and help to maintain the updated package repositories for all participating cloud projects. 
 
 
-### <a name="Community_Buildsystem_&_Infrastructure_Meeting">Community Buildsystem & Infrastructure Meeting</a>
-
-* Weekly on Monday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-meeting
-* Chair (to contact for more information): Brian Stinson (bstinson), Fabian Arrotin (Arrfab), Karanbir Singh (kbsingh), Thomas Oulevey (alphacc)
-* [Link to Project Site](http://wiki.centos.org/HowTos/CommunityBuildSystem)
-* The CBS/Infra meeting is for discussing and coordinating operations in the Community Buildsystem. Anyone are welcome to attend and discuss client tools, jobs in the buildsystem, feature requests, and anything related.
-
-
-### <a name="Config_Management_SIG">Config Management SIG</a>
-
-* Every two weeks (on even weeks) on Friday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #centos-meeting
-* Chair (to contact for more information): Julien Pivotto (roidelapluie)
-* [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG)
-* The Config Management SIG is a SpecialInterestGroup that aims to bridge the gap between Config Management tools Power users and traditional users by producing and release RPM packages of several Configuration Management and Orchestration tools.
-
-
-### <a name="CPE_Sustaining_team_stand-up">CPE Sustaining team stand-up</a>
+### <a name="CPE_Infra_and_Releng_Team__stand-up">CPE Infra and Releng Team  stand-up</a>
 
 * Weekly on Monday at [0830 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=08&amp;min=30&amp;sec=0) in #centos-meeting
 * Weekly on Tuesday at [0830 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=08&amp;min=30&amp;sec=0) in #centos-meeting
 * Weekly on Wednesday at [0830 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=08&amp;min=30&amp;sec=0) in #centos-meeting
 * Weekly on Thursday at [0830 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=08&amp;min=30&amp;sec=0) in #centos-meeting
-* Weekly on Friday at [0830 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=08&amp;min=30&amp;sec=0) in #centos-meeting
-* Chair (to contact for more information): Pierre-Yves Chibon (pingou), Fabian Arrotin (Arrfab), Vipul Siddharth (siddharthvipul)
+* Chair (to contact for more information): Each CPE team member, on rotation
 * [Link to Project Site](docs.fedoraproject.org/en-US/cpe/working_with_us/)
-* Sustaining team is a sub team of Community Platform Engineering in Red Hat. They maintain and develop applications for CentOS and Fedora
+* Infra and Releng is a sub team of Community Platform Engineering in Red Hat. They maintain and develop applications for CentOS and Fedora
 
 
 ### <a name="Hyperscale_SIG">Hyperscale SIG</a>
@@ -155,4 +136,4 @@ The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale i
 
 
 
-Page generated on 2021-05-21 12:23:25.729758 UTC
+Page generated on 2021-07-06 15:51:09.525980 UTC
