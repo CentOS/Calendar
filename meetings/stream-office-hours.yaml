@@ -1,4 +1,4 @@
-project: CentOS Stream Office Hours (Google Meet, not IRC)
+project: CentOS Stream Office Hours (meet.opensuse, not IRC)
 project_url: https://centos.org
 schedule:
   - time: '1700'
@@ -7,6 +7,6 @@ schedule:
     irc: google-meet
 chair: Rich Bowen (rbowen)
 description: >
-  Monthly CentOS Stream office hours on Google Meet: https://meet.google.com/pkd-qzvn-oyw
+  Monthly CentOS Stream office hours on meet.opensuse: https://meet.opensuse.org/centosstream
   Come with your CentOS Stream questions, or just to hang out. We meet
   on the second Wednesday of each month.
