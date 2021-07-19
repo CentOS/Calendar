@@ -1,0 +1,13 @@
+project:  Infrastructure SIG
+project_url: https://wiki.centos.org/SpecialInterestGroup/Infrastructure
+schedule:
+  - time:       '1400'
+    day:        Monday
+    irc:        centos-meeting
+    frequency:  biweekly-odd
+chair: Aoife Moloney (amoloney) or Brian Stinson (bstinson)
+description: |
+    The CentOS Infrastructure SIG will provide a working group to manage all
+    CentOS infrastructure. It will be responsible for oversight of all
+    infrastructure resources, and providing guidelines for who may be granted
+    administrative access to shared services.
