@@ -27,11 +27,12 @@ You can find meeting minutes [here](http://www.centos.org/minutes/).
 Here is a list of current meetings with their descriptions:
 
 * [CentOS Office Hours](#CentOS_Office_Hours)
-* [CentOS Stream Office Hours (Google Meet, not IRC)](#CentOS_Stream_Office_Hours_(Google_Meet,_not_IRC))
+* [CentOS Stream Office Hours (meet.opensuse, not IRC)](#CentOS_Stream_Office_Hours_(meet.opensuse,_not_IRC))
 * [Cloud SIG](#Cloud_SIG)
 * [CPE Infra and Releng Team  stand-up](#CPE_Infra_and_Releng_Team__stand-up)
 * [Hyperscale SIG](#Hyperscale_SIG)
 * [Hyperscale SIG monthly hangout](#Hyperscale_SIG_monthly_hangout)
+* [Infrastructure SIG](#Infrastructure_SIG)
 * [Kmods SIG](#Kmods_SIG)
 * [NFV SIG](#NFV_SIG)
 * [OpsTools SIG](#OpsTools_SIG)
@@ -48,12 +49,12 @@ Here is a list of current meetings with their descriptions:
 * Come join us for an informal hour of discussion. Bring your concerns about the project, suggestions for changes, or offers of help. This is not a tech support hour but rather is about the running of the project itself. This meeting is monthly on the second Wednesday of each month. Speak up if you have anything to address.
 
 
-### <a name="CentOS_Stream_Office_Hours_(Google_Meet,_not_IRC)">CentOS Stream Office Hours (Google Meet, not IRC)</a>
+### <a name="CentOS_Stream_Office_Hours_(meet.opensuse,_not_IRC)">CentOS Stream Office Hours (meet.opensuse, not IRC)</a>
 
 * Monthly, in the second week, on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #google-meet
 * Chair (to contact for more information): Rich Bowen (rbowen)
 * [Link to Project Site](https://centos.org)
-* Monthly CentOS Stream office hours on Google Meet: <a href="https://meet.google.com/pkd-qzvn-oyw" rel="noopener">https://meet.google.com/pkd-qzvn-oyw</a> Come with your CentOS Stream questions, or just to hang out. We meet on the second Wednesday of each month.
+* Monthly CentOS Stream office hours on meet.opensuse: <a href="https://meet.opensuse.org/centosstream" rel="noopener">https://meet.opensuse.org/centosstream</a> Come with your CentOS Stream questions, or just to hang out. We meet on the second Wednesday of each month.
 
 
 ### <a name="Cloud_SIG">Cloud SIG</a>
@@ -92,6 +93,17 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 * [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Hyperscale)
 * Monthly Hyperscale SIG hangout (Rooms VC, not IRC): <a href="https://fb.workplace.com/groupcall/LINK:oahfrnjmtwsg/" rel="noopener">https://fb.workplace.com/groupcall/LINK:oahfrnjmtwsg/</a>
 The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling. This is a monthly VC to work together on a common project, ask questions, or just hang out. This occurs on the third Wednesday of each month.
+
+
+### <a name="Infrastructure_SIG">Infrastructure SIG</a>
+
+* Every two weeks (on odd weeks) on Monday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-meeting
+* Chair (to contact for more information): Aoife Moloney (amoloney) or Brian Stinson (bstinson)
+* [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Infrastructure)
+* The CentOS Infrastructure SIG will provide a working group to manage all
+CentOS infrastructure. It will be responsible for oversight of all
+infrastructure resources, and providing guidelines for who may be granted
+administrative access to shared services.
 
 
 ### <a name="Kmods_SIG">Kmods SIG</a>
@@ -145,4 +157,4 @@ The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale i
 
 
 
-Page generated on 2021-07-06 17:44:25.907697 UTC
+Page generated on 2021-07-19 14:26:21.241400 UTC
