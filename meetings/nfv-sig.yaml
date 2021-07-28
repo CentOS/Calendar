@@ -5,7 +5,7 @@ schedule:
   - time:       '1500'
     day:        Wednesday
     irc:        centos-meeting
-    frequency:  biweekly-odd
+    frequency:  first-wednesday
 chair: Alfredo Moralejo (amoralej)
 description: |
     The goal of NFV SIG is to provide a set of packages related to virtual networking and Network Function Virtualization for CentOS and pursue the cooperation between different users and projects sharing the interest on these software pieces.
