@@ -1,0 +1,10 @@
+project: Board of Directors
+project_url:
+schedule:
+  - time:       '1400'
+    day:        Wednesday
+    irc:        centos-meeting
+    frequency:  third-wednesday
+chair: Rich Bowen (rbowen) and Thomas Oulevey (alphacc)
+description: |
+    Board of Directors open discussion. Scheduled for one week after the monthly Board of Directors meeting

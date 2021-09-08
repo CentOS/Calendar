@@ -26,6 +26,7 @@ You can find meeting minutes [here](http://www.centos.org/minutes/).
 
 Here is a list of current meetings with their descriptions:
 
+* [Board of Directors](#Board_of_Directors)
 * [CentOS Office Hours](#CentOS_Office_Hours)
 * [CentOS Stream Office Hours (meet.opensuse, not IRC)](#CentOS_Stream_Office_Hours_(meet.opensuse,_not_IRC))
 * [Cloud SIG](#Cloud_SIG)
@@ -40,11 +41,17 @@ Here is a list of current meetings with their descriptions:
 * [Storage SIG](#Storage_SIG)
 * [Virtualization SIG](#Virtualization_SIG)
 
+### <a name="Board_of_Directors">Board of Directors</a>
+
+* Monthly, in the third week, on Wednesday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-meeting
+* Chair (to contact for more information): Rich Bowen (rbowen) and Thomas Oulevey (alphacc)
+* Board of Directors open discussion. Scheduled for one week after the monthly Board of Directors meeting
+
+
 ### <a name="CentOS_Office_Hours">CentOS Office Hours</a>
 
-* Monthly, in the second week, on Wednesday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-meeting
 * Monthly, in the second week, on Thursday at [1000 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=10&amp;min=00&amp;sec=0) in #centos-meeting
-* Chair (to contact for more information): Karanbir Singh (kbsingh), Rich Bowen (rbowen)
+* Chair (to contact for more information): Rich Bowen (rbowen)
 * [Link to Project Site](https://centos.org)
 * Come join us for an informal hour of discussion. Bring your concerns about the project, suggestions for changes, or offers of help. This is not a tech support hour but rather is about the running of the project itself. This meeting is monthly on the second Wednesday of each month. Speak up if you have anything to address.
 
@@ -59,7 +66,7 @@ Here is a list of current meetings with their descriptions:
 
 ### <a name="Cloud_SIG">Cloud SIG</a>
 
-* Every two weeks (on even weeks) on Thursday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
+* Monthly, in the first week, on Thursday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Alfredo Moralejo Alonso (amoralej) and Paul B. Isaacs (paulbisaacs)
 * [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/Cloud)
 * The CentOS Cloud SIG (CCS) is a group of people coming together to focus on packaging and maintaining different FOSS based Private cloud infrastructure applications that one can install and run natively on CentOS. We are a non vendor, non technology and non agent specific focus group, but we will gladly work with and build content to suit relevant niches or vendor ecosystems. This group specifically targets users who wish to install and run their own, independent ( or hybrid ) cloud infrastructure on CentOS.
@@ -116,7 +123,7 @@ administrative access to shared services.
 
 ### <a name="NFV_SIG">NFV SIG</a>
 
-* Every two weeks (on odd weeks) on Wednesday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
+* Monthly, in the first week, on Wednesday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Alfredo Moralejo (amoralej)
 * [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/NFV)
 * The goal of NFV SIG is to provide a set of packages related to virtual networking and Network Function Virtualization for CentOS and pursue the cooperation between different users and projects sharing the interest on these software pieces.
@@ -157,4 +164,4 @@ administrative access to shared services.
 
 
 
-Page generated on 2021-07-19 14:26:21.241400 UTC
+Page generated on 2021-09-08 14:51:06.294803 UTC
