@@ -30,6 +30,7 @@ Here is a list of current meetings with their descriptions:
 * [CentOS Office Hours](#CentOS_Office_Hours)
 * [CentOS Stream Office Hours (meet.opensuse, not IRC)](#CentOS_Stream_Office_Hours_(meet.opensuse,_not_IRC))
 * [Cloud SIG](#Cloud_SIG)
+* [Cloud SIG](#Cloud_SIG)
 * [CPE Infra and Releng Team  stand-up](#CPE_Infra_and_Releng_Team__stand-up)
 * [Hyperscale SIG](#Hyperscale_SIG)
 * [Hyperscale SIG monthly hangout](#Hyperscale_SIG_monthly_hangout)
@@ -62,6 +63,18 @@ Here is a list of current meetings with their descriptions:
 * Chair (to contact for more information): Rich Bowen (rbowen)
 * [Link to Project Site](https://centos.org)
 * Monthly CentOS Stream office hours on meet.opensuse: <a href="https://meet.opensuse.org/centosstream" rel="noopener">https://meet.opensuse.org/centosstream</a> Come with your CentOS Stream questions, or just to hang out. We meet on the second Wednesday of each month.
+
+
+### <a name="Cloud_SIG">Cloud SIG</a>
+
+* Monthly, in the third week, on Thursday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting2
+* Chair (to contact for more information): Jefro Osier-Mixon (JeffreyOsierMixon), acting
+* [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/Cloud)
+* The purpose of the Automotive SIG is two-fold. First, it is meant to be a neutral public space for collaboration between third parties interested in open development of software targeted at in-vehicle automotive use cases. Second, it is meant to provide such projects with build and test infrastructure. (This second purpose is, as we understand it, common to many SIGs)
+
+The goal of the SIG is to provide an open-source home for RHEL-oriented automotive work, and to attract and encourage open development of automotive software between commercial and non-commercial partners.
+
+Please join us!
 
 
 ### <a name="Cloud_SIG">Cloud SIG</a>
@@ -164,4 +177,4 @@ administrative access to shared services.
 
 
 
-Page generated on 2021-09-08 14:51:06.294803 UTC
+Page generated on 2021-10-06 16:42:39.354204 UTC

@@ -5,10 +5,10 @@ X-WR-CALDESC:Meeting schedule for the CentOS Project and SIGS
 X-WR-CALNAME:CentOS Meetings
 BEGIN:VEVENT
 SUMMARY:Board of Directors
-DTSTART;VALUE=DATE-TIME:20211020T140000Z
+DTSTART;VALUE=DATE-TIME:20211117T140000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20210908T104354Z
-UID:boardofdirectors-20211020
+DTSTAMP;VALUE=DATE-TIME:20210908T105120Z
+UID:boardofdirectors-20211117
 RRULE:FREQ=MONTHLY;BYDAY=3WE
 DESCRIPTION:Project:  Board of Directors\nChair:  Rich Bowen (rbowen) and 
  Thomas Oulevey (alphacc)\nDescription:  Board of Directors open discussion
@@ -18,10 +18,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Infra and Releng Team  stand-up
-DTSTART;VALUE=DATE-TIME:20210913T083000Z
+DTSTART;VALUE=DATE-TIME:20211011T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
-UID:cpeinfraandrelengteamstand-up-20210913
+UID:cpeinfraandrelengteamstand-up-20211011
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
  E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
@@ -32,10 +32,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Infra and Releng Team  stand-up
-DTSTART;VALUE=DATE-TIME:20210914T083000Z
+DTSTART;VALUE=DATE-TIME:20211012T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
-UID:cpeinfraandrelengteamstand-up-20210914
+UID:cpeinfraandrelengteamstand-up-20211012
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
  E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
@@ -46,10 +46,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Infra and Releng Team  stand-up
-DTSTART;VALUE=DATE-TIME:20210908T083000Z
+DTSTART;VALUE=DATE-TIME:20211006T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
-UID:cpeinfraandrelengteamstand-up-20210908
+UID:cpeinfraandrelengteamstand-up-20211006
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
  E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
@@ -60,10 +60,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Infra and Releng Team  stand-up
-DTSTART;VALUE=DATE-TIME:20210909T083000Z
+DTSTART;VALUE=DATE-TIME:20211007T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
-UID:cpeinfraandrelengteamstand-up-20210909
+UID:cpeinfraandrelengteamstand-up-20211007
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
  E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
@@ -74,10 +74,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CentOS Office Hours
-DTSTART;VALUE=DATE-TIME:20211014T100000Z
+DTSTART;VALUE=DATE-TIME:20211111T100000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20210706T115543Z
-UID:centosofficehours-20211014
+DTSTAMP;VALUE=DATE-TIME:20210908T105120Z
+UID:centosofficehours-20211111
 RRULE:FREQ=MONTHLY;BYDAY=2TH
 DESCRIPTION:Project:  CentOS Office Hours\nChair:  Rich Bowen (rbowen)\nDe
  scription:  Come join us for an informal hour of discussion. Bring your co
@@ -90,10 +90,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CentOS Stream Office Hours (meet.opensuse\, not IRC)
-DTSTART;VALUE=DATE-TIME:20211013T170000Z
+DTSTART;VALUE=DATE-TIME:20211110T170000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210714T105833Z
-UID:centosstreamofficehours(meet.opensuse\,notirc)-20211013
+UID:centosstreamofficehours(meet.opensuse\,notirc)-20211110
 RRULE:FREQ=MONTHLY;BYDAY=2WE
 DESCRIPTION:Project:  CentOS Stream Office Hours (meet.opensuse\, not IRC)
  \nChair:  Rich Bowen (rbowen)\nDescription:  Monthly CentOS Stream office 
@@ -104,10 +104,30 @@ LOCATION:#google-meet
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud SIG
-DTSTART;VALUE=DATE-TIME:20211007T150000Z
+DTSTART;VALUE=DATE-TIME:20211118T150000Z
+DURATION:PT1H
+DTSTAMP;VALUE=DATE-TIME:20211006T124054Z
+UID:cloudsig-20211118
+RRULE:FREQ=MONTHLY;BYDAY=3TH
+DESCRIPTION:Project:  Cloud SIG\nChair:  Jefro Osier-Mixon (JeffreyOsierMi
+ xon)\, acting\nDescription:  The purpose of the Automotive SIG is two-fold
+ . First\, it is meant to be a neutral public space for collaboration betwe
+ en third parties interested in open development of software targeted at in
+ -vehicle automotive use cases. Second\, it is meant to provide such projec
+ ts with build and test infrastructure. (This second purpose is\, as we und
+ erstand it\, common to many SIGs)\n\nThe goal of the SIG is to provide an 
+ open-source home for RHEL-oriented automotive work\, and to attract and en
+ courage open development of automotive software between commercial and non
+ -commercial partners.\n\nPlease join us!\n\nProject URL:  http://wiki.cent
+ os.org/SpecialInterestGroup/Cloud
+LOCATION:#centos-meeting2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud SIG
+DTSTART;VALUE=DATE-TIME:20211104T150000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210720T090854Z
-UID:cloudsig-20211007
+UID:cloudsig-20211104
 RRULE:FREQ=MONTHLY;BYDAY=1TH
 DESCRIPTION:Project:  Cloud SIG\nChair:  Alfredo Moralejo Alonso (amoralej
  ) and Paul B. Isaacs (paulbisaacs)\nDescription:  The CentOS Cloud SIG (CC
@@ -126,10 +146,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hyperscale SIG
-DTSTART;VALUE=DATE-TIME:20210915T160000Z
+DTSTART;VALUE=DATE-TIME:20211013T160000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210317T162150Z
-UID:hyperscalesig-20210915
+UID:hyperscalesig-20211013
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Hyperscale SIG\nChair:  Davide Cavalca (dcavalca) an
  d Justin Vreeland (jvreeland)\nDescription:  The Hyperscale SIG focuses on
@@ -140,10 +160,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hyperscale SIG monthly hangout
-DTSTART;VALUE=DATE-TIME:20211020T220000Z
+DTSTART;VALUE=DATE-TIME:20211117T220000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210706T115543Z
-UID:hyperscalesigmonthlyhangout-20211020
+UID:hyperscalesigmonthlyhangout-20211117
 RRULE:FREQ=MONTHLY;BYDAY=3WE
 DESCRIPTION:Project:  Hyperscale SIG monthly hangout\nChair:  Davide Caval
  ca (dcavalca) and Justin Vreeland (jvreeland)\nDescription:  Monthly Hyper
@@ -158,10 +178,10 @@ LOCATION:#rooms-vc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Infrastructure SIG
-DTSTART;VALUE=DATE-TIME:20210913T140000Z
+DTSTART;VALUE=DATE-TIME:20211011T140000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210719T092451Z
-UID:infrastructuresig-20210913
+UID:infrastructuresig-20211011
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Infrastructure SIG\nChair:  Aoife Moloney (amoloney)
   or Brian Stinson (bstinson)\nDescription:  The CentOS Infrastructure SIG 
@@ -174,10 +194,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kmods SIG
-DTSTART;VALUE=DATE-TIME:20210920T150000Z
+DTSTART;VALUE=DATE-TIME:20211018T150000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210630T155822Z
-UID:kmodssig-20210920
+UID:kmodssig-20211018
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Kmods SIG\nChair:  Peter Georg (pjgeorg) and Jonatha
  n Billings (billings)\nDescription:  The kmods SIG focuses on providing ke
@@ -187,10 +207,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NFV SIG
-DTSTART;VALUE=DATE-TIME:20211006T150000Z
+DTSTART;VALUE=DATE-TIME:20211103T150000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210728T173932Z
-UID:nfvsig-20211006
+UID:nfvsig-20211103
 RRULE:FREQ=MONTHLY;BYDAY=1WE
 DESCRIPTION:Project:  NFV SIG\nChair:  Alfredo Moralejo (amoralej)\nDescri
  ption:  The goal of NFV SIG is to provide a set of packages related to vir
@@ -202,10 +222,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpsTools SIG
-DTSTART;VALUE=DATE-TIME:20210908T180000Z
+DTSTART;VALUE=DATE-TIME:20211006T180000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20191204T103820Z
-UID:opstoolssig-20210908
+UID:opstoolssig-20211006
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  OpsTools SIG\nChair:  Matthias Runge (mrunge) and  R
  ic Megginson (richm)\nDescription:  The SIG will provide tools for operato
@@ -218,10 +238,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Collections SIG Sync-up
-DTSTART;VALUE=DATE-TIME:20210921T140000Z
+DTSTART;VALUE=DATE-TIME:20211019T140000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20200731T142602Z
-UID:softwarecollectionssigsync-up-20210921
+UID:softwarecollectionssigsync-up-20211019
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Jan Staně
  k (jstanek)\nDescription:  The Software Collections SIG will provide an up
@@ -234,10 +254,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Storage SIG
-DTSTART;VALUE=DATE-TIME:20211005T100000Z
+DTSTART;VALUE=DATE-TIME:20211102T100000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210706T115543Z
-UID:storagesig-20211005
+UID:storagesig-20211102
 RRULE:FREQ=MONTHLY;BYDAY=1TU
 DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh)\, Niel
  s de Vos (ndevos)\, Giulio Fidente (gfidente)\nDescription:  The CentOS St
@@ -253,10 +273,10 @@ LOCATION:#centos-meeting2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtualization SIG
-DTSTART;VALUE=DATE-TIME:20210908T160000Z
+DTSTART;VALUE=DATE-TIME:20211006T160000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20200331T170143Z
-UID:virtualizationsig-20210908
+UID:virtualizationsig-20211006
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Virtualization SIG\nChair:  George Dunlap (gwd)\nDes
  cription:  The CentOS Virtualisation Special Interest Group ( virt-sig ) i
