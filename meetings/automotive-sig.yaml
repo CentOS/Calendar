@@ -1,0 +1,14 @@
+project:  Cloud SIG
+project_url: http://wiki.centos.org/SpecialInterestGroup/Cloud
+schedule:
+  - time:       '1500'
+    day:        Thursday
+    irc:        centos-meeting
+    frequency:  third-thursday
+chair: Jefro Osier-Mixon (JeffreyOsierMixon), acting
+description: |
+The purpose of the Automotive SIG is two-fold. First, it is meant to be a neutral public space for collaboration between third parties interested in open development of software targeted at in-vehicle automotive use cases. Second, it is meant to provide such projects with build and test infrastructure. (This second purpose is, as we understand it, common to many SIGs)
+
+The goal of the SIG is to provide an open-source home for RHEL-oriented automotive work, and to attract and encourage open development of automotive software between commercial and non-commercial partners.
+
+Please join us!
