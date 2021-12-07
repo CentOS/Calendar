@@ -1,7 +1,7 @@
 project:  Kmods SIG
 project_url: https://wiki.centos.org/SpecialInterestGroup/Kmods
 schedule:
-  - time:       '1500'
+  - time:       '1600'
     day:        Monday
     irc:        centos-meeting
     frequency:  biweekly-even
