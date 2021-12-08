@@ -5,7 +5,7 @@ schedule:
     day:        Wednesday
     irc:        rooms-vc
     frequency:  third-wednesday
-chair: Davide Cavalca (dcavalca) and Justin Vreeland (jvreeland)
+chair: Neal Gompa (ngompa)
 description: |
-    Monthly Hyperscale SIG hangout (Rooms VC, not IRC): https://fb.workplace.com/groupcall/LINK:oahfrnjmtwsg/
+    Monthly Hyperscale SIG hangout (Rooms VC, not IRC): https://datto.zoom.us/j/92939788594?pwd=Z0JWeGJnVnNCR0xJdkN2SGpVdHBuQT09
     The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling. This is a monthly VC to work together on a common project, ask questions, or just hang out. This occurs on the third Wednesday of each month.
