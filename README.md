@@ -9,7 +9,7 @@ For the actual calendar, please see:
 
 Instructions for adding or changing a meeting are also there.
 
-This system is based on the fantastic work done by the OpenStack Project as documented at https://github.com/openstack-infra/irc-meetings for managing their internal meetings.
+This system is based on the fantastic work done by the OpenStack Project as documented at https://opendev.org/opendev/irc-meetings for managing their internal meetings.
 
 # YAML Meeting File Format
 
