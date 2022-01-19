@@ -1,5 +1,5 @@
-project:  Cloud SIG
-project_url: http://wiki.centos.org/SpecialInterestGroup/Cloud
+project:  Automotive SIG
+project_url: http://wiki.centos.org/SpecialInterestGroup/Automotive
 schedule:
   - time:       '1500'
     day:        Thursday

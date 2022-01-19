@@ -26,10 +26,10 @@ You can find meeting minutes [here](http://www.centos.org/minutes/).
 
 Here is a list of current meetings with their descriptions:
 
+* [Automotive SIG](#Automotive_SIG)
 * [Board of Directors](#Board_of_Directors)
 * [CentOS Office Hours](#CentOS_Office_Hours)
 * [CentOS Stream Office Hours (meet.opensuse, not IRC)](#CentOS_Stream_Office_Hours_(meet.opensuse,_not_IRC))
-* [Cloud SIG](#Cloud_SIG)
 * [Cloud SIG](#Cloud_SIG)
 * [CPE Infra and Releng Team  stand-up](#CPE_Infra_and_Releng_Team__stand-up)
 * [Hyperscale SIG](#Hyperscale_SIG)
@@ -41,6 +41,18 @@ Here is a list of current meetings with their descriptions:
 * [Software Collections SIG Sync-up](#Software_Collections_SIG_Sync-up)
 * [Storage SIG](#Storage_SIG)
 * [Virtualization SIG](#Virtualization_SIG)
+
+### <a name="Automotive_SIG">Automotive SIG</a>
+
+* Monthly, in the third week, on Thursday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting2
+* Chair (to contact for more information): Jefro Osier-Mixon (JeffreyOsierMixon), acting
+* [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/Automotive)
+* The purpose of the Automotive SIG is two-fold. First, it is meant to be a neutral public space for collaboration between third parties interested in open development of software targeted at in-vehicle automotive use cases. Second, it is meant to provide such projects with build and test infrastructure. (This second purpose is, as we understand it, common to many SIGs)
+
+The goal of the SIG is to provide an open-source home for RHEL-oriented automotive work, and to attract and encourage open development of automotive software between commercial and non-commercial partners.
+
+Please join us!
+
 
 ### <a name="Board_of_Directors">Board of Directors</a>
 
@@ -63,18 +75,6 @@ Here is a list of current meetings with their descriptions:
 * Chair (to contact for more information): Rich Bowen (rbowen)
 * [Link to Project Site](https://centos.org)
 * Monthly CentOS Stream office hours on meet.opensuse: <a href="https://meet.opensuse.org/centosstream" rel="noopener">https://meet.opensuse.org/centosstream</a> Come with your CentOS Stream questions, or just to hang out. We meet on the second Wednesday of each month.
-
-
-### <a name="Cloud_SIG">Cloud SIG</a>
-
-* Monthly, in the third week, on Thursday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting2
-* Chair (to contact for more information): Jefro Osier-Mixon (JeffreyOsierMixon), acting
-* [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/Cloud)
-* The purpose of the Automotive SIG is two-fold. First, it is meant to be a neutral public space for collaboration between third parties interested in open development of software targeted at in-vehicle automotive use cases. Second, it is meant to provide such projects with build and test infrastructure. (This second purpose is, as we understand it, common to many SIGs)
-
-The goal of the SIG is to provide an open-source home for RHEL-oriented automotive work, and to attract and encourage open development of automotive software between commercial and non-commercial partners.
-
-Please join us!
 
 
 ### <a name="Cloud_SIG">Cloud SIG</a>
@@ -109,9 +109,9 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 ### <a name="Hyperscale_SIG_monthly_hangout">Hyperscale SIG monthly hangout</a>
 
 * Monthly, in the third week, on Wednesday at [2200 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=22&amp;min=00&amp;sec=0) in #rooms-vc
-* Chair (to contact for more information): Davide Cavalca (dcavalca) and Justin Vreeland (jvreeland)
+* Chair (to contact for more information): Neal Gompa (ngompa)
 * [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Hyperscale)
-* Monthly Hyperscale SIG hangout (Rooms VC, not IRC): <a href="https://fb.workplace.com/groupcall/LINK:oahfrnjmtwsg/" rel="noopener">https://fb.workplace.com/groupcall/LINK:oahfrnjmtwsg/</a>
+* Monthly Hyperscale SIG hangout (Rooms VC, not IRC): <a href="https://datto.zoom.us/j/92939788594?pwd=Z0JWeGJnVnNCR0xJdkN2SGpVdHBuQT09" rel="noopener">https://datto.zoom.us/j/92939788594?pwd=Z0JWeGJnVnNCR0xJdkN2SGpVdHBuQT09</a>
 The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling. This is a monthly VC to work together on a common project, ask questions, or just hang out. This occurs on the third Wednesday of each month.
 
 
@@ -128,10 +128,10 @@ administrative access to shared services.
 
 ### <a name="Kmods_SIG">Kmods SIG</a>
 
-* Every two weeks (on even weeks) on Monday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
+* Every two weeks (on even weeks) on Monday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Peter Georg (pjgeorg) and Jonathan Billings (billings)
 * [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Kmods)
-* The kmods SIG focuses on providing kernel modules currently not available in CentOS Stream.
+* The kmods SIG focuses on providing kernel modules currently not available in Enterprise Linux.
 
 
 ### <a name="NFV_SIG">NFV SIG</a>
@@ -177,4 +177,4 @@ administrative access to shared services.
 
 
 
-Page generated on 2021-10-06 16:42:39.354204 UTC
+Page generated on 2022-01-19 15:39:44.663766 UTC
