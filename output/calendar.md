@@ -79,8 +79,8 @@ Please join us!
 
 ### <a name="Cloud_SIG">Cloud SIG</a>
 
-* Monthly, in the first week, on Thursday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
-* Chair (to contact for more information): Alfredo Moralejo Alonso (amoralej) and Paul B. Isaacs (paulbisaacs)
+* Monthly, in the second week, on Thursday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
+* Chair (to contact for more information): Alfredo Moralejo Alonso (amoralej)
 * [Link to Project Site](http://wiki.centos.org/SpecialInterestGroup/Cloud)
 * The CentOS Cloud SIG (CCS) is a group of people coming together to focus on packaging and maintaining different FOSS based Private cloud infrastructure applications that one can install and run natively on CentOS. We are a non vendor, non technology and non agent specific focus group, but we will gladly work with and build content to suit relevant niches or vendor ecosystems. This group specifically targets users who wish to install and run their own, independent ( or hybrid ) cloud infrastructure on CentOS.
 
@@ -177,4 +177,4 @@ administrative access to shared services.
 
 
 
-Page generated on 2022-01-19 15:39:44.663766 UTC
+Page generated on 2022-01-26 15:12:19.414391 UTC

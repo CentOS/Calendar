@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Automotive SIG
 DTSTART;VALUE=DATE-TIME:20220217T150000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20211006T124246Z
+DTSTAMP;VALUE=DATE-TIME:20220119T104003Z
 UID:automotivesig-20220217
 RRULE:FREQ=MONTHLY;BYDAY=3TH
 DESCRIPTION:Project:  Automotive SIG\nChair:  Jefro Osier-Mixon (JeffreyOs
@@ -38,10 +38,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Infra and Releng Team  stand-up
-DTSTART;VALUE=DATE-TIME:20220124T083000Z
+DTSTART;VALUE=DATE-TIME:20220131T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
-UID:cpeinfraandrelengteamstand-up-20220124
+UID:cpeinfraandrelengteamstand-up-20220131
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
  E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
@@ -52,10 +52,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Infra and Releng Team  stand-up
-DTSTART;VALUE=DATE-TIME:20220125T083000Z
+DTSTART;VALUE=DATE-TIME:20220201T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
-UID:cpeinfraandrelengteamstand-up-20220125
+UID:cpeinfraandrelengteamstand-up-20220201
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
  E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
@@ -66,10 +66,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Infra and Releng Team  stand-up
-DTSTART;VALUE=DATE-TIME:20220119T083000Z
+DTSTART;VALUE=DATE-TIME:20220126T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
-UID:cpeinfraandrelengteamstand-up-20220119
+UID:cpeinfraandrelengteamstand-up-20220126
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
  E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
@@ -80,10 +80,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CPE Infra and Releng Team  stand-up
-DTSTART;VALUE=DATE-TIME:20220120T083000Z
+DTSTART;VALUE=DATE-TIME:20220127T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
-UID:cpeinfraandrelengteamstand-up-20220120
+UID:cpeinfraandrelengteamstand-up-20220127
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
  E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
@@ -124,32 +124,31 @@ LOCATION:#google-meet
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud SIG
-DTSTART;VALUE=DATE-TIME:20220203T150000Z
+DTSTART;VALUE=DATE-TIME:20220210T150000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20210720T090854Z
-UID:cloudsig-20220203
-RRULE:FREQ=MONTHLY;BYDAY=1TH
+DTSTAMP;VALUE=DATE-TIME:20220119T094548Z
+UID:cloudsig-20220210
+RRULE:FREQ=MONTHLY;BYDAY=2TH
 DESCRIPTION:Project:  Cloud SIG\nChair:  Alfredo Moralejo Alonso (amoralej
- ) and Paul B. Isaacs (paulbisaacs)\nDescription:  The CentOS Cloud SIG (CC
- S) is a group of people coming together to focus on packaging and maintain
- ing different FOSS based Private cloud infrastructure applications that on
- e can install and run natively on CentOS. We are a non vendor\, non techno
- logy and non agent specific focus group\, but we will gladly work with and
-  build content to suit relevant niches or vendor ecosystems. This group sp
- ecifically targets users who wish to install and run their own\, independe
- nt ( or hybrid ) cloud infrastructure on CentOS.\n\nThe CCS intends to tak
- e ownership of existing CentOS Project relationships with vendors\, and he
- lp to maintain the updated package repositories for all participating clou
- d projects. \n\nProject URL:  http://wiki.centos.org/SpecialInterestGroup/
- Cloud
+ )\nDescription:  The CentOS Cloud SIG (CCS) is a group of people coming to
+ gether to focus on packaging and maintaining different FOSS based Private 
+ cloud infrastructure applications that one can install and run natively on
+  CentOS. We are a non vendor\, non technology and non agent specific focus
+  group\, but we will gladly work with and build content to suit relevant n
+ iches or vendor ecosystems. This group specifically targets users who wish
+  to install and run their own\, independent ( or hybrid ) cloud infrastruc
+ ture on CentOS.\n\nThe CCS intends to take ownership of existing CentOS Pr
+ oject relationships with vendors\, and help to maintain the updated packag
+ e repositories for all participating cloud projects. \n\nProject URL:  htt
+ p://wiki.centos.org/SpecialInterestGroup/Cloud
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hyperscale SIG
-DTSTART;VALUE=DATE-TIME:20220119T160000Z
+DTSTART;VALUE=DATE-TIME:20220202T160000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210317T162150Z
-UID:hyperscalesig-20220119
+UID:hyperscalesig-20220202
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Hyperscale SIG\nChair:  Davide Cavalca (dcavalca) an
  d Justin Vreeland (jvreeland)\nDescription:  The Hyperscale SIG focuses on
@@ -193,10 +192,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kmods SIG
-DTSTART;VALUE=DATE-TIME:20220124T160000Z
+DTSTART;VALUE=DATE-TIME:20220207T160000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20211207T144030Z
-UID:kmodssig-20220124
+UID:kmodssig-20220207
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Kmods SIG\nChair:  Peter Georg (pjgeorg) and Jonatha
  n Billings (billings)\nDescription:  The kmods SIG focuses on providing ke
@@ -221,10 +220,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpsTools SIG
-DTSTART;VALUE=DATE-TIME:20220119T180000Z
+DTSTART;VALUE=DATE-TIME:20220126T180000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20191204T103820Z
-UID:opstoolssig-20220119
+UID:opstoolssig-20220126
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  OpsTools SIG\nChair:  Matthias Runge (mrunge) and  R
  ic Megginson (richm)\nDescription:  The SIG will provide tools for operato
@@ -237,10 +236,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Collections SIG Sync-up
-DTSTART;VALUE=DATE-TIME:20220125T140000Z
+DTSTART;VALUE=DATE-TIME:20220208T140000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20200731T142602Z
-UID:softwarecollectionssigsync-up-20220125
+UID:softwarecollectionssigsync-up-20220208
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Jan Staně
  k (jstanek)\nDescription:  The Software Collections SIG will provide an up
