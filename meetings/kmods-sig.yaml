@@ -1,5 +1,5 @@
 project:  Kmods SIG
-project_url: https://wiki.centos.org/SpecialInterestGroup/Kmods
+project_url: https://sigs.centos.org/kmods
 schedule:
   - time:       '1600'
     day:        Monday
