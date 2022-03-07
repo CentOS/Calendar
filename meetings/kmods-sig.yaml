@@ -4,7 +4,7 @@ schedule:
   - time:       '1600'
     day:        Monday
     irc:        centos-meeting
-    frequency:  biweekly-even
+    frequency:  first-monday
 chair: Peter Georg (pjgeorg)
 description: |
     The kmods SIG focuses on providing kernel modules currently not available in Enterprise Linux.
