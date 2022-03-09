@@ -28,7 +28,6 @@ Here is a list of current meetings with their descriptions:
 
 * [Automotive SIG](#Automotive_SIG)
 * [Board of Directors](#Board_of_Directors)
-* [CentOS Office Hours](#CentOS_Office_Hours)
 * [CentOS Stream Office Hours (meet.opensuse, not IRC)](#CentOS_Stream_Office_Hours_(meet.opensuse,_not_IRC))
 * [Cloud SIG](#Cloud_SIG)
 * [CPE Infra and Releng Team  stand-up](#CPE_Infra_and_Releng_Team__stand-up)
@@ -61,18 +60,10 @@ Please join us!
 * Board of Directors open discussion. Scheduled for one week after the monthly Board of Directors meeting
 
 
-### <a name="CentOS_Office_Hours">CentOS Office Hours</a>
-
-* Monthly, in the second week, on Thursday at [1000 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=10&amp;min=00&amp;sec=0) in #centos-meeting
-* Chair (to contact for more information): Rich Bowen (rbowen)
-* [Link to Project Site](https://centos.org)
-* Come join us for an informal hour of discussion. Bring your concerns about the project, suggestions for changes, or offers of help. This is not a tech support hour but rather is about the running of the project itself. This meeting is monthly on the second Wednesday of each month. Speak up if you have anything to address.
-
-
 ### <a name="CentOS_Stream_Office_Hours_(meet.opensuse,_not_IRC)">CentOS Stream Office Hours (meet.opensuse, not IRC)</a>
 
 * Monthly, in the second week, on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #google-meet
-* Chair (to contact for more information): Rich Bowen (rbowen)
+* Chair (to contact for more information): Shaun McCance (shaunm)
 * [Link to Project Site](https://centos.org)
 * Monthly CentOS Stream office hours on meet.opensuse: <a href="https://meet.opensuse.org/centosstream" rel="noopener">https://meet.opensuse.org/centosstream</a> Come with your CentOS Stream questions, or just to hang out. We meet on the second Wednesday of each month.
 
@@ -177,4 +168,4 @@ administrative access to shared services.
 
 
 
-Page generated on 2022-01-26 15:12:19.414391 UTC
+Page generated on 2022-03-02 18:09:40.523267 UTC

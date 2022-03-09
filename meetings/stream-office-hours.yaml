@@ -5,7 +5,7 @@ schedule:
     day:  Wednesday
     frequency: second-wednesday
     irc: google-meet
-chair: Rich Bowen (rbowen)
+chair: Shaun McCance (shaunm)
 description: >
   Monthly CentOS Stream office hours on meet.opensuse: https://meet.opensuse.org/centosstream
   Come with your CentOS Stream questions, or just to hang out. We meet
