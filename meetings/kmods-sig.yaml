@@ -1,10 +1,10 @@
 project:  Kmods SIG
-project_url: https://wiki.centos.org/SpecialInterestGroup/Kmods
+project_url: https://sigs.centos.org/kmods
 schedule:
   - time:       '1600'
     day:        Monday
     irc:        centos-meeting
-    frequency:  biweekly-even
-chair: Peter Georg (pjgeorg) and Jonathan Billings (billings)
+    frequency:  first-monday
+chair: Peter Georg (pjgeorg)
 description: |
     The kmods SIG focuses on providing kernel modules currently not available in Enterprise Linux.
