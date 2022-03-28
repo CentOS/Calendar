@@ -15,33 +15,33 @@ The calendar is also available as an `.ical` file containing all CentOS IRC meet
 Note that you should *subscribe* to this link, rather than *import* it,
 because it is subject to change.
 
-A [list of all meetings](#list) is available below.
+A [list of all meetings](#meeting-list) is available below.
 
 ## Logging
 
 CentOS IRC channels and meetings are often logged using a [https://wiki.centos.org/SIGGuide#SIGGuide.2FSIGProcess.2FDailyWorkings.Meetbot_Commands](meeting bot), for the purpose of taking minutes.
 You can find meeting minutes [here](http://www.centos.org/minutes/).
 
-## <a name="list">Meeting List</a>
+## Meeting List
 
 Here is a list of current meetings with their descriptions:
 
-* [Automotive SIG](#Automotive_SIG)
-* [Board of Directors](#Board_of_Directors)
-* [CentOS Stream Office Hours (meet.opensuse, not IRC)](#CentOS_Stream_Office_Hours_(meet.opensuse,_not_IRC))
-* [Cloud SIG](#Cloud_SIG)
-* [CPE Infra and Releng Team  stand-up](#CPE_Infra_and_Releng_Team__stand-up)
-* [Hyperscale SIG](#Hyperscale_SIG)
-* [Hyperscale SIG monthly hangout](#Hyperscale_SIG_monthly_hangout)
-* [Infrastructure SIG](#Infrastructure_SIG)
-* [Kmods SIG](#Kmods_SIG)
-* [NFV SIG](#NFV_SIG)
-* [OpsTools SIG](#OpsTools_SIG)
-* [Software Collections SIG Sync-up](#Software_Collections_SIG_Sync-up)
-* [Storage SIG](#Storage_SIG)
-* [Virtualization SIG](#Virtualization_SIG)
+* [Automotive SIG](#automotive-sig)
+* [Board of Directors](#board-of-directors)
+* [CentOS Stream Office Hours (meet.opensuse, not IRC)](#centos-stream-office-hours-meetopensuse-not-irc)
+* [Cloud SIG](#cloud-sig)
+* [CPE Infra and Releng Team stand-up](#cpe-infra-and-releng-team-stand-up)
+* [Hyperscale SIG](#hyperscale-sig)
+* [Hyperscale SIG monthly hangout](#hyperscale-sig-monthly-hangout)
+* [Infrastructure SIG](#infrastructure-sig)
+* [Kmods SIG](#kmods-sig)
+* [NFV SIG](#nfv-sig)
+* [OpsTools SIG](#opstools-sig)
+* [Software Collections SIG Sync-up](#software-collections-sig-sync-up)
+* [Storage SIG](#storage-sig)
+* [Virtualization SIG](#virtualization-sig)
 
-### <a name="Automotive_SIG">Automotive SIG</a>
+### Automotive SIG
 
 * Monthly, in the third week, on Thursday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting2
 * Chair (to contact for more information): Jefro Osier-Mixon (JeffreyOsierMixon), acting
@@ -53,14 +53,14 @@ The goal of the SIG is to provide an open-source home for RHEL-oriented automoti
 Please join us!
 
 
-### <a name="Board_of_Directors">Board of Directors</a>
+### Board of Directors
 
 * Monthly, in the third week, on Wednesday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Rich Bowen (rbowen) and Thomas Oulevey (alphacc)
 * Board of Directors open discussion. Scheduled for one week after the monthly Board of Directors meeting
 
 
-### <a name="CentOS_Stream_Office_Hours_(meet.opensuse,_not_IRC)">CentOS Stream Office Hours (meet.opensuse, not IRC)</a>
+### CentOS Stream Office Hours (meet.opensuse, not IRC)
 
 * Monthly, in the second week, on Wednesday at [1700 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=17&amp;min=00&amp;sec=0) in #google-meet
 * Chair (to contact for more information): Shaun McCance (shaunm)
@@ -68,7 +68,7 @@ Please join us!
 * Monthly CentOS Stream office hours on meet.opensuse: <a href="https://meet.opensuse.org/centosstream" rel="noopener">https://meet.opensuse.org/centosstream</a> Come with your CentOS Stream questions, or just to hang out. We meet on the second Wednesday of each month.
 
 
-### <a name="Cloud_SIG">Cloud SIG</a>
+### Cloud SIG
 
 * Monthly, in the second week, on Thursday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Alfredo Moralejo Alonso (amoralej)
@@ -78,7 +78,7 @@ Please join us!
 The CCS intends to take ownership of existing CentOS Project relationships with vendors, and help to maintain the updated package repositories for all participating cloud projects. 
 
 
-### <a name="CPE_Infra_and_Releng_Team__stand-up">CPE Infra and Releng Team  stand-up</a>
+### CPE Infra and Releng Team stand-up
 
 * Weekly on Monday at [0830 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=08&amp;min=30&amp;sec=0) in #centos-meeting
 * Weekly on Tuesday at [0830 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=08&amp;min=30&amp;sec=0) in #centos-meeting
@@ -89,7 +89,7 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 * Infra and Releng is a sub team of Community Platform Engineering in Red Hat. They maintain and develop applications for CentOS and Fedora
 
 
-### <a name="Hyperscale_SIG">Hyperscale SIG</a>
+### Hyperscale SIG
 
 * Every two weeks (on odd weeks) on Wednesday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Davide Cavalca (dcavalca) and Justin Vreeland (jvreeland)
@@ -97,7 +97,7 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 * The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling.
 
 
-### <a name="Hyperscale_SIG_monthly_hangout">Hyperscale SIG monthly hangout</a>
+### Hyperscale SIG monthly hangout
 
 * Monthly, in the third week, on Wednesday at [2200 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=22&amp;min=00&amp;sec=0) in #rooms-vc
 * Chair (to contact for more information): Neal Gompa (ngompa)
@@ -106,7 +106,7 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling. This is a monthly VC to work together on a common project, ask questions, or just hang out. This occurs on the third Wednesday of each month.
 
 
-### <a name="Infrastructure_SIG">Infrastructure SIG</a>
+### Infrastructure SIG
 
 * Every two weeks (on odd weeks) on Monday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Aoife Moloney (amoloney) or Brian Stinson (bstinson)
@@ -117,15 +117,15 @@ infrastructure resources, and providing guidelines for who may be granted
 administrative access to shared services.
 
 
-### <a name="Kmods_SIG">Kmods SIG</a>
+### Kmods SIG
 
-* Every two weeks (on even weeks) on Monday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-meeting
-* Chair (to contact for more information): Peter Georg (pjgeorg) and Jonathan Billings (billings)
-* [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Kmods)
+* Monthly, in the first week, on Monday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-meeting
+* Chair (to contact for more information): Peter Georg (pjgeorg)
+* [Link to Project Site](https://sigs.centos.org/kmods)
 * The kmods SIG focuses on providing kernel modules currently not available in Enterprise Linux.
 
 
-### <a name="NFV_SIG">NFV SIG</a>
+### NFV SIG
 
 * Monthly, in the first week, on Wednesday at [1500 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=15&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Alfredo Moralejo (amoralej)
@@ -134,7 +134,7 @@ administrative access to shared services.
 
 * [Link to Agenda](https://hackmd.io/oRe_HVJiTteDI4H332ApMw)
 
-### <a name="OpsTools_SIG">OpsTools SIG</a>
+### OpsTools SIG
 
 * Weekly on Wednesday at [1800 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=18&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Matthias Runge (mrunge) and  Ric Megginson (richm)
@@ -142,7 +142,7 @@ administrative access to shared services.
 * The SIG will provide tools for operators, system administrators, devops and developers doing infrastructure engineering on content based on CentOS Linux. We will aim to support the Config Management SIG ( <a href="https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG" rel="noopener">https://wiki.centos.org/SpecialInterestGroup/ConfigManagementSIG</a> ) and repurpose their content as and when needed in our space.
 
 
-### <a name="Software_Collections_SIG_Sync-up">Software Collections SIG Sync-up</a>
+### Software Collections SIG Sync-up
 
 * Every two weeks (on even weeks) on Tuesday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Jan Staněk (jstanek)
@@ -150,7 +150,7 @@ administrative access to shared services.
 * The Software Collections SIG will provide an upstream development area for various software collections and related tools. Developers can build on and extend existing SCLs, so they don&#39;t need to re-invent the wheel or take responsibility for packaging unnecessary dependencies.
 
 
-### <a name="Storage_SIG">Storage SIG</a>
+### Storage SIG
 
 * Monthly, in the first week, on Tuesday at [1000 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=10&amp;min=00&amp;sec=0) in #centos-meeting2
 * Chair (to contact for more information): Karanbir Singh (kbsingh), Niels de Vos (ndevos), Giulio Fidente (gfidente)
@@ -159,7 +159,7 @@ administrative access to shared services.
 
 * [Link to Agenda](https://hackmd.io/@qItv4l_CSAOOoigrY3dOGA/rkAGV6Lpr)
 
-### <a name="Virtualization_SIG">Virtualization SIG</a>
+### Virtualization SIG
 
 * Every two weeks (on even weeks) on Wednesday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): George Dunlap (gwd)
@@ -168,4 +168,4 @@ administrative access to shared services.
 
 
 
-Page generated on 2022-03-02 18:09:40.523267 UTC
+Page generated on 2022-03-28 04:26:57.909025 UTC
