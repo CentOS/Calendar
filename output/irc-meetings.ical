@@ -37,66 +37,66 @@ DESCRIPTION:Project:  Board of Directors\nChair:  Rich Bowen (rbowen) and
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CPE Infra and Releng Team  stand-up
-DTSTART;VALUE=DATE-TIME:20220307T083000Z
+SUMMARY:CPE Infra and Releng Team stand-up
+DTSTART;VALUE=DATE-TIME:20220328T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
-UID:cpeinfraandrelengteamstand-up-20220307
+UID:cpeinfraandrelengteamstand-up-20220328
 RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
- E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
- of Community Platform Engineering in Red Hat. They maintain and develop ap
- plications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/e
- n-US/cpe/working_with_us/
+DESCRIPTION:Project:  CPE Infra and Releng Team stand-up\nChair:  Each CPE
+  team member\, on rotation\nDescription:  Infra and Releng is a sub team o
+ f Community Platform Engineering in Red Hat. They maintain and develop app
+ lications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/en
+ -US/cpe/working_with_us/
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CPE Infra and Releng Team  stand-up
-DTSTART;VALUE=DATE-TIME:20220308T083000Z
+SUMMARY:CPE Infra and Releng Team stand-up
+DTSTART;VALUE=DATE-TIME:20220329T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
-UID:cpeinfraandrelengteamstand-up-20220308
+UID:cpeinfraandrelengteamstand-up-20220329
 RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
- E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
- of Community Platform Engineering in Red Hat. They maintain and develop ap
- plications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/e
- n-US/cpe/working_with_us/
+DESCRIPTION:Project:  CPE Infra and Releng Team stand-up\nChair:  Each CPE
+  team member\, on rotation\nDescription:  Infra and Releng is a sub team o
+ f Community Platform Engineering in Red Hat. They maintain and develop app
+ lications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/en
+ -US/cpe/working_with_us/
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CPE Infra and Releng Team  stand-up
-DTSTART;VALUE=DATE-TIME:20220302T083000Z
+SUMMARY:CPE Infra and Releng Team stand-up
+DTSTART;VALUE=DATE-TIME:20220330T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
-UID:cpeinfraandrelengteamstand-up-20220302
+UID:cpeinfraandrelengteamstand-up-20220330
 RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
- E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
- of Community Platform Engineering in Red Hat. They maintain and develop ap
- plications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/e
- n-US/cpe/working_with_us/
+DESCRIPTION:Project:  CPE Infra and Releng Team stand-up\nChair:  Each CPE
+  team member\, on rotation\nDescription:  Infra and Releng is a sub team o
+ f Community Platform Engineering in Red Hat. They maintain and develop app
+ lications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/en
+ -US/cpe/working_with_us/
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CPE Infra and Releng Team  stand-up
-DTSTART;VALUE=DATE-TIME:20220303T083000Z
+SUMMARY:CPE Infra and Releng Team stand-up
+DTSTART;VALUE=DATE-TIME:20220331T083000Z
 DURATION:PT30M
 DTSTAMP;VALUE=DATE-TIME:20210624T075912Z
-UID:cpeinfraandrelengteamstand-up-20220303
+UID:cpeinfraandrelengteamstand-up-20220331
 RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  CPE Infra and Releng Team  stand-up\nChair:  Each CP
- E team member\, on rotation\nDescription:  Infra and Releng is a sub team 
- of Community Platform Engineering in Red Hat. They maintain and develop ap
- plications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/e
- n-US/cpe/working_with_us/
+DESCRIPTION:Project:  CPE Infra and Releng Team stand-up\nChair:  Each CPE
+  team member\, on rotation\nDescription:  Infra and Releng is a sub team o
+ f Community Platform Engineering in Red Hat. They maintain and develop app
+ lications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/en
+ -US/cpe/working_with_us/
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CentOS Stream Office Hours (meet.opensuse\, not IRC)
 DTSTART;VALUE=DATE-TIME:20220413T170000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20210714T105833Z
+DTSTAMP;VALUE=DATE-TIME:20220302T131018Z
 UID:centosstreamofficehours(meet.opensuse\,notirc)-20220413
 RRULE:FREQ=MONTHLY;BYDAY=2WE
 DESCRIPTION:Project:  CentOS Stream Office Hours (meet.opensuse\, not IRC)
@@ -129,10 +129,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hyperscale SIG
-DTSTART;VALUE=DATE-TIME:20220302T160000Z
+DTSTART;VALUE=DATE-TIME:20220330T160000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210317T162150Z
-UID:hyperscalesig-20220302
+UID:hyperscalesig-20220330
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Hyperscale SIG\nChair:  Davide Cavalca (dcavalca) an
  d Justin Vreeland (jvreeland)\nDescription:  The Hyperscale SIG focuses on
@@ -160,10 +160,10 @@ LOCATION:#rooms-vc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Infrastructure SIG
-DTSTART;VALUE=DATE-TIME:20220314T140000Z
+DTSTART;VALUE=DATE-TIME:20220328T140000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20210719T092451Z
-UID:infrastructuresig-20220314
+UID:infrastructuresig-20220328
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Infrastructure SIG\nChair:  Aoife Moloney (amoloney)
   or Brian Stinson (bstinson)\nDescription:  The CentOS Infrastructure SIG 
@@ -176,15 +176,14 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kmods SIG
-DTSTART;VALUE=DATE-TIME:20220307T160000Z
+DTSTART;VALUE=DATE-TIME:20220404T160000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20211207T144030Z
-UID:kmodssig-20220307
-RRULE:FREQ=WEEKLY;INTERVAL=2
-DESCRIPTION:Project:  Kmods SIG\nChair:  Peter Georg (pjgeorg) and Jonatha
- n Billings (billings)\nDescription:  The kmods SIG focuses on providing ke
- rnel modules currently not available in Enterprise Linux.\n\nProject URL: 
-  https://wiki.centos.org/SpecialInterestGroup/Kmods
+DTSTAMP;VALUE=DATE-TIME:20220307T174012Z
+UID:kmodssig-20220404
+RRULE:FREQ=MONTHLY;BYDAY=1MO
+DESCRIPTION:Project:  Kmods SIG\nChair:  Peter Georg (pjgeorg)\nDescriptio
+ n:  The kmods SIG focuses on providing kernel modules currently not availa
+ ble in Enterprise Linux.\n\nProject URL:  https://sigs.centos.org/kmods
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
@@ -204,10 +203,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OpsTools SIG
-DTSTART;VALUE=DATE-TIME:20220302T180000Z
+DTSTART;VALUE=DATE-TIME:20220330T180000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20191204T103820Z
-UID:opstoolssig-20220302
+UID:opstoolssig-20220330
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  OpsTools SIG\nChair:  Matthias Runge (mrunge) and  R
  ic Megginson (richm)\nDescription:  The SIG will provide tools for operato
@@ -220,10 +219,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Collections SIG Sync-up
-DTSTART;VALUE=DATE-TIME:20220308T140000Z
+DTSTART;VALUE=DATE-TIME:20220405T140000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20200731T142602Z
-UID:softwarecollectionssigsync-up-20220308
+UID:softwarecollectionssigsync-up-20220405
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Jan Staně
  k (jstanek)\nDescription:  The Software Collections SIG will provide an up
@@ -255,10 +254,10 @@ LOCATION:#centos-meeting2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtualization SIG
-DTSTART;VALUE=DATE-TIME:20220309T160000Z
+DTSTART;VALUE=DATE-TIME:20220406T160000Z
 DURATION:PT1H
 DTSTAMP;VALUE=DATE-TIME:20200331T170143Z
-UID:virtualizationsig-20220309
+UID:virtualizationsig-20220406
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Virtualization SIG\nChair:  George Dunlap (gwd)\nDes
  cription:  The CentOS Virtualisation Special Interest Group ( virt-sig ) i

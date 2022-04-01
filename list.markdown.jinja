@@ -15,23 +15,23 @@ The calendar is also available as an `.ical` file containing all CentOS IRC meet
 Note that you should *subscribe* to this link, rather than *import* it,
 because it is subject to change.
 
-A [list of all meetings](#list) is available below.
+A [list of all meetings](#meeting-list) is available below.
 
 ## Logging
 
 CentOS IRC channels and meetings are often logged using a [https://wiki.centos.org/SIGGuide#SIGGuide.2FSIGProcess.2FDailyWorkings.Meetbot_Commands](meeting bot), for the purpose of taking minutes.
 You can find meeting minutes [here](http://www.centos.org/minutes/).
 
-## <a name="list">Meeting List</a>
+## Meeting List
 
 Here is a list of current meetings with their descriptions:
 
 {% for meeting in meetings|sort(attribute='project') %}
-* [{{ meeting.project }}](#{{ meeting.project|replace(' ', '_') }})
+* [{{ meeting.project }}](#{{ meeting.project|lower|replace(' ', '-')|replace('(', '')|replace(')', '')|replace('.', '')|replace(',', '') }})
 {% endfor %}
 
 {% for meeting in meetings|sort(attribute='project') %}
-### <a name="{{ meeting.project|replace(' ', '_') }}">{{ meeting.project }}</a>
+### {{ meeting.project }}
 
 {% for schedule in meeting.schedules %}
 * {{ schedule.recurrence }} on {{ schedule.day }} at [{{ schedule.utc }} UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour={{ schedule.utc[:2] }}&amp;min={{ schedule.utc[2:] }}&amp;sec=0) in #{{ schedule.irc }}
