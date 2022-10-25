@@ -5,7 +5,7 @@ This project aims to provide an easier way to track CentOS related meetings. Eve
 For the actual calendar, please see:
 
 * [CentOS IRC meetings schedule](https://www.centos.org/community/calendar/)
-* [iCalendar meeting schedule (.ics)](https://git.centos.org/raw/sig-core!calendar.git/main/output!irc-meetings.ical)
+* [iCalendar meeting schedule (.ics)](https://raw.githubusercontent.com/CentOS/Calendar/main/output/irc-meetings.ical)
 
 Instructions for adding or changing a meeting are also there.
 
