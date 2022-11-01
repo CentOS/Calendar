@@ -1,0 +1,10 @@
+project:  Hyperscale SIG
+project_url: https://wiki.centos.org/SpecialInterestGroup/AltImages
+schedule:
+  - time:       '1600'
+    day:        Tuesday
+    irc:        centos-meeting
+    frequency:  weekly
+chair: Troy Dawson (tdawson)
+description: |
+    The Alternate Images SIG's goal is to build and provide alternate iso images for CentOS Stream
