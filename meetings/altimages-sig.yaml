@@ -1,8 +1,8 @@
 project:  Hyperscale SIG
 project_url: https://wiki.centos.org/SpecialInterestGroup/AltImages
 schedule:
-  - time:       '1600'
-    day:        Tuesday
+  - time:       '1900'
+    day:        Thursday
     irc:        centos-meeting
     frequency:  weekly
 chair: Troy Dawson (tdawson)
