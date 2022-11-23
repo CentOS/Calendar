@@ -3,6 +3,7 @@ project_url: http://wiki.centos.org/SpecialInterestGroup/Automotive
 schedule:
   - time:       '1400'
     day:        Wednesday
+    irc:        google-meet
     frequency:  first-wednesday
 chair: Jefro Osier-Mixon (JeffreyOsierMixon), acting
 description: |
@@ -16,6 +17,6 @@ description: |
   
   Working agenda:
 
-- introduction & action items
-- technical update
-- open discussion
+  - introduction & action items
+  - technical update
+  - open discussion
