@@ -3,9 +3,9 @@ project_url: https://wiki.centos.org/SpecialInterestGroup/Hyperscale
 schedule:
   - time:       '2200'
     day:        Wednesday
-    irc:        rooms-vc
+    irc:        zoom-vc
     frequency:  third-wednesday
 chair: Davide Cavalca (dcavalca) and Neal Gompa (ngompa)
 description: |
-    Monthly Hyperscale SIG hangout (Zoom VC, not IRC): https://datto.zoom.us/j/92939788594?pwd=Z0JWeGJnVnNCR0xJdkN2SGpVdHBuQT09
-    The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling. This is a monthly VC to work together on a common project, ask questions, or just hang out. This occurs on the third Wednesday of each month.
+    Monthly Hyperscale SIG hangout (Zoom VC, not IRC): https://us06web.zoom.us/j/84411093900?pwd=RUxKUFAxVlJnQWVMODhobThLU3BHdz09
+    The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling. This is a monthly VC to work together on a common project, ask questions, or just hang out. This occurs on the third Wednesday of each month. If Zoom asks for a passcode, use 550255 (the meeting ID is 844 1109 3900).
