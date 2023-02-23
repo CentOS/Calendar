@@ -43,7 +43,7 @@ Here is a list of current meetings with their descriptions:
 
 ### Alternate Images SIG
 
-* Weekly on Thursday at [1900 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=19&amp;min=00&amp;sec=0) in #centos-meeting
+* Every two weeks (on even weeks) on Thursday at [1900 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=19&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Troy Dawson (tdawson)
 * [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/AltImages)
 * The Alternate Images SIG&#39;s goal is to build and provide alternate iso images for CentOS Stream
@@ -115,11 +115,11 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 
 ### Hyperscale SIG monthly hangout
 
-* Monthly, in the third week, on Wednesday at [2200 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=22&amp;min=00&amp;sec=0) in #rooms-vc
+* Monthly, in the third week, on Wednesday at [2200 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=22&amp;min=00&amp;sec=0) in #zoom-vc
 * Chair (to contact for more information): Davide Cavalca (dcavalca) and Neal Gompa (ngompa)
 * [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Hyperscale)
-* Monthly Hyperscale SIG hangout (Zoom VC, not IRC): <a href="https://datto.zoom.us/j/92939788594?pwd=Z0JWeGJnVnNCR0xJdkN2SGpVdHBuQT09" rel="noopener">https://datto.zoom.us/j/92939788594?pwd=Z0JWeGJnVnNCR0xJdkN2SGpVdHBuQT09</a>
-The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling. This is a monthly VC to work together on a common project, ask questions, or just hang out. This occurs on the third Wednesday of each month.
+* Monthly Hyperscale SIG hangout (Zoom VC, not IRC): <a href="https://us06web.zoom.us/j/84411093900?pwd=RUxKUFAxVlJnQWVMODhobThLU3BHdz09" rel="noopener">https://us06web.zoom.us/j/84411093900?pwd=RUxKUFAxVlJnQWVMODhobThLU3BHdz09</a>
+The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling. This is a monthly VC to work together on a common project, ask questions, or just hang out. This occurs on the third Wednesday of each month. If Zoom asks for a passcode, use 550255 (the meeting ID is 844 1109 3900).
 
 
 ### Infrastructure SIG
@@ -176,4 +176,4 @@ administrative access to shared services.
 
 
 
-Page generated on 2022-11-23 18:03:41.157752 UTC
+Page generated on 2023-02-23 03:12:49.180445 UTC
