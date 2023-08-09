@@ -1,0 +1,10 @@
+project:  ISA SIG
+project_url: https://sigs.centos.org/isa/
+schedule:
+  - time:       '1600'
+    day:        Friday
+    irc:        centos-meeting
+    frequency:  biweekly-odd
+chair: Josh Boyer (jwboyer) and Florian Weimer (fweimer)
+description: |
+    The ISA SIG explores potential benefits of applying existing compiler technology to distribution packages, targeting more recent CPUs, and evaluating different options for how these optimizations can be maintained in a scalable way, and delivered to end users.
