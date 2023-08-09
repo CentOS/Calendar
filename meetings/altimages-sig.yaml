@@ -4,7 +4,7 @@ schedule:
   - time:       '1900'
     day:        Thursday
     irc:        centos-meeting
-    frequency:  biweekly-even
+    frequency: second-thursday
 chair: Troy Dawson (tdawson)
 description: |
     The Alternate Images SIG's goal is to build and provide alternate iso images for CentOS Stream
