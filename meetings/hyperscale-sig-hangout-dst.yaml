@@ -1,7 +1,7 @@
-project:  Hyperscale SIG monthly hangout (US standard time)
+project:  Hyperscale SIG monthly hangout (US daylight saving time)
 project_url: https://sigs.centos.org/hyperscale/
 schedule:
-  - time:       '2200'
+  - time:       '2100'
     day:        Wednesday
     irc:        zoom-vc
     frequency:  third-wednesday
