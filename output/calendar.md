@@ -31,11 +31,10 @@ Here is a list of current meetings with their descriptions:
 * [Board of Directors](#board-of-directors)
 * [CentOS Stream Office Hours (meet.opensuse, not IRC)](#centos-stream-office-hours-meetopensuse-not-irc)
 * [Cloud SIG](#cloud-sig)
-* [CPE Infra and Releng Team stand-up](#cpe-infra-and-releng-team-stand-up)
 * [Hyperscale SIG](#hyperscale-sig)
-* [Hyperscale SIG monthly hangout](#hyperscale-sig-monthly-hangout)
-* [Infrastructure SIG](#infrastructure-sig)
-* [Kmods SIG](#kmods-sig)
+* [Hyperscale SIG monthly hangout (US daylight saving time)](#hyperscale-sig-monthly-hangout-us-daylight-saving-time)
+* [Hyperscale SIG monthly hangout (US standard time)](#hyperscale-sig-monthly-hangout-us-standard-time)
+* [ISA SIG](#isa-sig)
 * [NFV SIG](#nfv-sig)
 * [Software Collections SIG Sync-up](#software-collections-sig-sync-up)
 * [Storage SIG](#storage-sig)
@@ -94,17 +93,6 @@ Working agenda:
 The CCS intends to take ownership of existing CentOS Project relationships with vendors, and help to maintain the updated package repositories for all participating cloud projects. 
 
 
-### CPE Infra and Releng Team stand-up
-
-* Weekly on Monday at [0830 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=08&amp;min=30&amp;sec=0) in #centos-meeting
-* Weekly on Tuesday at [0830 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=08&amp;min=30&amp;sec=0) in #centos-meeting
-* Weekly on Wednesday at [0830 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=08&amp;min=30&amp;sec=0) in #centos-meeting
-* Weekly on Thursday at [0830 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=08&amp;min=30&amp;sec=0) in #centos-meeting
-* Chair (to contact for more information): Each CPE team member, on rotation
-* [Link to Project Site](docs.fedoraproject.org/en-US/cpe/working_with_us/)
-* Infra and Releng is a sub team of Community Platform Engineering in Red Hat. They maintain and develop applications for CentOS and Fedora
-
-
 ### Hyperscale SIG
 
 * Every two weeks (on odd weeks) on Wednesday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-meeting
@@ -113,32 +101,30 @@ The CCS intends to take ownership of existing CentOS Project relationships with 
 * The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling.
 
 
-### Hyperscale SIG monthly hangout
+### Hyperscale SIG monthly hangout (US daylight saving time)
 
-* Monthly, in the third week, on Wednesday at [2200 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=22&amp;min=00&amp;sec=0) in #zoom-vc
+* Monthly, in the third week, on Wednesday at [2100 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=21&amp;min=00&amp;sec=0) in #zoom-vc
 * Chair (to contact for more information): Davide Cavalca (dcavalca) and Neal Gompa (ngompa)
-* [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Hyperscale)
+* [Link to Project Site](https://sigs.centos.org/hyperscale/)
 * Monthly Hyperscale SIG hangout (Zoom VC, not IRC): <a href="https://us06web.zoom.us/j/84411093900?pwd=RUxKUFAxVlJnQWVMODhobThLU3BHdz09" rel="noopener">https://us06web.zoom.us/j/84411093900?pwd=RUxKUFAxVlJnQWVMODhobThLU3BHdz09</a>
 The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling. This is a monthly VC to work together on a common project, ask questions, or just hang out. This occurs on the third Wednesday of each month. If Zoom asks for a passcode, use 550255 (the meeting ID is 844 1109 3900).
 
 
-### Infrastructure SIG
+### Hyperscale SIG monthly hangout (US standard time)
 
-* Every two weeks (on odd weeks) on Monday at [1400 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=14&amp;min=00&amp;sec=0) in #centos-meeting
-* Chair (to contact for more information): Aoife Moloney (amoloney) or Brian Stinson (bstinson)
-* [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Infrastructure)
-* The CentOS Infrastructure SIG will provide a working group to manage all
-CentOS infrastructure. It will be responsible for oversight of all
-infrastructure resources, and providing guidelines for who may be granted
-administrative access to shared services.
+* Monthly, in the third week, on Wednesday at [2200 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=22&amp;min=00&amp;sec=0) in #zoom-vc
+* Chair (to contact for more information): Davide Cavalca (dcavalca) and Neal Gompa (ngompa)
+* [Link to Project Site](https://sigs.centos.org/hyperscale/)
+* Monthly Hyperscale SIG hangout (Zoom VC, not IRC): <a href="https://us06web.zoom.us/j/84411093900?pwd=RUxKUFAxVlJnQWVMODhobThLU3BHdz09" rel="noopener">https://us06web.zoom.us/j/84411093900?pwd=RUxKUFAxVlJnQWVMODhobThLU3BHdz09</a>
+The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale infrastructures and facilitating collaboration on packages and tooling. This is a monthly VC to work together on a common project, ask questions, or just hang out. This occurs on the third Wednesday of each month. If Zoom asks for a passcode, use 550255 (the meeting ID is 844 1109 3900).
 
 
-### Kmods SIG
+### ISA SIG
 
-* Monthly, in the first week, on Monday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-meeting
-* Chair (to contact for more information): Peter Georg (pjgeorg)
-* [Link to Project Site](https://sigs.centos.org/kmods)
-* The kmods SIG focuses on providing kernel modules currently not available in Enterprise Linux.
+* Every two weeks (on odd weeks) on Friday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-meeting
+* Chair (to contact for more information): Josh Boyer (jwboyer) and Florian Weimer (fweimer)
+* [Link to Project Site](https://sigs.centos.org/isa/)
+* The ISA SIG explores potential benefits of applying existing compiler technology to distribution packages, targeting more recent CPUs, and evaluating different options for how these optimizations can be maintained in a scalable way, and delivered to end users.
 
 
 ### NFV SIG
@@ -169,11 +155,11 @@ administrative access to shared services.
 
 ### Virtualization SIG
 
-* Every two weeks (on even weeks) on Wednesday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #centos-meeting
-* Chair (to contact for more information): George Dunlap (gwd)
-* [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/Virtualization)
-* The CentOS Virtualisation Special Interest Group ( virt-sig ) is a group of people coming together to promote and use CentOS Linux as a base platform as a suitable platform for various virtualisation efforts. This includes type-1 and type-2 hypervisors like Xen and KVM, containers and containment based technologies like LXC and other system and process level virtualisation technologies in the future.
+* Every two weeks (on even weeks) on Wednesday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #[meeting:fedoraproject.org](https://chat.fedoraproject.org/#/room/#meeting:fedoraproject.org) (#meeting-2 or #meeting-3 will be used if #meeting is already running another meeting)
+* Chair (to contact for more information): Sandro Bonazzola (sbonazzo)
+* [Link to Project Site](https://sig.centos.org/virt/)
+* The CentOS Virtualization Special Interest Group ( virt-sig ) is a group of people coming together to promote and use CentOS Linux as a base platform as a suitable platform for various virtualization efforts. This includes type-1 and type-2 hypervisors like Xen and KVM, containers and containment based technologies like LXC and other system and process level virtualization technologies in the future.
 
 
 
-Page generated on 2023-02-23 03:12:49.180445 UTC
+Page generated on 2024-11-20 20:24:39.807028 UTC

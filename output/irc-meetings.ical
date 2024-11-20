@@ -5,11 +5,11 @@ X-WR-CALDESC:Meeting schedule for the CentOS Project and SIGS
 X-WR-CALNAME:CentOS Meetings
 BEGIN:VEVENT
 SUMMARY:Alternate Images SIG
-DTSTART;VALUE=DATE-TIME:20230223T190000Z
+DTSTART:20241212T190000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20230210T161252Z
-UID:alternateimagessig-20230223
-RRULE:FREQ=WEEKLY;INTERVAL=2
+DTSTAMP:20230727T145547Z
+UID:alternateimagessig-20241212
+RRULE:FREQ=MONTHLY;BYDAY=2TH
 DESCRIPTION:Project:  Alternate Images SIG\nChair:  Troy Dawson (tdawson)\
  nDescription:  The Alternate Images SIG's goal is to build and provide alt
  ernate iso images for CentOS Stream\n\nProject URL:  https://wiki.centos.o
@@ -18,10 +18,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Automotive SIG
-DTSTART;VALUE=DATE-TIME:20230301T140000Z
+DTSTART:20241204T140000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20221123T130408Z
-UID:automotivesig-20230301
+DTSTAMP:20221123T130408Z
+UID:automotivesig-20241204
 RRULE:FREQ=MONTHLY;BYDAY=1WE
 DESCRIPTION:Project:  Automotive SIG\nChair:  Jefro Osier-Mixon (JeffreyOs
  ierMixon)\, acting\nDescription:  The purpose of the Automotive SIG is two
@@ -40,10 +40,10 @@ LOCATION:#google-meet
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Board of Directors
-DTSTART;VALUE=DATE-TIME:20230315T140000Z
+DTSTART:20241120T140000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20210908T105120Z
-UID:boardofdirectors-20230315
+DTSTAMP:20210908T105120Z
+UID:boardofdirectors-20241120
 RRULE:FREQ=MONTHLY;BYDAY=3WE
 DESCRIPTION:Project:  Board of Directors\nChair:  Rich Bowen (rbowen) and 
  Thomas Oulevey (alphacc)\nDescription:  Board of Directors open discussion
@@ -52,67 +52,11 @@ DESCRIPTION:Project:  Board of Directors\nChair:  Rich Bowen (rbowen) and
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CPE Infra and Releng Team stand-up
-DTSTART;VALUE=DATE-TIME:20230227T083000Z
-DURATION:PT30M
-DTSTAMP;VALUE=DATE-TIME:20220327T233956Z
-UID:cpeinfraandrelengteamstand-up-20230227
-RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  CPE Infra and Releng Team stand-up\nChair:  Each CPE
-  team member\, on rotation\nDescription:  Infra and Releng is a sub team o
- f Community Platform Engineering in Red Hat. They maintain and develop app
- lications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/en
- -US/cpe/working_with_us/
-LOCATION:#centos-meeting
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CPE Infra and Releng Team stand-up
-DTSTART;VALUE=DATE-TIME:20230228T083000Z
-DURATION:PT30M
-DTSTAMP;VALUE=DATE-TIME:20220327T233956Z
-UID:cpeinfraandrelengteamstand-up-20230228
-RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  CPE Infra and Releng Team stand-up\nChair:  Each CPE
-  team member\, on rotation\nDescription:  Infra and Releng is a sub team o
- f Community Platform Engineering in Red Hat. They maintain and develop app
- lications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/en
- -US/cpe/working_with_us/
-LOCATION:#centos-meeting
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CPE Infra and Releng Team stand-up
-DTSTART;VALUE=DATE-TIME:20230301T083000Z
-DURATION:PT30M
-DTSTAMP;VALUE=DATE-TIME:20220327T233956Z
-UID:cpeinfraandrelengteamstand-up-20230301
-RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  CPE Infra and Releng Team stand-up\nChair:  Each CPE
-  team member\, on rotation\nDescription:  Infra and Releng is a sub team o
- f Community Platform Engineering in Red Hat. They maintain and develop app
- lications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/en
- -US/cpe/working_with_us/
-LOCATION:#centos-meeting
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CPE Infra and Releng Team stand-up
-DTSTART;VALUE=DATE-TIME:20230223T083000Z
-DURATION:PT30M
-DTSTAMP;VALUE=DATE-TIME:20220327T233956Z
-UID:cpeinfraandrelengteamstand-up-20230223
-RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  CPE Infra and Releng Team stand-up\nChair:  Each CPE
-  team member\, on rotation\nDescription:  Infra and Releng is a sub team o
- f Community Platform Engineering in Red Hat. They maintain and develop app
- lications for CentOS and Fedora\n\nProject URL:  docs.fedoraproject.org/en
- -US/cpe/working_with_us/
-LOCATION:#centos-meeting
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CentOS Stream Office Hours (meet.opensuse\, not IRC)
-DTSTART;VALUE=DATE-TIME:20230308T170000Z
+DTSTART:20241211T170000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20220302T131018Z
-UID:centosstreamofficehours(meet.opensuse\,notirc)-20230308
+DTSTAMP:20220302T131018Z
+UID:centosstreamofficehours(meet.opensuse\,notirc)-20241211
 RRULE:FREQ=MONTHLY;BYDAY=2WE
 DESCRIPTION:Project:  CentOS Stream Office Hours (meet.opensuse\, not IRC)
  \nChair:  Shaun McCance (shaunm)\nDescription:  Monthly CentOS Stream offi
@@ -123,10 +67,10 @@ LOCATION:#google-meet
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud SIG
-DTSTART;VALUE=DATE-TIME:20230309T150000Z
+DTSTART:20241212T150000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20220119T094548Z
-UID:cloudsig-20230309
+DTSTAMP:20220119T094548Z
+UID:cloudsig-20241212
 RRULE:FREQ=MONTHLY;BYDAY=2TH
 DESCRIPTION:Project:  Cloud SIG\nChair:  Alfredo Moralejo Alonso (amoralej
  )\nDescription:  The CentOS Cloud SIG (CCS) is a group of people coming to
@@ -144,10 +88,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hyperscale SIG
-DTSTART;VALUE=DATE-TIME:20230301T160000Z
+DTSTART:20241120T160000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20220921T180840Z
-UID:hyperscalesig-20230301
+DTSTAMP:20220921T180840Z
+UID:hyperscalesig-20241120
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Hyperscale SIG\nChair:  Davide Cavalca (dcavalca) an
  d Neal Gompa (ngompa)\nDescription:  The Hyperscale SIG focuses on enablin
@@ -157,58 +101,64 @@ DESCRIPTION:Project:  Hyperscale SIG\nChair:  Davide Cavalca (dcavalca) an
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hyperscale SIG monthly hangout
-DTSTART;VALUE=DATE-TIME:20230315T220000Z
+SUMMARY:Hyperscale SIG monthly hangout (US daylight saving time)
+DTSTART:20241120T210000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20230214T105943Z
-UID:hyperscalesigmonthlyhangout-20230315
+DTSTAMP:20240717T162212Z
+UID:hyperscalesigmonthlyhangout(usdaylightsavingtime)-20241120
 RRULE:FREQ=MONTHLY;BYDAY=3WE
-DESCRIPTION:Project:  Hyperscale SIG monthly hangout\nChair:  Davide Caval
- ca (dcavalca) and Neal Gompa (ngompa)\nDescription:  Monthly Hyperscale SI
- G hangout (Zoom VC\, not IRC): https://us06web.zoom.us/j/84411093900?pwd=R
- UxKUFAxVlJnQWVMODhobThLU3BHdz09\nThe Hyperscale SIG focuses on enabling Ce
- ntOS Stream deployment on large-scale infrastructures and facilitating col
- laboration on packages and tooling. This is a monthly VC to work together 
- on a common project\, ask questions\, or just hang out. This occurs on the
-  third Wednesday of each month. If Zoom asks for a passcode\, use 550255 (
- the meeting ID is 844 1109 3900).\n\nProject URL:  https://wiki.centos.org
- /SpecialInterestGroup/Hyperscale
+DESCRIPTION:Project:  Hyperscale SIG monthly hangout (US daylight saving t
+ ime)\nChair:  Davide Cavalca (dcavalca) and Neal Gompa (ngompa)\nDescripti
+ on:  Monthly Hyperscale SIG hangout (Zoom VC\, not IRC): https://us06web.z
+ oom.us/j/84411093900?pwd=RUxKUFAxVlJnQWVMODhobThLU3BHdz09\nThe Hyperscale 
+ SIG focuses on enabling CentOS Stream deployment on large-scale infrastruc
+ tures and facilitating collaboration on packages and tooling. This is a mo
+ nthly VC to work together on a common project\, ask questions\, or just ha
+ ng out. This occurs on the third Wednesday of each month. If Zoom asks for
+  a passcode\, use 550255 (the meeting ID is 844 1109 3900).\n\nProject URL
+ :  https://sigs.centos.org/hyperscale/
 LOCATION:#zoom-vc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Infrastructure SIG
-DTSTART;VALUE=DATE-TIME:20230227T140000Z
+SUMMARY:Hyperscale SIG monthly hangout (US standard time)
+DTSTART:20241120T220000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20210719T092451Z
-UID:infrastructuresig-20230227
-RRULE:FREQ=WEEKLY;INTERVAL=2
-DESCRIPTION:Project:  Infrastructure SIG\nChair:  Aoife Moloney (amoloney)
-  or Brian Stinson (bstinson)\nDescription:  The CentOS Infrastructure SIG 
- will provide a working group to manage all\nCentOS infrastructure. It will
-  be responsible for oversight of all\ninfrastructure resources\, and provi
- ding guidelines for who may be granted\nadministrative access to shared se
- rvices.\n\nProject URL:  https://wiki.centos.org/SpecialInterestGroup/Infr
- astructure
-LOCATION:#centos-meeting
+DTSTAMP:20240717T162212Z
+UID:hyperscalesigmonthlyhangout(usstandardtime)-20241120
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+DESCRIPTION:Project:  Hyperscale SIG monthly hangout (US standard time)\nC
+ hair:  Davide Cavalca (dcavalca) and Neal Gompa (ngompa)\nDescription:  Mo
+ nthly Hyperscale SIG hangout (Zoom VC\, not IRC): https://us06web.zoom.us/
+ j/84411093900?pwd=RUxKUFAxVlJnQWVMODhobThLU3BHdz09\nThe Hyperscale SIG foc
+ uses on enabling CentOS Stream deployment on large-scale infrastructures a
+ nd facilitating collaboration on packages and tooling. This is a monthly V
+ C to work together on a common project\, ask questions\, or just hang out.
+  This occurs on the third Wednesday of each month. If Zoom asks for a pass
+ code\, use 550255 (the meeting ID is 844 1109 3900).\n\nProject URL:  http
+ s://sigs.centos.org/hyperscale/
+LOCATION:#zoom-vc
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kmods SIG
-DTSTART;VALUE=DATE-TIME:20230306T160000Z
+SUMMARY:ISA SIG
+DTSTART:20241122T160000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20220307T174012Z
-UID:kmodssig-20230306
-RRULE:FREQ=MONTHLY;BYDAY=1MO
-DESCRIPTION:Project:  Kmods SIG\nChair:  Peter Georg (pjgeorg)\nDescriptio
- n:  The kmods SIG focuses on providing kernel modules currently not availa
- ble in Enterprise Linux.\n\nProject URL:  https://sigs.centos.org/kmods
+DTSTAMP:20230630T174120Z
+UID:isasig-20241122
+RRULE:FREQ=WEEKLY;INTERVAL=2
+DESCRIPTION:Project:  ISA SIG\nChair:  Josh Boyer (jwboyer) and Florian We
+ imer (fweimer)\nDescription:  The ISA SIG explores potential benefits of a
+ pplying existing compiler technology to distribution packages\, targeting 
+ more recent CPUs\, and evaluating different options for how these optimiza
+ tions can be maintained in a scalable way\, and delivered to end users.\n\
+ nProject URL:  https://sigs.centos.org/isa/
 LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NFV SIG
-DTSTART;VALUE=DATE-TIME:20230301T150000Z
+DTSTART:20241204T150000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20210728T173932Z
-UID:nfvsig-20230301
+DTSTAMP:20210728T173932Z
+UID:nfvsig-20241204
 RRULE:FREQ=MONTHLY;BYDAY=1WE
 DESCRIPTION:Project:  NFV SIG\nChair:  Alfredo Moralejo (amoralej)\nDescri
  ption:  The goal of NFV SIG is to provide a set of packages related to vir
@@ -220,10 +170,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software Collections SIG Sync-up
-DTSTART;VALUE=DATE-TIME:20230307T140000Z
+DTSTART:20241126T140000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20200731T142602Z
-UID:softwarecollectionssigsync-up-20230307
+DTSTAMP:20200731T142602Z
+UID:softwarecollectionssigsync-up-20241126
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Software Collections SIG Sync-up\nChair:  Jan Staně
  k (jstanek)\nDescription:  The Software Collections SIG will provide an up
@@ -236,10 +186,10 @@ LOCATION:#centos-meeting
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Storage SIG
-DTSTART;VALUE=DATE-TIME:20230307T100000Z
+DTSTART:20241203T100000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20210706T115543Z
-UID:storagesig-20230307
+DTSTAMP:20210706T115543Z
+UID:storagesig-20241203
 RRULE:FREQ=MONTHLY;BYDAY=1TU
 DESCRIPTION:Project:  Storage SIG\nChair:  Karanbir Singh (kbsingh)\, Niel
  s de Vos (ndevos)\, Giulio Fidente (gfidente)\nDescription:  The CentOS St
@@ -255,19 +205,21 @@ LOCATION:#centos-meeting2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtualization SIG
-DTSTART;VALUE=DATE-TIME:20230308T160000Z
+DTSTART:20241127T160000Z
 DURATION:PT1H
-DTSTAMP;VALUE=DATE-TIME:20200331T170143Z
-UID:virtualizationsig-20230308
+DTSTAMP:20240701T102535Z
+UID:virtualizationsig-20241127
 RRULE:FREQ=WEEKLY;INTERVAL=2
-DESCRIPTION:Project:  Virtualization SIG\nChair:  George Dunlap (gwd)\nDes
- cription:  The CentOS Virtualisation Special Interest Group ( virt-sig ) i
- s a group of people coming together to promote and use CentOS Linux as a b
- ase platform as a suitable platform for various virtualisation efforts. Th
- is includes type-1 and type-2 hypervisors like Xen and KVM\, containers an
- d containment based technologies like LXC and other system and process lev
- el virtualisation technologies in the future.\n\nProject URL:  https://wik
- i.centos.org/SpecialInterestGroup/Virtualization
-LOCATION:#centos-meeting
+DESCRIPTION:Project:  Virtualization SIG\nChair:  Sandro Bonazzola (sbonaz
+ zo)\nDescription:  The CentOS Virtualization Special Interest Group ( virt
+ -sig ) is a group of people coming together to promote and use CentOS Linu
+ x as a base platform as a suitable platform for various virtualization eff
+ orts. This includes type-1 and type-2 hypervisors like Xen and KVM\, conta
+ iners and containment based technologies like LXC and other system and pro
+ cess level virtualization technologies in the future.\n\nProject URL:  htt
+ ps://sig.centos.org/virt/
+LOCATION:#[meeting:fedoraproject.org](https://chat.fedoraproject.org/#/roo
+ m/#meeting:fedoraproject.org) (#meeting-2 or #meeting-3 will be used if #m
+ eeting is already running another meeting)
 END:VEVENT
 END:VCALENDAR
