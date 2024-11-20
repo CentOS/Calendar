@@ -43,7 +43,7 @@ Here is a list of current meetings with their descriptions:
 
 ### Alternate Images SIG
 
-* Every two weeks (on even weeks) on Thursday at [1900 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=19&amp;min=00&amp;sec=0) in #centos-meeting
+* Monthly, in the second week, on Thursday at [1900 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=19&amp;min=00&amp;sec=0) in #centos-meeting
 * Chair (to contact for more information): Troy Dawson (tdawson)
 * [Link to Project Site](https://wiki.centos.org/SpecialInterestGroup/AltImages)
 * The Alternate Images SIG&#39;s goal is to build and provide alternate iso images for CentOS Stream
