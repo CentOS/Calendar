@@ -1,14 +1,15 @@
 ---
 title: "CentOS IRC meetings"
 title_lead: ""
-layout: page
 permalink: /:path/:basename/index.html
 toc: true
 ---
 
 ## Meeting schedule
 
-The IRC meetings schedule is driven by the [github.com/CentOS/Calendar](https://github.com/CentOS/Calendar) repository.  To propose a change or add a meeting, please submit a pull-request to that github repository.  This repository is mirrored to git.centos.org.
+The meetings schedule is driven by the [github.com/CentOS/Calendar](https://github.com/CentOS/Calendar) repository.
+To propose a change or add a meeting, please submit a pull request to that repository.
+This repository is mirrored to git.centos.org.
 
 The calendar is also available as an `.ical` file containing all CentOS IRC meetings, for use in your favorite calendaring app: [iCalendar Meeting Schedule](/community/irc-meetings.ical)
 
@@ -19,8 +20,10 @@ A [list of all meetings](#meeting-list) is available below.
 
 ## Logging
 
-CentOS IRC channels and meetings are often logged using a [https://wiki.centos.org/SIGGuide#SIGGuide.2FSIGProcess.2FDailyWorkings.Meetbot_Commands](meeting bot), for the purpose of taking minutes.
-You can find meeting minutes [here](http://www.centos.org/minutes/).
+Meetings are often logged using the Fedora meeting bot for the purpose of taking minutes.
+
+* View all [meeting minutes](https://meetbot.fedoraproject.org/).
+* Learn how the [Hyperscale SIG uses meetbot](https://sigs.centos.org/hyperscale/communication/meetings/).
 
 ## Meeting List
 
@@ -162,4 +165,4 @@ The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale i
 
 
 
-Page generated on 2024-11-20 20:24:39.807028 UTC
+Page generated on 2024-12-12 15:19:48.680374 UTC
