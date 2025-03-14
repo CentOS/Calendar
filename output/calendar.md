@@ -41,7 +41,6 @@ Here is a list of current meetings with their descriptions:
 * [NFV SIG](#nfv-sig)
 * [Software Collections SIG Sync-up](#software-collections-sig-sync-up)
 * [Storage SIG](#storage-sig)
-* [Virtualization SIG](#virtualization-sig)
 
 ### Alternate Images SIG
 
@@ -156,13 +155,5 @@ The Hyperscale SIG focuses on enabling CentOS Stream deployment on large-scale i
 
 * [Link to Agenda](https://hackmd.io/@qItv4l_CSAOOoigrY3dOGA/rkAGV6Lpr)
 
-### Virtualization SIG
 
-* Every two weeks (on even weeks) on Wednesday at [1600 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?hour=16&amp;min=00&amp;sec=0) in #[meeting:fedoraproject.org](https://chat.fedoraproject.org/#/room/#meeting:fedoraproject.org) (#meeting-2 or #meeting-3 will be used if #meeting is already running another meeting)
-* Chair (to contact for more information): Sandro Bonazzola (sbonazzo)
-* [Link to Project Site](https://sig.centos.org/virt/)
-* The CentOS Virtualization Special Interest Group ( virt-sig ) is a group of people coming together to promote and use CentOS Linux as a base platform as a suitable platform for various virtualization efforts. This includes type-1 and type-2 hypervisors like Xen and KVM, containers and containment based technologies like LXC and other system and process level virtualization technologies in the future.
-
-
-
-Page generated on 2024-12-12 15:19:48.680374 UTC
+Page generated on 2025-02-13 08:54:20.904807 UTC
